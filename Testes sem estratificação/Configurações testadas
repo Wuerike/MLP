@@ -1,0 +1,80 @@
+Teste 1:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.9
+Número de épocas: 500
+
+Teste 2:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.9
+Número de épocas: 500
+
+Teste 3:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 4:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 5:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.3
+Número de épocas: 500
+
+Teste 6:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.9
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 7:
+Neuronios no primeiro layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.3
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 8:
+Neuronios no primeiro layer: 20
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 9:
+Neuronios no primeiro layer: 10
+Neuronios no segundo layer: 10
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 10:
+Neuronios no primeiro layer: 20
+Neuronios no segundo layer: 20
+Neuronios no terceiro layer: 20
+Neuronios no quarto layer: 20
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+Teste 11:
+Neuronios no primeiro layer: 64
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500

@@ -1,0 +1,5898 @@
+Entradas: 64
+Neuronios no primeiro layer: 20
+Neuronios no ultimo layer: 10
+Taxa de aprendizagem: 0.5
+Taxa de momentum: 0.5
+Número de épocas: 500
+
+epoch: 0, error: 188.161
+epoch: 1, error: 175.702
+epoch: 2, error: 174.930
+epoch: 3, error: 174.096
+epoch: 4, error: 173.354
+epoch: 5, error: 172.835
+epoch: 6, error: 172.523
+epoch: 7, error: 172.312
+epoch: 8, error: 172.106
+epoch: 9, error: 171.795
+epoch: 10, error: 171.190
+epoch: 11, error: 169.911
+epoch: 12, error: 167.133
+epoch: 13, error: 162.292
+epoch: 14, error: 156.963
+epoch: 15, error: 150.584
+epoch: 16, error: 140.727
+epoch: 17, error: 130.633
+epoch: 18, error: 122.082
+epoch: 19, error: 114.298
+epoch: 20, error: 107.370
+epoch: 21, error: 101.357
+epoch: 22, error: 95.904
+epoch: 23, error: 90.275
+epoch: 24, error: 83.372
+epoch: 25, error: 75.087
+epoch: 26, error: 66.677
+epoch: 27, error: 59.031
+epoch: 28, error: 52.386
+epoch: 29, error: 46.629
+epoch: 30, error: 41.506
+epoch: 31, error: 36.889
+epoch: 32, error: 32.771
+epoch: 33, error: 29.143
+epoch: 34, error: 25.967
+epoch: 35, error: 23.223
+epoch: 36, error: 20.877
+epoch: 37, error: 18.866
+epoch: 38, error: 17.109
+epoch: 39, error: 15.538
+epoch: 40, error: 14.149
+epoch: 41, error: 12.962
+epoch: 42, error: 11.955
+epoch: 43, error: 11.090
+epoch: 44, error: 10.341
+epoch: 45, error: 9.687
+epoch: 46, error: 9.110
+epoch: 47, error: 8.599
+epoch: 48, error: 8.142
+epoch: 49, error: 7.731
+epoch: 50, error: 7.359
+epoch: 51, error: 7.020
+epoch: 52, error: 6.709
+epoch: 53, error: 6.423
+epoch: 54, error: 6.158
+epoch: 55, error: 5.910
+epoch: 56, error: 5.678
+epoch: 57, error: 5.456
+epoch: 58, error: 5.240
+epoch: 59, error: 5.018
+epoch: 60, error: 4.757
+epoch: 61, error: 4.398
+epoch: 62, error: 4.043
+epoch: 63, error: 3.811
+epoch: 64, error: 3.630
+epoch: 65, error: 3.472
+epoch: 66, error: 3.329
+epoch: 67, error: 3.197
+epoch: 68, error: 3.074
+epoch: 69, error: 2.960
+epoch: 70, error: 2.853
+epoch: 71, error: 2.753
+epoch: 72, error: 2.659
+epoch: 73, error: 2.570
+epoch: 74, error: 2.486
+epoch: 75, error: 2.407
+epoch: 76, error: 2.332
+epoch: 77, error: 2.262
+epoch: 78, error: 2.194
+epoch: 79, error: 2.130
+epoch: 80, error: 2.070
+epoch: 81, error: 2.012
+epoch: 82, error: 1.957
+epoch: 83, error: 1.904
+epoch: 84, error: 1.854
+epoch: 85, error: 1.806
+epoch: 86, error: 1.760
+epoch: 87, error: 1.716
+epoch: 88, error: 1.673
+epoch: 89, error: 1.633
+epoch: 90, error: 1.594
+epoch: 91, error: 1.557
+epoch: 92, error: 1.521
+epoch: 93, error: 1.487
+epoch: 94, error: 1.454
+epoch: 95, error: 1.422
+epoch: 96, error: 1.391
+epoch: 97, error: 1.362
+epoch: 98, error: 1.333
+epoch: 99, error: 1.306
+epoch: 100, error: 1.279
+epoch: 101, error: 1.254
+epoch: 102, error: 1.229
+epoch: 103, error: 1.205
+epoch: 104, error: 1.182
+epoch: 105, error: 1.160
+epoch: 106, error: 1.139
+epoch: 107, error: 1.118
+epoch: 108, error: 1.098
+epoch: 109, error: 1.079
+epoch: 110, error: 1.060
+epoch: 111, error: 1.042
+epoch: 112, error: 1.024
+epoch: 113, error: 1.007
+epoch: 114, error: 0.990
+epoch: 115, error: 0.974
+epoch: 116, error: 0.958
+epoch: 117, error: 0.943
+epoch: 118, error: 0.929
+epoch: 119, error: 0.914
+epoch: 120, error: 0.900
+epoch: 121, error: 0.887
+epoch: 122, error: 0.874
+epoch: 123, error: 0.861
+epoch: 124, error: 0.848
+epoch: 125, error: 0.836
+epoch: 126, error: 0.824
+epoch: 127, error: 0.813
+epoch: 128, error: 0.802
+epoch: 129, error: 0.791
+epoch: 130, error: 0.780
+epoch: 131, error: 0.770
+epoch: 132, error: 0.760
+epoch: 133, error: 0.750
+epoch: 134, error: 0.740
+epoch: 135, error: 0.731
+epoch: 136, error: 0.721
+epoch: 137, error: 0.712
+epoch: 138, error: 0.704
+epoch: 139, error: 0.695
+epoch: 140, error: 0.687
+epoch: 141, error: 0.678
+epoch: 142, error: 0.670
+epoch: 143, error: 0.663
+epoch: 144, error: 0.655
+epoch: 145, error: 0.647
+epoch: 146, error: 0.640
+epoch: 147, error: 0.633
+epoch: 148, error: 0.626
+epoch: 149, error: 0.619
+epoch: 150, error: 0.612
+epoch: 151, error: 0.605
+epoch: 152, error: 0.599
+epoch: 153, error: 0.593
+epoch: 154, error: 0.586
+epoch: 155, error: 0.580
+epoch: 156, error: 0.574
+epoch: 157, error: 0.568
+epoch: 158, error: 0.563
+epoch: 159, error: 0.557
+epoch: 160, error: 0.551
+epoch: 161, error: 0.546
+epoch: 162, error: 0.541
+epoch: 163, error: 0.535
+epoch: 164, error: 0.530
+epoch: 165, error: 0.525
+epoch: 166, error: 0.520
+epoch: 167, error: 0.515
+epoch: 168, error: 0.510
+epoch: 169, error: 0.506
+epoch: 170, error: 0.501
+epoch: 171, error: 0.496
+epoch: 172, error: 0.492
+epoch: 173, error: 0.488
+epoch: 174, error: 0.483
+epoch: 175, error: 0.479
+epoch: 176, error: 0.475
+epoch: 177, error: 0.471
+epoch: 178, error: 0.467
+epoch: 179, error: 0.463
+epoch: 180, error: 0.459
+epoch: 181, error: 0.455
+epoch: 182, error: 0.451
+epoch: 183, error: 0.447
+epoch: 184, error: 0.443
+epoch: 185, error: 0.440
+epoch: 186, error: 0.436
+epoch: 187, error: 0.433
+epoch: 188, error: 0.429
+epoch: 189, error: 0.426
+epoch: 190, error: 0.423
+epoch: 191, error: 0.419
+epoch: 192, error: 0.416
+epoch: 193, error: 0.413
+epoch: 194, error: 0.410
+epoch: 195, error: 0.406
+epoch: 196, error: 0.403
+epoch: 197, error: 0.400
+epoch: 198, error: 0.397
+epoch: 199, error: 0.394
+epoch: 200, error: 0.391
+epoch: 201, error: 0.389
+epoch: 202, error: 0.386
+epoch: 203, error: 0.383
+epoch: 204, error: 0.380
+epoch: 205, error: 0.377
+epoch: 206, error: 0.375
+epoch: 207, error: 0.372
+epoch: 208, error: 0.369
+epoch: 209, error: 0.367
+epoch: 210, error: 0.364
+epoch: 211, error: 0.362
+epoch: 212, error: 0.359
+epoch: 213, error: 0.357
+epoch: 214, error: 0.355
+epoch: 215, error: 0.352
+epoch: 216, error: 0.350
+epoch: 217, error: 0.347
+epoch: 218, error: 0.345
+epoch: 219, error: 0.343
+epoch: 220, error: 0.341
+epoch: 221, error: 0.338
+epoch: 222, error: 0.336
+epoch: 223, error: 0.334
+epoch: 224, error: 0.332
+epoch: 225, error: 0.330
+epoch: 226, error: 0.328
+epoch: 227, error: 0.326
+epoch: 228, error: 0.324
+epoch: 229, error: 0.322
+epoch: 230, error: 0.320
+epoch: 231, error: 0.318
+epoch: 232, error: 0.316
+epoch: 233, error: 0.314
+epoch: 234, error: 0.312
+epoch: 235, error: 0.310
+epoch: 236, error: 0.308
+epoch: 237, error: 0.306
+epoch: 238, error: 0.305
+epoch: 239, error: 0.303
+epoch: 240, error: 0.301
+epoch: 241, error: 0.299
+epoch: 242, error: 0.298
+epoch: 243, error: 0.296
+epoch: 244, error: 0.294
+epoch: 245, error: 0.292
+epoch: 246, error: 0.291
+epoch: 247, error: 0.289
+epoch: 248, error: 0.288
+epoch: 249, error: 0.286
+epoch: 250, error: 0.284
+epoch: 251, error: 0.283
+epoch: 252, error: 0.281
+epoch: 253, error: 0.280
+epoch: 254, error: 0.278
+epoch: 255, error: 0.277
+epoch: 256, error: 0.275
+epoch: 257, error: 0.274
+epoch: 258, error: 0.272
+epoch: 259, error: 0.271
+epoch: 260, error: 0.269
+epoch: 261, error: 0.268
+epoch: 262, error: 0.267
+epoch: 263, error: 0.265
+epoch: 264, error: 0.264
+epoch: 265, error: 0.262
+epoch: 266, error: 0.261
+epoch: 267, error: 0.260
+epoch: 268, error: 0.258
+epoch: 269, error: 0.257
+epoch: 270, error: 0.256
+epoch: 271, error: 0.254
+epoch: 272, error: 0.253
+epoch: 273, error: 0.252
+epoch: 274, error: 0.251
+epoch: 275, error: 0.249
+epoch: 276, error: 0.248
+epoch: 277, error: 0.247
+epoch: 278, error: 0.246
+epoch: 279, error: 0.245
+epoch: 280, error: 0.243
+epoch: 281, error: 0.242
+epoch: 282, error: 0.241
+epoch: 283, error: 0.240
+epoch: 284, error: 0.239
+epoch: 285, error: 0.238
+epoch: 286, error: 0.237
+epoch: 287, error: 0.235
+epoch: 288, error: 0.234
+epoch: 289, error: 0.233
+epoch: 290, error: 0.232
+epoch: 291, error: 0.231
+epoch: 292, error: 0.230
+epoch: 293, error: 0.229
+epoch: 294, error: 0.228
+epoch: 295, error: 0.227
+epoch: 296, error: 0.226
+epoch: 297, error: 0.225
+epoch: 298, error: 0.224
+epoch: 299, error: 0.223
+epoch: 300, error: 0.222
+epoch: 301, error: 0.221
+epoch: 302, error: 0.220
+epoch: 303, error: 0.219
+epoch: 304, error: 0.218
+epoch: 305, error: 0.217
+epoch: 306, error: 0.216
+epoch: 307, error: 0.215
+epoch: 308, error: 0.214
+epoch: 309, error: 0.213
+epoch: 310, error: 0.212
+epoch: 311, error: 0.211
+epoch: 312, error: 0.211
+epoch: 313, error: 0.210
+epoch: 314, error: 0.209
+epoch: 315, error: 0.208
+epoch: 316, error: 0.207
+epoch: 317, error: 0.206
+epoch: 318, error: 0.205
+epoch: 319, error: 0.204
+epoch: 320, error: 0.204
+epoch: 321, error: 0.203
+epoch: 322, error: 0.202
+epoch: 323, error: 0.201
+epoch: 324, error: 0.200
+epoch: 325, error: 0.200
+epoch: 326, error: 0.199
+epoch: 327, error: 0.198
+epoch: 328, error: 0.197
+epoch: 329, error: 0.196
+epoch: 330, error: 0.196
+epoch: 331, error: 0.195
+epoch: 332, error: 0.194
+epoch: 333, error: 0.193
+epoch: 334, error: 0.192
+epoch: 335, error: 0.192
+epoch: 336, error: 0.191
+epoch: 337, error: 0.190
+epoch: 338, error: 0.190
+epoch: 339, error: 0.189
+epoch: 340, error: 0.188
+epoch: 341, error: 0.187
+epoch: 342, error: 0.187
+epoch: 343, error: 0.186
+epoch: 344, error: 0.185
+epoch: 345, error: 0.185
+epoch: 346, error: 0.184
+epoch: 347, error: 0.183
+epoch: 348, error: 0.182
+epoch: 349, error: 0.182
+epoch: 350, error: 0.181
+epoch: 351, error: 0.180
+epoch: 352, error: 0.180
+epoch: 353, error: 0.179
+epoch: 354, error: 0.178
+epoch: 355, error: 0.178
+epoch: 356, error: 0.177
+epoch: 357, error: 0.177
+epoch: 358, error: 0.176
+epoch: 359, error: 0.175
+epoch: 360, error: 0.175
+epoch: 361, error: 0.174
+epoch: 362, error: 0.173
+epoch: 363, error: 0.173
+epoch: 364, error: 0.172
+epoch: 365, error: 0.172
+epoch: 366, error: 0.171
+epoch: 367, error: 0.170
+epoch: 368, error: 0.170
+epoch: 369, error: 0.169
+epoch: 370, error: 0.169
+epoch: 371, error: 0.168
+epoch: 372, error: 0.167
+epoch: 373, error: 0.167
+epoch: 374, error: 0.166
+epoch: 375, error: 0.166
+epoch: 376, error: 0.165
+epoch: 377, error: 0.165
+epoch: 378, error: 0.164
+epoch: 379, error: 0.163
+epoch: 380, error: 0.163
+epoch: 381, error: 0.162
+epoch: 382, error: 0.162
+epoch: 383, error: 0.161
+epoch: 384, error: 0.161
+epoch: 385, error: 0.160
+epoch: 386, error: 0.160
+epoch: 387, error: 0.159
+epoch: 388, error: 0.159
+epoch: 389, error: 0.158
+epoch: 390, error: 0.158
+epoch: 391, error: 0.157
+epoch: 392, error: 0.157
+epoch: 393, error: 0.156
+epoch: 394, error: 0.156
+epoch: 395, error: 0.155
+epoch: 396, error: 0.155
+epoch: 397, error: 0.154
+epoch: 398, error: 0.154
+epoch: 399, error: 0.153
+epoch: 400, error: 0.153
+epoch: 401, error: 0.152
+epoch: 402, error: 0.152
+epoch: 403, error: 0.151
+epoch: 404, error: 0.151
+epoch: 405, error: 0.150
+epoch: 406, error: 0.150
+epoch: 407, error: 0.149
+epoch: 408, error: 0.149
+epoch: 409, error: 0.148
+epoch: 410, error: 0.148
+epoch: 411, error: 0.147
+epoch: 412, error: 0.147
+epoch: 413, error: 0.147
+epoch: 414, error: 0.146
+epoch: 415, error: 0.146
+epoch: 416, error: 0.145
+epoch: 417, error: 0.145
+epoch: 418, error: 0.144
+epoch: 419, error: 0.144
+epoch: 420, error: 0.143
+epoch: 421, error: 0.143
+epoch: 422, error: 0.143
+epoch: 423, error: 0.142
+epoch: 424, error: 0.142
+epoch: 425, error: 0.141
+epoch: 426, error: 0.141
+epoch: 427, error: 0.141
+epoch: 428, error: 0.140
+epoch: 429, error: 0.140
+epoch: 430, error: 0.139
+epoch: 431, error: 0.139
+epoch: 432, error: 0.138
+epoch: 433, error: 0.138
+epoch: 434, error: 0.138
+epoch: 435, error: 0.137
+epoch: 436, error: 0.137
+epoch: 437, error: 0.136
+epoch: 438, error: 0.136
+epoch: 439, error: 0.136
+epoch: 440, error: 0.135
+epoch: 441, error: 0.135
+epoch: 442, error: 0.135
+epoch: 443, error: 0.134
+epoch: 444, error: 0.134
+epoch: 445, error: 0.133
+epoch: 446, error: 0.133
+epoch: 447, error: 0.133
+epoch: 448, error: 0.132
+epoch: 449, error: 0.132
+epoch: 450, error: 0.132
+epoch: 451, error: 0.131
+epoch: 452, error: 0.131
+epoch: 453, error: 0.130
+epoch: 454, error: 0.130
+epoch: 455, error: 0.130
+epoch: 456, error: 0.129
+epoch: 457, error: 0.129
+epoch: 458, error: 0.129
+epoch: 459, error: 0.128
+epoch: 460, error: 0.128
+epoch: 461, error: 0.128
+epoch: 462, error: 0.127
+epoch: 463, error: 0.127
+epoch: 464, error: 0.127
+epoch: 465, error: 0.126
+epoch: 466, error: 0.126
+epoch: 467, error: 0.126
+epoch: 468, error: 0.125
+epoch: 469, error: 0.125
+epoch: 470, error: 0.125
+epoch: 471, error: 0.124
+epoch: 472, error: 0.124
+epoch: 473, error: 0.124
+epoch: 474, error: 0.123
+epoch: 475, error: 0.123
+epoch: 476, error: 0.123
+epoch: 477, error: 0.122
+epoch: 478, error: 0.122
+epoch: 479, error: 0.122
+epoch: 480, error: 0.121
+epoch: 481, error: 0.121
+epoch: 482, error: 0.121
+epoch: 483, error: 0.120
+epoch: 484, error: 0.120
+epoch: 485, error: 0.120
+epoch: 486, error: 0.120
+epoch: 487, error: 0.119
+epoch: 488, error: 0.119
+epoch: 489, error: 0.119
+epoch: 490, error: 0.118
+epoch: 491, error: 0.118
+epoch: 492, error: 0.118
+epoch: 493, error: 0.117
+epoch: 494, error: 0.117
+epoch: 495, error: 0.117
+epoch: 496, error: 0.117
+epoch: 497, error: 0.116
+epoch: 498, error: 0.116
+epoch: 499, error: 0.116
+--------------
+Layer:  0
+Weights: 
+[[ 0.14761751  1.03599481  0.82074055 ... -0.89024892 -0.41344592
+   0.28244163]
+ [ 0.65631325 -1.52944726 -1.44059345 ...  0.44087996  1.45615041
+   1.03734214]
+ [ 0.08586054 -0.93287742 -1.70565365 ...  0.22189612 -0.39546913
+  -0.24154424]
+ ...
+ [-0.0514884   0.01199491 -0.04459702 ...  0.21760576 -0.02773673
+  -0.06635235]
+ [-0.05148915  0.0120284  -0.04454739 ...  0.21758092 -0.02775951
+  -0.0663593 ]
+ [-0.05148921  0.01203124 -0.04454319 ...  0.21757879 -0.02776156
+  -0.06635994]]
+--------------
+Layer:  1
+Weights: 
+[[-0.37528618  1.66785872  4.09513784 -5.62148859 -4.75537535 -1.92926143
+  -1.86593535  0.79128513  3.77912517  2.60230757  0.32196944 -0.71126077
+  -0.93178493 -0.88798556 -0.82156338 -0.79163253 -0.78493861 -0.7839675
+  -0.78386028 -0.78385041]
+ [-5.96602885 -4.65110357 -1.79863716 -1.55926773  0.80944209  2.39216991
+   3.09739245  3.11838087  3.36420818  2.78342113  1.72678809  1.09799381
+   0.90531823  0.82378109  0.77024232  0.7526677   0.74923295  0.74875171
+   0.74870056  0.74869605]
+ [-1.73030712  6.01303108 -2.84531692 -5.68486148 -2.04487542 -0.95146466
+   0.04644553 -0.59714899 -2.24617054 -1.14908983  2.08237475  3.18421172
+   2.06617431  0.87105457  0.38082337  0.27514522  0.25879535  0.25673071
+   0.256509    0.25648846]
+ [ 4.58490055  2.92045031 -7.68036266 -4.76788004 -0.60300577 -1.11362114
+  -2.56964353 -2.93751394 -1.62749763 -0.2987594  -1.22245404 -1.87639524
+  -1.88428295 -1.9066558  -1.91621296 -1.91415758 -1.91324734 -1.91309495
+  -1.91307762 -1.91307602]
+ [-4.63212445 -2.45166762  1.4095164   0.72945405  5.26287638  3.30535432
+  -1.32417782 -2.01269685 -1.19167672 -0.94049281 -1.16810647 -1.30516346
+  -1.31340808 -1.32283878 -1.346487   -1.36038204 -1.36402275 -1.36456254
+  -1.36462112 -1.3646264 ]
+ [ 1.39352426 -5.3953983  -4.94590152 -1.36389879 -1.75368451 -0.8037221
+   4.12626643  4.83632082  1.09668383 -1.23367177 -1.43508047 -1.33889838
+  -1.33579644 -1.36097577 -1.38886556 -1.39940292 -1.40175054 -1.4020923
+  -1.40213015 -1.40213366]
+ [-2.22232039  5.25958174  2.93172369 -2.28176156 -2.11690708  4.38321848
+   5.48577801  1.67488901 -1.07324541 -1.42478111 -0.9912152  -0.87424795
+  -1.10041348 -1.3060397  -1.38594626 -1.40823215 -1.41279825 -1.41344898
+  -1.41352027 -1.41352681]
+ [ 0.36054649 -6.89207487 -6.9762156  -5.59758098 -3.06457172 -1.89631479
+  -2.22124102 -2.55910397 -1.89798662 -1.98830093 -1.98338706 -1.29841522
+  -0.36205726  0.48141157  0.85787259  0.93272386  0.94240298  0.94352466
+   0.94364253  0.94365341]
+ [ 1.2380412   5.47052608  5.3124611   0.6529523  -2.08112548 -2.91451359
+  -3.67573142 -3.91542795 -3.49149323 -3.59277726 -2.59723683 -1.94178661
+  -1.97435636 -2.09162351 -2.17736484 -2.21149279 -2.21894923 -2.22001599
+  -2.22013345 -2.2201443 ]
+ [-4.57652436 -5.19799748 -0.17317407  2.69957011 -5.3346486  -5.64826504
+  -2.83136223 -2.09856313 -1.4747065  -1.22427541 -0.98490451 -0.8473674
+  -0.90396937 -0.94339966 -0.91818387 -0.89444354 -0.88802323 -0.88703815
+  -0.88692733 -0.886917  ]]
+--------------
+Expected: 6, Got: 6
+Expected: 5, Got: 5
+Expected: 2, Got: 2
+Expected: 1, Got: 1
+Expected: 3, Got: 7
+Expected: 3, Got: 3
+Expected: 0, Got: 6
+Expected: 9, Got: 9
+Expected: 6, Got: 6
+Expected: 5, Got: 5
+Expected: 6, Got: 6
+Expected: 7, Got: 1
+Expected: 3, Got: 7
+Expected: 8, Got: 8
+Expected: 7, Got: 7
+Expected: 1, Got: 1
+Expected: 3, Got: 7
+Expected: 3, Got: 3
+Expected: 3, Got: 3
+Expected: 6, Got: 6
+Expected: 3, Got: 3
+Accuracy:  0.7619047619047619
+
+################################################
+
+epoch: 0, error: 188.239
+epoch: 1, error: 175.588
+epoch: 2, error: 174.754
+epoch: 3, error: 173.787
+epoch: 4, error: 172.960
+epoch: 5, error: 172.507
+epoch: 6, error: 172.306
+epoch: 7, error: 172.167
+epoch: 8, error: 171.968
+epoch: 9, error: 171.569
+epoch: 10, error: 170.750
+epoch: 11, error: 169.201
+epoch: 12, error: 166.631
+epoch: 13, error: 162.999
+epoch: 14, error: 158.760
+epoch: 15, error: 154.562
+epoch: 16, error: 149.507
+epoch: 17, error: 143.221
+epoch: 18, error: 135.488
+epoch: 19, error: 125.795
+epoch: 20, error: 115.461
+epoch: 21, error: 105.779
+epoch: 22, error: 95.933
+epoch: 23, error: 86.491
+epoch: 24, error: 78.416
+epoch: 25, error: 71.425
+epoch: 26, error: 65.186
+epoch: 27, error: 59.476
+epoch: 28, error: 54.059
+epoch: 29, error: 48.973
+epoch: 30, error: 44.375
+epoch: 31, error: 40.272
+epoch: 32, error: 36.585
+epoch: 33, error: 33.282
+epoch: 34, error: 30.412
+epoch: 35, error: 27.989
+epoch: 36, error: 25.925
+epoch: 37, error: 24.092
+epoch: 38, error: 22.432
+epoch: 39, error: 20.991
+epoch: 40, error: 19.681
+epoch: 41, error: 18.355
+epoch: 42, error: 17.067
+epoch: 43, error: 15.878
+epoch: 44, error: 14.814
+epoch: 45, error: 13.847
+epoch: 46, error: 12.889
+epoch: 47, error: 11.766
+epoch: 48, error: 10.551
+epoch: 49, error: 9.396
+epoch: 50, error: 8.524
+epoch: 51, error: 7.806
+epoch: 52, error: 7.127
+epoch: 53, error: 6.545
+epoch: 54, error: 6.056
+epoch: 55, error: 5.630
+epoch: 56, error: 5.253
+epoch: 57, error: 4.917
+epoch: 58, error: 4.619
+epoch: 59, error: 4.352
+epoch: 60, error: 4.115
+epoch: 61, error: 3.901
+epoch: 62, error: 3.708
+epoch: 63, error: 3.533
+epoch: 64, error: 3.374
+epoch: 65, error: 3.228
+epoch: 66, error: 3.095
+epoch: 67, error: 2.971
+epoch: 68, error: 2.857
+epoch: 69, error: 2.751
+epoch: 70, error: 2.653
+epoch: 71, error: 2.561
+epoch: 72, error: 2.475
+epoch: 73, error: 2.394
+epoch: 74, error: 2.319
+epoch: 75, error: 2.247
+epoch: 76, error: 2.180
+epoch: 77, error: 2.116
+epoch: 78, error: 2.056
+epoch: 79, error: 1.999
+epoch: 80, error: 1.945
+epoch: 81, error: 1.894
+epoch: 82, error: 1.845
+epoch: 83, error: 1.799
+epoch: 84, error: 1.755
+epoch: 85, error: 1.712
+epoch: 86, error: 1.672
+epoch: 87, error: 1.633
+epoch: 88, error: 1.596
+epoch: 89, error: 1.561
+epoch: 90, error: 1.527
+epoch: 91, error: 1.494
+epoch: 92, error: 1.463
+epoch: 93, error: 1.432
+epoch: 94, error: 1.403
+epoch: 95, error: 1.376
+epoch: 96, error: 1.349
+epoch: 97, error: 1.323
+epoch: 98, error: 1.298
+epoch: 99, error: 1.274
+epoch: 100, error: 1.250
+epoch: 101, error: 1.228
+epoch: 102, error: 1.206
+epoch: 103, error: 1.185
+epoch: 104, error: 1.165
+epoch: 105, error: 1.145
+epoch: 106, error: 1.126
+epoch: 107, error: 1.108
+epoch: 108, error: 1.090
+epoch: 109, error: 1.072
+epoch: 110, error: 1.055
+epoch: 111, error: 1.039
+epoch: 112, error: 1.023
+epoch: 113, error: 1.008
+epoch: 114, error: 0.993
+epoch: 115, error: 0.978
+epoch: 116, error: 0.964
+epoch: 117, error: 0.950
+epoch: 118, error: 0.937
+epoch: 119, error: 0.924
+epoch: 120, error: 0.911
+epoch: 121, error: 0.898
+epoch: 122, error: 0.886
+epoch: 123, error: 0.875
+epoch: 124, error: 0.863
+epoch: 125, error: 0.852
+epoch: 126, error: 0.841
+epoch: 127, error: 0.830
+epoch: 128, error: 0.820
+epoch: 129, error: 0.810
+epoch: 130, error: 0.800
+epoch: 131, error: 0.790
+epoch: 132, error: 0.780
+epoch: 133, error: 0.771
+epoch: 134, error: 0.762
+epoch: 135, error: 0.753
+epoch: 136, error: 0.745
+epoch: 137, error: 0.736
+epoch: 138, error: 0.728
+epoch: 139, error: 0.720
+epoch: 140, error: 0.712
+epoch: 141, error: 0.704
+epoch: 142, error: 0.696
+epoch: 143, error: 0.689
+epoch: 144, error: 0.682
+epoch: 145, error: 0.674
+epoch: 146, error: 0.667
+epoch: 147, error: 0.660
+epoch: 148, error: 0.654
+epoch: 149, error: 0.647
+epoch: 150, error: 0.641
+epoch: 151, error: 0.634
+epoch: 152, error: 0.628
+epoch: 153, error: 0.622
+epoch: 154, error: 0.616
+epoch: 155, error: 0.610
+epoch: 156, error: 0.604
+epoch: 157, error: 0.598
+epoch: 158, error: 0.593
+epoch: 159, error: 0.587
+epoch: 160, error: 0.582
+epoch: 161, error: 0.576
+epoch: 162, error: 0.571
+epoch: 163, error: 0.566
+epoch: 164, error: 0.561
+epoch: 165, error: 0.556
+epoch: 166, error: 0.551
+epoch: 167, error: 0.546
+epoch: 168, error: 0.542
+epoch: 169, error: 0.537
+epoch: 170, error: 0.532
+epoch: 171, error: 0.528
+epoch: 172, error: 0.523
+epoch: 173, error: 0.519
+epoch: 174, error: 0.515
+epoch: 175, error: 0.511
+epoch: 176, error: 0.506
+epoch: 177, error: 0.502
+epoch: 178, error: 0.498
+epoch: 179, error: 0.494
+epoch: 180, error: 0.490
+epoch: 181, error: 0.487
+epoch: 182, error: 0.483
+epoch: 183, error: 0.479
+epoch: 184, error: 0.475
+epoch: 185, error: 0.472
+epoch: 186, error: 0.468
+epoch: 187, error: 0.465
+epoch: 188, error: 0.461
+epoch: 189, error: 0.458
+epoch: 190, error: 0.454
+epoch: 191, error: 0.451
+epoch: 192, error: 0.448
+epoch: 193, error: 0.445
+epoch: 194, error: 0.441
+epoch: 195, error: 0.438
+epoch: 196, error: 0.435
+epoch: 197, error: 0.432
+epoch: 198, error: 0.429
+epoch: 199, error: 0.426
+epoch: 200, error: 0.423
+epoch: 201, error: 0.420
+epoch: 202, error: 0.417
+epoch: 203, error: 0.414
+epoch: 204, error: 0.412
+epoch: 205, error: 0.409
+epoch: 206, error: 0.406
+epoch: 207, error: 0.403
+epoch: 208, error: 0.401
+epoch: 209, error: 0.398
+epoch: 210, error: 0.395
+epoch: 211, error: 0.393
+epoch: 212, error: 0.390
+epoch: 213, error: 0.388
+epoch: 214, error: 0.385
+epoch: 215, error: 0.383
+epoch: 216, error: 0.381
+epoch: 217, error: 0.378
+epoch: 218, error: 0.376
+epoch: 219, error: 0.373
+epoch: 220, error: 0.371
+epoch: 221, error: 0.369
+epoch: 222, error: 0.367
+epoch: 223, error: 0.364
+epoch: 224, error: 0.362
+epoch: 225, error: 0.360
+epoch: 226, error: 0.358
+epoch: 227, error: 0.356
+epoch: 228, error: 0.354
+epoch: 229, error: 0.352
+epoch: 230, error: 0.349
+epoch: 231, error: 0.347
+epoch: 232, error: 0.345
+epoch: 233, error: 0.343
+epoch: 234, error: 0.341
+epoch: 235, error: 0.340
+epoch: 236, error: 0.338
+epoch: 237, error: 0.336
+epoch: 238, error: 0.334
+epoch: 239, error: 0.332
+epoch: 240, error: 0.330
+epoch: 241, error: 0.328
+epoch: 242, error: 0.326
+epoch: 243, error: 0.325
+epoch: 244, error: 0.323
+epoch: 245, error: 0.321
+epoch: 246, error: 0.319
+epoch: 247, error: 0.318
+epoch: 248, error: 0.316
+epoch: 249, error: 0.314
+epoch: 250, error: 0.313
+epoch: 251, error: 0.311
+epoch: 252, error: 0.309
+epoch: 253, error: 0.308
+epoch: 254, error: 0.306
+epoch: 255, error: 0.305
+epoch: 256, error: 0.303
+epoch: 257, error: 0.301
+epoch: 258, error: 0.300
+epoch: 259, error: 0.298
+epoch: 260, error: 0.297
+epoch: 261, error: 0.295
+epoch: 262, error: 0.294
+epoch: 263, error: 0.292
+epoch: 264, error: 0.291
+epoch: 265, error: 0.289
+epoch: 266, error: 0.288
+epoch: 267, error: 0.287
+epoch: 268, error: 0.285
+epoch: 269, error: 0.284
+epoch: 270, error: 0.282
+epoch: 271, error: 0.281
+epoch: 272, error: 0.280
+epoch: 273, error: 0.278
+epoch: 274, error: 0.277
+epoch: 275, error: 0.276
+epoch: 276, error: 0.274
+epoch: 277, error: 0.273
+epoch: 278, error: 0.272
+epoch: 279, error: 0.271
+epoch: 280, error: 0.269
+epoch: 281, error: 0.268
+epoch: 282, error: 0.267
+epoch: 283, error: 0.266
+epoch: 284, error: 0.264
+epoch: 285, error: 0.263
+epoch: 286, error: 0.262
+epoch: 287, error: 0.261
+epoch: 288, error: 0.260
+epoch: 289, error: 0.259
+epoch: 290, error: 0.257
+epoch: 291, error: 0.256
+epoch: 292, error: 0.255
+epoch: 293, error: 0.254
+epoch: 294, error: 0.253
+epoch: 295, error: 0.252
+epoch: 296, error: 0.251
+epoch: 297, error: 0.250
+epoch: 298, error: 0.249
+epoch: 299, error: 0.247
+epoch: 300, error: 0.246
+epoch: 301, error: 0.245
+epoch: 302, error: 0.244
+epoch: 303, error: 0.243
+epoch: 304, error: 0.242
+epoch: 305, error: 0.241
+epoch: 306, error: 0.240
+epoch: 307, error: 0.239
+epoch: 308, error: 0.238
+epoch: 309, error: 0.237
+epoch: 310, error: 0.236
+epoch: 311, error: 0.235
+epoch: 312, error: 0.234
+epoch: 313, error: 0.233
+epoch: 314, error: 0.232
+epoch: 315, error: 0.231
+epoch: 316, error: 0.231
+epoch: 317, error: 0.230
+epoch: 318, error: 0.229
+epoch: 319, error: 0.228
+epoch: 320, error: 0.227
+epoch: 321, error: 0.226
+epoch: 322, error: 0.225
+epoch: 323, error: 0.224
+epoch: 324, error: 0.223
+epoch: 325, error: 0.222
+epoch: 326, error: 0.222
+epoch: 327, error: 0.221
+epoch: 328, error: 0.220
+epoch: 329, error: 0.219
+epoch: 330, error: 0.218
+epoch: 331, error: 0.217
+epoch: 332, error: 0.217
+epoch: 333, error: 0.216
+epoch: 334, error: 0.215
+epoch: 335, error: 0.214
+epoch: 336, error: 0.213
+epoch: 337, error: 0.212
+epoch: 338, error: 0.212
+epoch: 339, error: 0.211
+epoch: 340, error: 0.210
+epoch: 341, error: 0.209
+epoch: 342, error: 0.209
+epoch: 343, error: 0.208
+epoch: 344, error: 0.207
+epoch: 345, error: 0.206
+epoch: 346, error: 0.206
+epoch: 347, error: 0.205
+epoch: 348, error: 0.204
+epoch: 349, error: 0.203
+epoch: 350, error: 0.203
+epoch: 351, error: 0.202
+epoch: 352, error: 0.201
+epoch: 353, error: 0.200
+epoch: 354, error: 0.200
+epoch: 355, error: 0.199
+epoch: 356, error: 0.198
+epoch: 357, error: 0.198
+epoch: 358, error: 0.197
+epoch: 359, error: 0.196
+epoch: 360, error: 0.196
+epoch: 361, error: 0.195
+epoch: 362, error: 0.194
+epoch: 363, error: 0.194
+epoch: 364, error: 0.193
+epoch: 365, error: 0.192
+epoch: 366, error: 0.192
+epoch: 367, error: 0.191
+epoch: 368, error: 0.190
+epoch: 369, error: 0.190
+epoch: 370, error: 0.189
+epoch: 371, error: 0.188
+epoch: 372, error: 0.188
+epoch: 373, error: 0.187
+epoch: 374, error: 0.186
+epoch: 375, error: 0.186
+epoch: 376, error: 0.185
+epoch: 377, error: 0.185
+epoch: 378, error: 0.184
+epoch: 379, error: 0.183
+epoch: 380, error: 0.183
+epoch: 381, error: 0.182
+epoch: 382, error: 0.182
+epoch: 383, error: 0.181
+epoch: 384, error: 0.180
+epoch: 385, error: 0.180
+epoch: 386, error: 0.179
+epoch: 387, error: 0.179
+epoch: 388, error: 0.178
+epoch: 389, error: 0.178
+epoch: 390, error: 0.177
+epoch: 391, error: 0.176
+epoch: 392, error: 0.176
+epoch: 393, error: 0.175
+epoch: 394, error: 0.175
+epoch: 395, error: 0.174
+epoch: 396, error: 0.174
+epoch: 397, error: 0.173
+epoch: 398, error: 0.173
+epoch: 399, error: 0.172
+epoch: 400, error: 0.172
+epoch: 401, error: 0.171
+epoch: 402, error: 0.171
+epoch: 403, error: 0.170
+epoch: 404, error: 0.170
+epoch: 405, error: 0.169
+epoch: 406, error: 0.168
+epoch: 407, error: 0.168
+epoch: 408, error: 0.167
+epoch: 409, error: 0.167
+epoch: 410, error: 0.166
+epoch: 411, error: 0.166
+epoch: 412, error: 0.165
+epoch: 413, error: 0.165
+epoch: 414, error: 0.164
+epoch: 415, error: 0.164
+epoch: 416, error: 0.164
+epoch: 417, error: 0.163
+epoch: 418, error: 0.163
+epoch: 419, error: 0.162
+epoch: 420, error: 0.162
+epoch: 421, error: 0.161
+epoch: 422, error: 0.161
+epoch: 423, error: 0.160
+epoch: 424, error: 0.160
+epoch: 425, error: 0.159
+epoch: 426, error: 0.159
+epoch: 427, error: 0.158
+epoch: 428, error: 0.158
+epoch: 429, error: 0.157
+epoch: 430, error: 0.157
+epoch: 431, error: 0.157
+epoch: 432, error: 0.156
+epoch: 433, error: 0.156
+epoch: 434, error: 0.155
+epoch: 435, error: 0.155
+epoch: 436, error: 0.154
+epoch: 437, error: 0.154
+epoch: 438, error: 0.154
+epoch: 439, error: 0.153
+epoch: 440, error: 0.153
+epoch: 441, error: 0.152
+epoch: 442, error: 0.152
+epoch: 443, error: 0.151
+epoch: 444, error: 0.151
+epoch: 445, error: 0.151
+epoch: 446, error: 0.150
+epoch: 447, error: 0.150
+epoch: 448, error: 0.149
+epoch: 449, error: 0.149
+epoch: 450, error: 0.149
+epoch: 451, error: 0.148
+epoch: 452, error: 0.148
+epoch: 453, error: 0.147
+epoch: 454, error: 0.147
+epoch: 455, error: 0.147
+epoch: 456, error: 0.146
+epoch: 457, error: 0.146
+epoch: 458, error: 0.145
+epoch: 459, error: 0.145
+epoch: 460, error: 0.145
+epoch: 461, error: 0.144
+epoch: 462, error: 0.144
+epoch: 463, error: 0.144
+epoch: 464, error: 0.143
+epoch: 465, error: 0.143
+epoch: 466, error: 0.142
+epoch: 467, error: 0.142
+epoch: 468, error: 0.142
+epoch: 469, error: 0.141
+epoch: 470, error: 0.141
+epoch: 471, error: 0.141
+epoch: 472, error: 0.140
+epoch: 473, error: 0.140
+epoch: 474, error: 0.140
+epoch: 475, error: 0.139
+epoch: 476, error: 0.139
+epoch: 477, error: 0.138
+epoch: 478, error: 0.138
+epoch: 479, error: 0.138
+epoch: 480, error: 0.137
+epoch: 481, error: 0.137
+epoch: 482, error: 0.137
+epoch: 483, error: 0.136
+epoch: 484, error: 0.136
+epoch: 485, error: 0.136
+epoch: 486, error: 0.135
+epoch: 487, error: 0.135
+epoch: 488, error: 0.135
+epoch: 489, error: 0.134
+epoch: 490, error: 0.134
+epoch: 491, error: 0.134
+epoch: 492, error: 0.133
+epoch: 493, error: 0.133
+epoch: 494, error: 0.133
+epoch: 495, error: 0.132
+epoch: 496, error: 0.132
+epoch: 497, error: 0.132
+epoch: 498, error: 0.132
+epoch: 499, error: 0.131
+--------------
+Layer:  0
+Weights: 
+[[ 0.02021876  0.57610197  1.16892747 ... -0.11217225  0.75596227
+   0.46353228]
+ [ 0.09070729 -0.5916243  -0.27266909 ... -0.36850884  0.16901199
+   0.46405317]
+ [ 0.13629224 -0.56007295 -0.84457623 ...  0.25660916  0.06233962
+   0.30610157]
+ ...
+ [ 0.01653028 -0.09644908 -0.1343775  ...  0.23468953  0.35847976
+   0.22803279]
+ [ 0.01653028 -0.09644909 -0.1343775  ...  0.23468953  0.35847976
+   0.22803279]
+ [ 0.01653028 -0.09644909 -0.1343775  ...  0.23468953  0.35847976
+   0.22803279]]
+--------------
+Layer:  1
+Weights: 
+[[-3.44019826 -0.7474671   4.54796561  4.17524637 -4.1300697  -5.47362017
+  -1.29925322  2.12692081  2.55702701  0.75367682 -0.54080878 -0.86497317
+  -0.90308305 -0.90740208 -0.9078368  -0.90787682 -0.90788026 -0.90788054
+  -0.90788056 -0.90788056]
+ [-8.80699566 -6.16444524  0.77255124  0.16520002  0.74998609  1.99827544
+   0.94506224  0.6685067   1.52139535  1.45473084  1.06055908  1.01236984
+   1.05855247  1.07387386  1.07645835  1.07676006  1.07678631  1.076788
+   1.07678807  1.07678807]
+ [-0.62133367  2.89959008  5.05779371 -2.3053746  -3.82404023 -2.36546726
+  -3.24661614 -4.20230069 -2.25426384 -0.39977179  0.40952806  0.79180505
+   0.914908    0.93882833  0.94196525  0.9422652   0.94228605  0.94228697
+   0.94228697  0.94228697]
+ [ 0.47709609  7.53244132 -2.50762328 -8.0755228  -6.57704243 -4.44084676
+  -0.48391549  0.91488491 -0.70679122 -1.20734826 -1.01754404 -1.0815028
+  -1.16798141 -1.19524698 -1.19959401 -1.20009132 -1.20013378 -1.20013641
+  -1.2001365  -1.2001365 ]
+ [-2.83122945 -6.99824831 -5.5649686   4.42802463  4.79835438  1.23592814
+   0.61137793 -0.50957431 -1.07164058 -0.89789001 -0.79613554 -0.77552339
+  -0.7701792  -0.76917446 -0.76904982 -0.76903851 -0.76903785 -0.76903784
+  -0.76903784 -0.76903785]
+ [-5.26556215  2.3364649  -1.01322911 -8.89414161  1.02092107  4.42306198
+  -0.66299369 -1.71172392 -0.74159589 -0.63987171 -0.8769565  -0.98521802
+  -1.00434597 -1.00648006 -1.00670285 -1.00672542 -1.00672775 -1.00672798
+  -1.00672801 -1.00672801]
+ [-4.64249927 -1.03692197  6.23807544  4.58954413  2.15691423  1.03832441
+  -2.70902971 -3.88932523 -3.2761647  -2.35001423 -1.64429267 -1.42449042
+  -1.38928977 -1.38310549 -1.38226306 -1.38217136 -1.38216328 -1.38216271
+  -1.38216267 -1.38216267]
+ [ 0.35059626 -5.34763311 -6.83936317 -5.87797128 -4.39384682 -4.5147998
+  -2.82069696  0.34138454  1.84856583  1.8535907   1.31542926  0.9489224
+   0.83381653  0.80807326  0.8042766   0.80386947  0.80383644  0.80383447
+   0.80383439  0.80383439]
+ [ 3.53990493  2.85762116 -2.41634697  3.08839224  1.53061406 -5.40482408
+  -5.04379025 -2.82620133 -1.95820011 -1.70812026 -1.71246995 -1.72290641
+  -1.71708579 -1.71494942 -1.71457814 -1.71453241 -1.71452826 -1.71452799
+  -1.71452798 -1.71452798]
+ [ 4.50983815 -5.41547961 -5.30096954 -3.61245204 -4.53009724 -1.28871982
+  -1.19416659 -1.34376786 -1.25945089 -1.71551861 -2.09167405 -2.12649797
+  -2.06549748 -2.04741604 -2.04463546 -2.04432487 -2.04429894 -2.04429738
+  -2.04429733 -2.04429733]]
+--------------
+Expected: 5, Got: 5
+Expected: 2, Got: 2
+Expected: 6, Got: 6
+Expected: 1, Got: 0
+Expected: 8, Got: 8
+Expected: 2, Got: 2
+Expected: 8, Got: 8
+Expected: 7, Got: 7
+Expected: 4, Got: 4
+Expected: 1, Got: 1
+Expected: 4, Got: 0
+Expected: 6, Got: 6
+Expected: 8, Got: 8
+Expected: 3, Got: 3
+Expected: 0, Got: 0
+Expected: 8, Got: 8
+Expected: 5, Got: 5
+Expected: 8, Got: 8
+Expected: 4, Got: 4
+Expected: 7, Got: 7
+Expected: 9, Got: 9
+Accuracy:  0.9047619047619048
+
+################################################
+
+epoch: 0, error: 188.474
+epoch: 1, error: 175.929
+epoch: 2, error: 175.126
+epoch: 3, error: 174.181
+epoch: 4, error: 173.310
+epoch: 5, error: 172.757
+epoch: 6, error: 172.476
+epoch: 7, error: 172.294
+epoch: 8, error: 172.075
+epoch: 9, error: 171.617
+epoch: 10, error: 170.488
+epoch: 11, error: 167.935
+epoch: 12, error: 163.711
+epoch: 13, error: 159.144
+epoch: 14, error: 155.066
+epoch: 15, error: 150.910
+epoch: 16, error: 146.390
+epoch: 17, error: 142.107
+epoch: 18, error: 138.344
+epoch: 19, error: 134.831
+epoch: 20, error: 131.141
+epoch: 21, error: 126.590
+epoch: 22, error: 119.898
+epoch: 23, error: 110.121
+epoch: 24, error: 99.434
+epoch: 25, error: 89.043
+epoch: 26, error: 78.566
+epoch: 27, error: 68.970
+epoch: 28, error: 61.222
+epoch: 29, error: 54.920
+epoch: 30, error: 49.590
+epoch: 31, error: 44.880
+epoch: 32, error: 40.470
+epoch: 33, error: 36.273
+epoch: 34, error: 32.440
+epoch: 35, error: 29.078
+epoch: 36, error: 26.246
+epoch: 37, error: 24.008
+epoch: 38, error: 22.233
+epoch: 39, error: 20.787
+epoch: 40, error: 19.582
+epoch: 41, error: 18.560
+epoch: 42, error: 17.682
+epoch: 43, error: 16.921
+epoch: 44, error: 16.258
+epoch: 45, error: 15.674
+epoch: 46, error: 15.155
+epoch: 47, error: 14.688
+epoch: 48, error: 14.259
+epoch: 49, error: 13.850
+epoch: 50, error: 13.434
+epoch: 51, error: 12.996
+epoch: 52, error: 12.578
+epoch: 53, error: 12.217
+epoch: 54, error: 11.876
+epoch: 55, error: 11.422
+epoch: 56, error: 10.970
+epoch: 57, error: 10.615
+epoch: 58, error: 10.317
+epoch: 59, error: 10.049
+epoch: 60, error: 9.791
+epoch: 61, error: 9.535
+epoch: 62, error: 9.274
+epoch: 63, error: 9.012
+epoch: 64, error: 8.769
+epoch: 65, error: 8.561
+epoch: 66, error: 8.388
+epoch: 67, error: 8.239
+epoch: 68, error: 8.106
+epoch: 69, error: 7.985
+epoch: 70, error: 7.873
+epoch: 71, error: 7.770
+epoch: 72, error: 7.673
+epoch: 73, error: 7.581
+epoch: 74, error: 7.495
+epoch: 75, error: 7.414
+epoch: 76, error: 7.338
+epoch: 77, error: 7.265
+epoch: 78, error: 7.196
+epoch: 79, error: 7.131
+epoch: 80, error: 7.069
+epoch: 81, error: 7.009
+epoch: 82, error: 6.953
+epoch: 83, error: 6.899
+epoch: 84, error: 6.848
+epoch: 85, error: 6.799
+epoch: 86, error: 6.752
+epoch: 87, error: 6.707
+epoch: 88, error: 6.664
+epoch: 89, error: 6.623
+epoch: 90, error: 6.583
+epoch: 91, error: 6.545
+epoch: 92, error: 6.509
+epoch: 93, error: 6.474
+epoch: 94, error: 6.440
+epoch: 95, error: 6.408
+epoch: 96, error: 6.376
+epoch: 97, error: 6.346
+epoch: 98, error: 6.317
+epoch: 99, error: 6.289
+epoch: 100, error: 6.262
+epoch: 101, error: 6.236
+epoch: 102, error: 6.211
+epoch: 103, error: 6.187
+epoch: 104, error: 6.163
+epoch: 105, error: 6.140
+epoch: 106, error: 6.118
+epoch: 107, error: 6.097
+epoch: 108, error: 6.076
+epoch: 109, error: 6.056
+epoch: 110, error: 6.036
+epoch: 111, error: 6.017
+epoch: 112, error: 5.999
+epoch: 113, error: 5.981
+epoch: 114, error: 5.964
+epoch: 115, error: 5.947
+epoch: 116, error: 5.930
+epoch: 117, error: 5.914
+epoch: 118, error: 5.899
+epoch: 119, error: 5.883
+epoch: 120, error: 5.869
+epoch: 121, error: 5.854
+epoch: 122, error: 5.840
+epoch: 123, error: 5.826
+epoch: 124, error: 5.812
+epoch: 125, error: 5.799
+epoch: 126, error: 5.786
+epoch: 127, error: 5.774
+epoch: 128, error: 5.761
+epoch: 129, error: 5.749
+epoch: 130, error: 5.737
+epoch: 131, error: 5.725
+epoch: 132, error: 5.714
+epoch: 133, error: 5.703
+epoch: 134, error: 5.692
+epoch: 135, error: 5.681
+epoch: 136, error: 5.670
+epoch: 137, error: 5.659
+epoch: 138, error: 5.649
+epoch: 139, error: 5.639
+epoch: 140, error: 5.628
+epoch: 141, error: 5.618
+epoch: 142, error: 5.608
+epoch: 143, error: 5.598
+epoch: 144, error: 5.588
+epoch: 145, error: 5.577
+epoch: 146, error: 5.566
+epoch: 147, error: 5.555
+epoch: 148, error: 5.542
+epoch: 149, error: 5.527
+epoch: 150, error: 5.509
+epoch: 151, error: 5.484
+epoch: 152, error: 5.441
+epoch: 153, error: 5.342
+epoch: 154, error: 4.959
+epoch: 155, error: 3.789
+epoch: 156, error: 3.006
+epoch: 157, error: 2.542
+epoch: 158, error: 2.333
+epoch: 159, error: 2.211
+epoch: 160, error: 2.126
+epoch: 161, error: 2.060
+epoch: 162, error: 2.006
+epoch: 163, error: 1.961
+epoch: 164, error: 1.921
+epoch: 165, error: 1.886
+epoch: 166, error: 1.855
+epoch: 167, error: 1.827
+epoch: 168, error: 1.801
+epoch: 169, error: 1.778
+epoch: 170, error: 1.756
+epoch: 171, error: 1.736
+epoch: 172, error: 1.718
+epoch: 173, error: 1.700
+epoch: 174, error: 1.684
+epoch: 175, error: 1.669
+epoch: 176, error: 1.655
+epoch: 177, error: 1.641
+epoch: 178, error: 1.628
+epoch: 179, error: 1.616
+epoch: 180, error: 1.605
+epoch: 181, error: 1.594
+epoch: 182, error: 1.583
+epoch: 183, error: 1.573
+epoch: 184, error: 1.564
+epoch: 185, error: 1.555
+epoch: 186, error: 1.546
+epoch: 187, error: 1.537
+epoch: 188, error: 1.529
+epoch: 189, error: 1.522
+epoch: 190, error: 1.514
+epoch: 191, error: 1.507
+epoch: 192, error: 1.500
+epoch: 193, error: 1.493
+epoch: 194, error: 1.487
+epoch: 195, error: 1.480
+epoch: 196, error: 1.474
+epoch: 197, error: 1.468
+epoch: 198, error: 1.462
+epoch: 199, error: 1.457
+epoch: 200, error: 1.451
+epoch: 201, error: 1.446
+epoch: 202, error: 1.441
+epoch: 203, error: 1.436
+epoch: 204, error: 1.431
+epoch: 205, error: 1.426
+epoch: 206, error: 1.422
+epoch: 207, error: 1.417
+epoch: 208, error: 1.413
+epoch: 209, error: 1.409
+epoch: 210, error: 1.404
+epoch: 211, error: 1.400
+epoch: 212, error: 1.396
+epoch: 213, error: 1.392
+epoch: 214, error: 1.389
+epoch: 215, error: 1.385
+epoch: 216, error: 1.381
+epoch: 217, error: 1.378
+epoch: 218, error: 1.374
+epoch: 219, error: 1.371
+epoch: 220, error: 1.367
+epoch: 221, error: 1.364
+epoch: 222, error: 1.361
+epoch: 223, error: 1.358
+epoch: 224, error: 1.354
+epoch: 225, error: 1.351
+epoch: 226, error: 1.348
+epoch: 227, error: 1.345
+epoch: 228, error: 1.343
+epoch: 229, error: 1.340
+epoch: 230, error: 1.337
+epoch: 231, error: 1.334
+epoch: 232, error: 1.332
+epoch: 233, error: 1.329
+epoch: 234, error: 1.326
+epoch: 235, error: 1.324
+epoch: 236, error: 1.321
+epoch: 237, error: 1.319
+epoch: 238, error: 1.316
+epoch: 239, error: 1.314
+epoch: 240, error: 1.312
+epoch: 241, error: 1.309
+epoch: 242, error: 1.307
+epoch: 243, error: 1.305
+epoch: 244, error: 1.303
+epoch: 245, error: 1.301
+epoch: 246, error: 1.298
+epoch: 247, error: 1.296
+epoch: 248, error: 1.294
+epoch: 249, error: 1.292
+epoch: 250, error: 1.290
+epoch: 251, error: 1.288
+epoch: 252, error: 1.286
+epoch: 253, error: 1.284
+epoch: 254, error: 1.282
+epoch: 255, error: 1.281
+epoch: 256, error: 1.279
+epoch: 257, error: 1.277
+epoch: 258, error: 1.275
+epoch: 259, error: 1.273
+epoch: 260, error: 1.272
+epoch: 261, error: 1.270
+epoch: 262, error: 1.268
+epoch: 263, error: 1.267
+epoch: 264, error: 1.265
+epoch: 265, error: 1.263
+epoch: 266, error: 1.262
+epoch: 267, error: 1.260
+epoch: 268, error: 1.258
+epoch: 269, error: 1.257
+epoch: 270, error: 1.255
+epoch: 271, error: 1.254
+epoch: 272, error: 1.252
+epoch: 273, error: 1.251
+epoch: 274, error: 1.249
+epoch: 275, error: 1.248
+epoch: 276, error: 1.247
+epoch: 277, error: 1.245
+epoch: 278, error: 1.244
+epoch: 279, error: 1.242
+epoch: 280, error: 1.241
+epoch: 281, error: 1.240
+epoch: 282, error: 1.238
+epoch: 283, error: 1.237
+epoch: 284, error: 1.236
+epoch: 285, error: 1.234
+epoch: 286, error: 1.233
+epoch: 287, error: 1.232
+epoch: 288, error: 1.231
+epoch: 289, error: 1.229
+epoch: 290, error: 1.228
+epoch: 291, error: 1.227
+epoch: 292, error: 1.226
+epoch: 293, error: 1.225
+epoch: 294, error: 1.223
+epoch: 295, error: 1.222
+epoch: 296, error: 1.221
+epoch: 297, error: 1.220
+epoch: 298, error: 1.219
+epoch: 299, error: 1.218
+epoch: 300, error: 1.217
+epoch: 301, error: 1.216
+epoch: 302, error: 1.215
+epoch: 303, error: 1.214
+epoch: 304, error: 1.212
+epoch: 305, error: 1.211
+epoch: 306, error: 1.210
+epoch: 307, error: 1.209
+epoch: 308, error: 1.208
+epoch: 309, error: 1.207
+epoch: 310, error: 1.206
+epoch: 311, error: 1.205
+epoch: 312, error: 1.204
+epoch: 313, error: 1.203
+epoch: 314, error: 1.203
+epoch: 315, error: 1.202
+epoch: 316, error: 1.201
+epoch: 317, error: 1.200
+epoch: 318, error: 1.199
+epoch: 319, error: 1.198
+epoch: 320, error: 1.197
+epoch: 321, error: 1.196
+epoch: 322, error: 1.195
+epoch: 323, error: 1.194
+epoch: 324, error: 1.193
+epoch: 325, error: 1.193
+epoch: 326, error: 1.192
+epoch: 327, error: 1.191
+epoch: 328, error: 1.190
+epoch: 329, error: 1.189
+epoch: 330, error: 1.188
+epoch: 331, error: 1.188
+epoch: 332, error: 1.187
+epoch: 333, error: 1.186
+epoch: 334, error: 1.185
+epoch: 335, error: 1.184
+epoch: 336, error: 1.184
+epoch: 337, error: 1.183
+epoch: 338, error: 1.182
+epoch: 339, error: 1.181
+epoch: 340, error: 1.181
+epoch: 341, error: 1.180
+epoch: 342, error: 1.179
+epoch: 343, error: 1.178
+epoch: 344, error: 1.178
+epoch: 345, error: 1.177
+epoch: 346, error: 1.176
+epoch: 347, error: 1.175
+epoch: 348, error: 1.175
+epoch: 349, error: 1.174
+epoch: 350, error: 1.173
+epoch: 351, error: 1.173
+epoch: 352, error: 1.172
+epoch: 353, error: 1.171
+epoch: 354, error: 1.171
+epoch: 355, error: 1.170
+epoch: 356, error: 1.169
+epoch: 357, error: 1.169
+epoch: 358, error: 1.168
+epoch: 359, error: 1.167
+epoch: 360, error: 1.167
+epoch: 361, error: 1.166
+epoch: 362, error: 1.165
+epoch: 363, error: 1.165
+epoch: 364, error: 1.164
+epoch: 365, error: 1.163
+epoch: 366, error: 1.163
+epoch: 367, error: 1.162
+epoch: 368, error: 1.162
+epoch: 369, error: 1.161
+epoch: 370, error: 1.160
+epoch: 371, error: 1.160
+epoch: 372, error: 1.159
+epoch: 373, error: 1.159
+epoch: 374, error: 1.158
+epoch: 375, error: 1.158
+epoch: 376, error: 1.157
+epoch: 377, error: 1.156
+epoch: 378, error: 1.156
+epoch: 379, error: 1.155
+epoch: 380, error: 1.155
+epoch: 381, error: 1.154
+epoch: 382, error: 1.154
+epoch: 383, error: 1.153
+epoch: 384, error: 1.153
+epoch: 385, error: 1.152
+epoch: 386, error: 1.151
+epoch: 387, error: 1.151
+epoch: 388, error: 1.150
+epoch: 389, error: 1.150
+epoch: 390, error: 1.149
+epoch: 391, error: 1.149
+epoch: 392, error: 1.148
+epoch: 393, error: 1.148
+epoch: 394, error: 1.147
+epoch: 395, error: 1.147
+epoch: 396, error: 1.146
+epoch: 397, error: 1.146
+epoch: 398, error: 1.145
+epoch: 399, error: 1.145
+epoch: 400, error: 1.144
+epoch: 401, error: 1.144
+epoch: 402, error: 1.143
+epoch: 403, error: 1.143
+epoch: 404, error: 1.142
+epoch: 405, error: 1.142
+epoch: 406, error: 1.142
+epoch: 407, error: 1.141
+epoch: 408, error: 1.141
+epoch: 409, error: 1.140
+epoch: 410, error: 1.140
+epoch: 411, error: 1.139
+epoch: 412, error: 1.139
+epoch: 413, error: 1.138
+epoch: 414, error: 1.138
+epoch: 415, error: 1.137
+epoch: 416, error: 1.137
+epoch: 417, error: 1.137
+epoch: 418, error: 1.136
+epoch: 419, error: 1.136
+epoch: 420, error: 1.135
+epoch: 421, error: 1.135
+epoch: 422, error: 1.134
+epoch: 423, error: 1.134
+epoch: 424, error: 1.134
+epoch: 425, error: 1.133
+epoch: 426, error: 1.133
+epoch: 427, error: 1.132
+epoch: 428, error: 1.132
+epoch: 429, error: 1.132
+epoch: 430, error: 1.131
+epoch: 431, error: 1.131
+epoch: 432, error: 1.130
+epoch: 433, error: 1.130
+epoch: 434, error: 1.130
+epoch: 435, error: 1.129
+epoch: 436, error: 1.129
+epoch: 437, error: 1.128
+epoch: 438, error: 1.128
+epoch: 439, error: 1.128
+epoch: 440, error: 1.127
+epoch: 441, error: 1.127
+epoch: 442, error: 1.127
+epoch: 443, error: 1.126
+epoch: 444, error: 1.126
+epoch: 445, error: 1.125
+epoch: 446, error: 1.125
+epoch: 447, error: 1.125
+epoch: 448, error: 1.124
+epoch: 449, error: 1.124
+epoch: 450, error: 1.124
+epoch: 451, error: 1.123
+epoch: 452, error: 1.123
+epoch: 453, error: 1.123
+epoch: 454, error: 1.122
+epoch: 455, error: 1.122
+epoch: 456, error: 1.122
+epoch: 457, error: 1.121
+epoch: 458, error: 1.121
+epoch: 459, error: 1.121
+epoch: 460, error: 1.120
+epoch: 461, error: 1.120
+epoch: 462, error: 1.120
+epoch: 463, error: 1.119
+epoch: 464, error: 1.119
+epoch: 465, error: 1.119
+epoch: 466, error: 1.118
+epoch: 467, error: 1.118
+epoch: 468, error: 1.118
+epoch: 469, error: 1.117
+epoch: 470, error: 1.117
+epoch: 471, error: 1.117
+epoch: 472, error: 1.116
+epoch: 473, error: 1.116
+epoch: 474, error: 1.116
+epoch: 475, error: 1.115
+epoch: 476, error: 1.115
+epoch: 477, error: 1.115
+epoch: 478, error: 1.114
+epoch: 479, error: 1.114
+epoch: 480, error: 1.114
+epoch: 481, error: 1.114
+epoch: 482, error: 1.113
+epoch: 483, error: 1.113
+epoch: 484, error: 1.113
+epoch: 485, error: 1.112
+epoch: 486, error: 1.112
+epoch: 487, error: 1.112
+epoch: 488, error: 1.111
+epoch: 489, error: 1.111
+epoch: 490, error: 1.111
+epoch: 491, error: 1.111
+epoch: 492, error: 1.110
+epoch: 493, error: 1.110
+epoch: 494, error: 1.110
+epoch: 495, error: 1.109
+epoch: 496, error: 1.109
+epoch: 497, error: 1.109
+epoch: 498, error: 1.109
+epoch: 499, error: 1.108
+--------------
+Layer:  0
+Weights: 
+[[-0.06973013  1.65314868  1.60861232 ... -0.0517051  -0.12526262
+  -0.12253696]
+ [ 0.11553832 -1.03852608 -0.35454255 ... -0.26858869  0.81099731
+   0.91922026]
+ [ 0.10061951 -1.31416435 -2.46062137 ...  1.79638602  0.81243552
+   0.34855822]
+ ...
+ [ 0.11142866 -0.03822908 -0.18427635 ... -0.27400652  0.11558987
+   0.20763788]
+ [ 0.11144884 -0.03839464 -0.18477601 ... -0.27330735  0.11579407
+   0.20762392]
+ [ 0.11144978 -0.03840372 -0.1848235  ... -0.27322163  0.11581218
+   0.20761366]]
+--------------
+Layer:  1
+Weights: 
+[[-1.03507346e+00  1.39646324e+00  7.07438938e+00 -2.17733995e+00
+  -6.16136760e+00 -3.78660940e+00 -2.83645512e+00 -1.66038755e+00
+  -8.61063735e-01 -2.93873590e-01  1.51289698e+00  2.61265119e+00
+   1.70748426e+00  6.88700057e-01  2.37360149e-02 -3.74216757e-01
+  -5.21225352e-01 -5.57377748e-01 -5.63431236e-01 -5.64173720e-01]
+ [-5.77649804e+00 -5.59504851e+00  4.28461831e+00  3.25816506e+00
+   2.90968657e+00  4.37366721e+00  2.29414486e+00  5.83221852e-02
+   1.26319942e-02  2.33209494e-01  1.12831065e-01  6.26187850e-01
+   1.04989426e+00  1.43243330e-01 -1.03176246e+00 -1.54753631e+00
+  -1.66530799e+00 -1.68507115e+00 -1.68751412e+00 -1.68776271e+00]
+ [-2.58835063e+00  3.46039947e+00  4.75672614e+00 -4.40000995e-01
+  -4.33759444e+00 -1.60289054e-01  4.42775272e+00  3.46629227e+00
+  -9.75633817e-01 -2.24309175e+00 -2.25054808e+00 -2.04116460e+00
+  -1.35530596e+00 -1.08852726e+00 -7.68304624e-01 -4.83194781e-01
+  -4.07811544e-01 -4.01437308e-01 -4.01384503e-01 -4.01450447e-01]
+ [ 1.17183028e+00  5.34855100e+00 -4.06195386e+00 -7.95994515e+00
+  -3.71413177e+00  1.77221568e+00 -1.51262129e+00 -3.63389645e+00
+  -9.85723025e-01  5.54698349e-01 -5.87342112e-01 -1.62578892e+00
+  -1.55546864e+00 -1.26426050e+00 -9.77325803e-01 -7.70032327e-01
+  -7.07226717e-01 -7.01880515e-01 -7.02108379e-01 -7.02224878e-01]
+ [-7.78608490e+00 -6.41639839e+00 -3.10979678e+00 -5.38742594e-01
+   9.04661703e-01 -2.11590763e+00 -2.73291750e+00 -1.51278866e+00
+  -2.62755185e-01  8.19550042e-01  8.58334976e-01  6.43886249e-01
+   1.04422079e+00  9.49861581e-01  6.72589612e-01  5.98313252e-01
+   5.94474473e-01  5.96669514e-01  5.97019630e-01  5.97027615e-01]
+ [ 3.19910681e+00 -2.11605320e+00 -7.12628513e+00  5.21279856e-01
+   4.97535327e+00 -6.34219577e-01 -2.47267928e+00 -1.37672842e+00
+  -9.19248444e-01 -5.96078445e-01  1.05891537e-01 -1.69034187e-01
+  -9.53239124e-01 -1.43068859e+00 -1.80514901e+00 -2.08326028e+00
+  -2.19164555e+00 -2.21385642e+00 -2.21685045e+00 -2.21715992e+00]
+ [-2.68465940e+00  2.95764937e+00  7.10774359e+00  4.94984059e+00
+   2.97364554e-01 -3.04845695e+00 -3.42966622e+00 -2.90890653e+00
+  -2.63367839e+00 -2.57335622e+00 -2.77435233e+00 -2.46704243e+00
+  -1.94403110e+00 -1.78210961e+00 -1.64432929e+00 -1.43507954e+00
+  -1.32085199e+00 -1.29118532e+00 -1.28632722e+00 -1.28574816e+00]
+ [ 4.25953324e-01 -4.72031776e+00 -5.76219680e+00 -4.04429667e+00
+  -3.04892607e+00  1.65576623e+00  4.64403266e+00  3.10722728e+00
+   8.63446956e-01 -7.60248936e-01 -9.80816606e-01 -6.74512245e-01
+  -9.12967530e-01 -6.45779147e-01 -4.31791868e-01 -5.23187738e-01
+  -5.90142051e-01 -6.03777805e-01 -6.05565352e-01 -6.05753243e-01]
+ [-4.08540552e-01  2.72303689e+00 -3.74247246e+00  3.56160716e-01
+  -4.49949831e+00 -5.75103563e+00 -3.07677721e+00 -2.36423826e+00
+  -2.71212838e+00 -2.92957630e+00 -2.97371111e+00 -2.13440234e+00
+  -8.39678501e-01  3.83697585e-01  1.27483590e+00  1.56236589e+00
+   1.57114194e+00  1.56192983e+00  1.55952159e+00  1.55915826e+00]
+ [ 5.09309860e+00 -5.67280814e+00 -5.52709089e+00 -5.54712161e+00
+  -4.87918658e+00 -4.67074722e+00 -3.67572411e+00 -2.34740494e+00
+  -1.64766838e+00 -1.14383226e+00  2.83088671e-01  4.37161746e-01
+  -1.05650136e-01 -1.38997512e-01  4.00699248e-03  1.65124475e-01
+   2.73388707e-01  3.08784349e-01  3.15970874e-01  3.17011668e-01]]
+--------------
+Expected: 2, Got: 2
+Expected: 8, Got: 8
+Expected: 3, Got: 3
+Expected: 7, Got: 7
+Expected: 3, Got: 3
+Expected: 8, Got: 0
+Expected: 6, Got: 6
+Expected: 7, Got: 7
+Expected: 2, Got: 2
+Expected: 5, Got: 5
+Expected: 9, Got: 9
+Expected: 5, Got: 5
+Expected: 0, Got: 0
+Expected: 1, Got: 1
+Expected: 1, Got: 2
+Expected: 2, Got: 2
+Expected: 1, Got: 1
+Expected: 9, Got: 9
+Expected: 7, Got: 7
+Expected: 2, Got: 2
+Expected: 9, Got: 9
+Accuracy:  0.9047619047619048
+
+################################################
+
+epoch: 0, error: 188.444
+epoch: 1, error: 175.813
+epoch: 2, error: 175.014
+epoch: 3, error: 174.115
+epoch: 4, error: 173.301
+epoch: 5, error: 172.769
+epoch: 6, error: 172.481
+epoch: 7, error: 172.278
+epoch: 8, error: 172.006
+epoch: 9, error: 171.445
+epoch: 10, error: 170.192
+epoch: 11, error: 167.621
+epoch: 12, error: 163.523
+epoch: 13, error: 159.016
+epoch: 14, error: 154.900
+epoch: 15, error: 149.985
+epoch: 16, error: 143.429
+epoch: 17, error: 135.097
+epoch: 18, error: 126.137
+epoch: 19, error: 117.750
+epoch: 20, error: 110.132
+epoch: 21, error: 103.275
+epoch: 22, error: 96.673
+epoch: 23, error: 89.827
+epoch: 24, error: 82.886
+epoch: 25, error: 76.143
+epoch: 26, error: 69.468
+epoch: 27, error: 62.770
+epoch: 28, error: 56.506
+epoch: 29, error: 51.058
+epoch: 30, error: 46.378
+epoch: 31, error: 42.181
+epoch: 32, error: 38.166
+epoch: 33, error: 34.130
+epoch: 34, error: 30.108
+epoch: 35, error: 26.281
+epoch: 36, error: 22.816
+epoch: 37, error: 19.878
+epoch: 38, error: 17.461
+epoch: 39, error: 15.497
+epoch: 40, error: 13.905
+epoch: 41, error: 12.605
+epoch: 42, error: 11.531
+epoch: 43, error: 10.635
+epoch: 44, error: 9.879
+epoch: 45, error: 9.235
+epoch: 46, error: 8.678
+epoch: 47, error: 8.192
+epoch: 48, error: 7.761
+epoch: 49, error: 7.376
+epoch: 50, error: 7.029
+epoch: 51, error: 6.712
+epoch: 52, error: 6.423
+epoch: 53, error: 6.156
+epoch: 54, error: 5.909
+epoch: 55, error: 5.680
+epoch: 56, error: 5.467
+epoch: 57, error: 5.269
+epoch: 58, error: 5.084
+epoch: 59, error: 4.912
+epoch: 60, error: 4.750
+epoch: 61, error: 4.599
+epoch: 62, error: 4.458
+epoch: 63, error: 4.325
+epoch: 64, error: 4.201
+epoch: 65, error: 4.083
+epoch: 66, error: 3.972
+epoch: 67, error: 3.866
+epoch: 68, error: 3.765
+epoch: 69, error: 3.669
+epoch: 70, error: 3.576
+epoch: 71, error: 3.486
+epoch: 72, error: 3.398
+epoch: 73, error: 3.311
+epoch: 74, error: 3.224
+epoch: 75, error: 3.137
+epoch: 76, error: 3.051
+epoch: 77, error: 2.964
+epoch: 78, error: 2.880
+epoch: 79, error: 2.799
+epoch: 80, error: 2.725
+epoch: 81, error: 2.658
+epoch: 82, error: 2.597
+epoch: 83, error: 2.543
+epoch: 84, error: 2.494
+epoch: 85, error: 2.450
+epoch: 86, error: 2.408
+epoch: 87, error: 2.370
+epoch: 88, error: 2.334
+epoch: 89, error: 2.300
+epoch: 90, error: 2.268
+epoch: 91, error: 2.238
+epoch: 92, error: 2.209
+epoch: 93, error: 2.182
+epoch: 94, error: 2.156
+epoch: 95, error: 2.131
+epoch: 96, error: 2.107
+epoch: 97, error: 2.084
+epoch: 98, error: 2.062
+epoch: 99, error: 2.041
+epoch: 100, error: 2.021
+epoch: 101, error: 2.001
+epoch: 102, error: 1.983
+epoch: 103, error: 1.964
+epoch: 104, error: 1.947
+epoch: 105, error: 1.930
+epoch: 106, error: 1.914
+epoch: 107, error: 1.898
+epoch: 108, error: 1.883
+epoch: 109, error: 1.868
+epoch: 110, error: 1.854
+epoch: 111, error: 1.840
+epoch: 112, error: 1.827
+epoch: 113, error: 1.814
+epoch: 114, error: 1.801
+epoch: 115, error: 1.789
+epoch: 116, error: 1.777
+epoch: 117, error: 1.765
+epoch: 118, error: 1.754
+epoch: 119, error: 1.743
+epoch: 120, error: 1.733
+epoch: 121, error: 1.722
+epoch: 122, error: 1.712
+epoch: 123, error: 1.702
+epoch: 124, error: 1.693
+epoch: 125, error: 1.684
+epoch: 126, error: 1.675
+epoch: 127, error: 1.666
+epoch: 128, error: 1.657
+epoch: 129, error: 1.649
+epoch: 130, error: 1.641
+epoch: 131, error: 1.633
+epoch: 132, error: 1.625
+epoch: 133, error: 1.617
+epoch: 134, error: 1.610
+epoch: 135, error: 1.602
+epoch: 136, error: 1.595
+epoch: 137, error: 1.588
+epoch: 138, error: 1.581
+epoch: 139, error: 1.575
+epoch: 140, error: 1.568
+epoch: 141, error: 1.562
+epoch: 142, error: 1.556
+epoch: 143, error: 1.549
+epoch: 144, error: 1.543
+epoch: 145, error: 1.538
+epoch: 146, error: 1.532
+epoch: 147, error: 1.526
+epoch: 148, error: 1.521
+epoch: 149, error: 1.515
+epoch: 150, error: 1.510
+epoch: 151, error: 1.505
+epoch: 152, error: 1.500
+epoch: 153, error: 1.495
+epoch: 154, error: 1.490
+epoch: 155, error: 1.485
+epoch: 156, error: 1.480
+epoch: 157, error: 1.476
+epoch: 158, error: 1.471
+epoch: 159, error: 1.467
+epoch: 160, error: 1.462
+epoch: 161, error: 1.458
+epoch: 162, error: 1.454
+epoch: 163, error: 1.450
+epoch: 164, error: 1.445
+epoch: 165, error: 1.441
+epoch: 166, error: 1.437
+epoch: 167, error: 1.434
+epoch: 168, error: 1.430
+epoch: 169, error: 1.426
+epoch: 170, error: 1.422
+epoch: 171, error: 1.419
+epoch: 172, error: 1.415
+epoch: 173, error: 1.412
+epoch: 174, error: 1.408
+epoch: 175, error: 1.405
+epoch: 176, error: 1.401
+epoch: 177, error: 1.398
+epoch: 178, error: 1.395
+epoch: 179, error: 1.392
+epoch: 180, error: 1.388
+epoch: 181, error: 1.385
+epoch: 182, error: 1.382
+epoch: 183, error: 1.379
+epoch: 184, error: 1.376
+epoch: 185, error: 1.373
+epoch: 186, error: 1.371
+epoch: 187, error: 1.368
+epoch: 188, error: 1.365
+epoch: 189, error: 1.362
+epoch: 190, error: 1.359
+epoch: 191, error: 1.357
+epoch: 192, error: 1.354
+epoch: 193, error: 1.352
+epoch: 194, error: 1.349
+epoch: 195, error: 1.346
+epoch: 196, error: 1.344
+epoch: 197, error: 1.342
+epoch: 198, error: 1.339
+epoch: 199, error: 1.337
+epoch: 200, error: 1.334
+epoch: 201, error: 1.332
+epoch: 202, error: 1.330
+epoch: 203, error: 1.327
+epoch: 204, error: 1.325
+epoch: 205, error: 1.323
+epoch: 206, error: 1.321
+epoch: 207, error: 1.319
+epoch: 208, error: 1.317
+epoch: 209, error: 1.314
+epoch: 210, error: 1.312
+epoch: 211, error: 1.310
+epoch: 212, error: 1.308
+epoch: 213, error: 1.306
+epoch: 214, error: 1.304
+epoch: 215, error: 1.302
+epoch: 216, error: 1.300
+epoch: 217, error: 1.299
+epoch: 218, error: 1.297
+epoch: 219, error: 1.295
+epoch: 220, error: 1.293
+epoch: 221, error: 1.291
+epoch: 222, error: 1.289
+epoch: 223, error: 1.288
+epoch: 224, error: 1.286
+epoch: 225, error: 1.284
+epoch: 226, error: 1.282
+epoch: 227, error: 1.281
+epoch: 228, error: 1.279
+epoch: 229, error: 1.277
+epoch: 230, error: 1.276
+epoch: 231, error: 1.274
+epoch: 232, error: 1.273
+epoch: 233, error: 1.271
+epoch: 234, error: 1.269
+epoch: 235, error: 1.268
+epoch: 236, error: 1.266
+epoch: 237, error: 1.265
+epoch: 238, error: 1.263
+epoch: 239, error: 1.262
+epoch: 240, error: 1.260
+epoch: 241, error: 1.259
+epoch: 242, error: 1.258
+epoch: 243, error: 1.256
+epoch: 244, error: 1.255
+epoch: 245, error: 1.253
+epoch: 246, error: 1.252
+epoch: 247, error: 1.251
+epoch: 248, error: 1.249
+epoch: 249, error: 1.248
+epoch: 250, error: 1.247
+epoch: 251, error: 1.245
+epoch: 252, error: 1.244
+epoch: 253, error: 1.243
+epoch: 254, error: 1.241
+epoch: 255, error: 1.240
+epoch: 256, error: 1.239
+epoch: 257, error: 1.238
+epoch: 258, error: 1.237
+epoch: 259, error: 1.235
+epoch: 260, error: 1.234
+epoch: 261, error: 1.233
+epoch: 262, error: 1.232
+epoch: 263, error: 1.231
+epoch: 264, error: 1.230
+epoch: 265, error: 1.228
+epoch: 266, error: 1.227
+epoch: 267, error: 1.226
+epoch: 268, error: 1.225
+epoch: 269, error: 1.224
+epoch: 270, error: 1.223
+epoch: 271, error: 1.222
+epoch: 272, error: 1.221
+epoch: 273, error: 1.220
+epoch: 274, error: 1.219
+epoch: 275, error: 1.218
+epoch: 276, error: 1.217
+epoch: 277, error: 1.216
+epoch: 278, error: 1.215
+epoch: 279, error: 1.214
+epoch: 280, error: 1.213
+epoch: 281, error: 1.212
+epoch: 282, error: 1.211
+epoch: 283, error: 1.210
+epoch: 284, error: 1.209
+epoch: 285, error: 1.208
+epoch: 286, error: 1.207
+epoch: 287, error: 1.206
+epoch: 288, error: 1.205
+epoch: 289, error: 1.204
+epoch: 290, error: 1.203
+epoch: 291, error: 1.202
+epoch: 292, error: 1.201
+epoch: 293, error: 1.200
+epoch: 294, error: 1.200
+epoch: 295, error: 1.199
+epoch: 296, error: 1.198
+epoch: 297, error: 1.197
+epoch: 298, error: 1.196
+epoch: 299, error: 1.195
+epoch: 300, error: 1.194
+epoch: 301, error: 1.194
+epoch: 302, error: 1.193
+epoch: 303, error: 1.192
+epoch: 304, error: 1.191
+epoch: 305, error: 1.190
+epoch: 306, error: 1.190
+epoch: 307, error: 1.189
+epoch: 308, error: 1.188
+epoch: 309, error: 1.187
+epoch: 310, error: 1.186
+epoch: 311, error: 1.186
+epoch: 312, error: 1.185
+epoch: 313, error: 1.184
+epoch: 314, error: 1.183
+epoch: 315, error: 1.183
+epoch: 316, error: 1.182
+epoch: 317, error: 1.181
+epoch: 318, error: 1.181
+epoch: 319, error: 1.180
+epoch: 320, error: 1.179
+epoch: 321, error: 1.178
+epoch: 322, error: 1.178
+epoch: 323, error: 1.177
+epoch: 324, error: 1.176
+epoch: 325, error: 1.176
+epoch: 326, error: 1.175
+epoch: 327, error: 1.174
+epoch: 328, error: 1.174
+epoch: 329, error: 1.173
+epoch: 330, error: 1.172
+epoch: 331, error: 1.172
+epoch: 332, error: 1.171
+epoch: 333, error: 1.170
+epoch: 334, error: 1.170
+epoch: 335, error: 1.169
+epoch: 336, error: 1.168
+epoch: 337, error: 1.168
+epoch: 338, error: 1.167
+epoch: 339, error: 1.167
+epoch: 340, error: 1.166
+epoch: 341, error: 1.165
+epoch: 342, error: 1.165
+epoch: 343, error: 1.164
+epoch: 344, error: 1.164
+epoch: 345, error: 1.163
+epoch: 346, error: 1.162
+epoch: 347, error: 1.162
+epoch: 348, error: 1.161
+epoch: 349, error: 1.161
+epoch: 350, error: 1.160
+epoch: 351, error: 1.159
+epoch: 352, error: 1.159
+epoch: 353, error: 1.158
+epoch: 354, error: 1.158
+epoch: 355, error: 1.157
+epoch: 356, error: 1.157
+epoch: 357, error: 1.156
+epoch: 358, error: 1.156
+epoch: 359, error: 1.155
+epoch: 360, error: 1.154
+epoch: 361, error: 1.154
+epoch: 362, error: 1.153
+epoch: 363, error: 1.153
+epoch: 364, error: 1.152
+epoch: 365, error: 1.152
+epoch: 366, error: 1.151
+epoch: 367, error: 1.151
+epoch: 368, error: 1.150
+epoch: 369, error: 1.150
+epoch: 370, error: 1.149
+epoch: 371, error: 1.149
+epoch: 372, error: 1.148
+epoch: 373, error: 1.148
+epoch: 374, error: 1.147
+epoch: 375, error: 1.147
+epoch: 376, error: 1.146
+epoch: 377, error: 1.146
+epoch: 378, error: 1.145
+epoch: 379, error: 1.145
+epoch: 380, error: 1.144
+epoch: 381, error: 1.144
+epoch: 382, error: 1.144
+epoch: 383, error: 1.143
+epoch: 384, error: 1.143
+epoch: 385, error: 1.142
+epoch: 386, error: 1.142
+epoch: 387, error: 1.141
+epoch: 388, error: 1.141
+epoch: 389, error: 1.140
+epoch: 390, error: 1.140
+epoch: 391, error: 1.139
+epoch: 392, error: 1.139
+epoch: 393, error: 1.139
+epoch: 394, error: 1.138
+epoch: 395, error: 1.138
+epoch: 396, error: 1.137
+epoch: 397, error: 1.137
+epoch: 398, error: 1.136
+epoch: 399, error: 1.136
+epoch: 400, error: 1.136
+epoch: 401, error: 1.135
+epoch: 402, error: 1.135
+epoch: 403, error: 1.134
+epoch: 404, error: 1.134
+epoch: 405, error: 1.134
+epoch: 406, error: 1.133
+epoch: 407, error: 1.133
+epoch: 408, error: 1.132
+epoch: 409, error: 1.132
+epoch: 410, error: 1.132
+epoch: 411, error: 1.131
+epoch: 412, error: 1.131
+epoch: 413, error: 1.130
+epoch: 414, error: 1.130
+epoch: 415, error: 1.130
+epoch: 416, error: 1.129
+epoch: 417, error: 1.129
+epoch: 418, error: 1.129
+epoch: 419, error: 1.128
+epoch: 420, error: 1.128
+epoch: 421, error: 1.127
+epoch: 422, error: 1.127
+epoch: 423, error: 1.127
+epoch: 424, error: 1.126
+epoch: 425, error: 1.126
+epoch: 426, error: 1.126
+epoch: 427, error: 1.125
+epoch: 428, error: 1.125
+epoch: 429, error: 1.125
+epoch: 430, error: 1.124
+epoch: 431, error: 1.124
+epoch: 432, error: 1.123
+epoch: 433, error: 1.123
+epoch: 434, error: 1.123
+epoch: 435, error: 1.122
+epoch: 436, error: 1.122
+epoch: 437, error: 1.122
+epoch: 438, error: 1.121
+epoch: 439, error: 1.121
+epoch: 440, error: 1.121
+epoch: 441, error: 1.120
+epoch: 442, error: 1.120
+epoch: 443, error: 1.120
+epoch: 444, error: 1.119
+epoch: 445, error: 1.119
+epoch: 446, error: 1.119
+epoch: 447, error: 1.118
+epoch: 448, error: 1.118
+epoch: 449, error: 1.118
+epoch: 450, error: 1.118
+epoch: 451, error: 1.117
+epoch: 452, error: 1.117
+epoch: 453, error: 1.117
+epoch: 454, error: 1.116
+epoch: 455, error: 1.116
+epoch: 456, error: 1.116
+epoch: 457, error: 1.115
+epoch: 458, error: 1.115
+epoch: 459, error: 1.115
+epoch: 460, error: 1.114
+epoch: 461, error: 1.114
+epoch: 462, error: 1.114
+epoch: 463, error: 1.114
+epoch: 464, error: 1.113
+epoch: 465, error: 1.113
+epoch: 466, error: 1.113
+epoch: 467, error: 1.112
+epoch: 468, error: 1.112
+epoch: 469, error: 1.112
+epoch: 470, error: 1.112
+epoch: 471, error: 1.111
+epoch: 472, error: 1.111
+epoch: 473, error: 1.111
+epoch: 474, error: 1.110
+epoch: 475, error: 1.110
+epoch: 476, error: 1.110
+epoch: 477, error: 1.110
+epoch: 478, error: 1.109
+epoch: 479, error: 1.109
+epoch: 480, error: 1.109
+epoch: 481, error: 1.108
+epoch: 482, error: 1.108
+epoch: 483, error: 1.108
+epoch: 484, error: 1.108
+epoch: 485, error: 1.107
+epoch: 486, error: 1.107
+epoch: 487, error: 1.107
+epoch: 488, error: 1.107
+epoch: 489, error: 1.106
+epoch: 490, error: 1.106
+epoch: 491, error: 1.106
+epoch: 492, error: 1.106
+epoch: 493, error: 1.105
+epoch: 494, error: 1.105
+epoch: 495, error: 1.105
+epoch: 496, error: 1.105
+epoch: 497, error: 1.104
+epoch: 498, error: 1.104
+epoch: 499, error: 1.104
+--------------
+Layer:  0
+Weights: 
+[[ 0.01370494  1.23294362  1.84530831 ... -1.10717883 -0.50891246
+  -0.05830469]
+ [ 0.01513625 -0.79462971 -0.01179709 ...  0.38274632  0.86196763
+   0.60548205]
+ [-0.0346178  -1.04039454 -2.02306747 ...  0.40528841 -0.02767478
+   0.04007146]
+ ...
+ [ 0.08926267 -0.20790924 -0.49012218 ...  0.68530552  0.22155103
+   0.10445868]
+ [ 0.08926228 -0.20791363 -0.49010824 ...  0.68534284  0.22153754
+   0.10444764]
+ [ 0.08926224 -0.20791395 -0.49010683 ...  0.68534612  0.22153636
+   0.10444667]]
+--------------
+Layer:  1
+Weights: 
+[[-2.44490185  0.16844173  6.42995928  3.64444198 -3.54268774 -4.9826316
+  -3.26440459 -0.96489103 -1.26988565 -1.49498469 -1.69702382 -1.47381624
+  -0.65170573  0.1767999   0.63672002  0.77553584  0.80059045  0.8040505
+   0.80444237  0.80447969]
+ [-7.31603255 -5.02166763  1.88488693 -0.04538581 -2.14944109  2.83661372
+   4.44061251  2.41679921  0.25243232  0.10436892 -0.01217694 -0.06666837
+   0.2104466   0.49953006  0.64317151  0.6781696   0.68432551  0.68516753
+   0.68526046  0.68526904]
+ [-2.36218758  3.55408614 -0.01060308 -5.79157625 -3.44560385 -1.41576546
+  -0.32046921 -2.32365913 -3.54842837 -1.6001181   1.19235426  2.17210492
+   1.86180229  1.39844327  1.16145936  1.09831821  1.087098    1.08552599
+   1.08534554  1.08532816]
+ [ 2.07087256  4.75188665 -1.11582522 -8.00033645 -5.38919952 -0.80899539
+  -1.13148256 -0.23209631  1.43121815 -0.15233512 -1.82568447 -2.11116972
+  -1.90840784 -1.69492029 -1.58913366 -1.55842666 -1.55257496 -1.55172945
+  -1.55163033 -1.5516206 ]
+ [-5.04940936 -5.68704443 -2.81165495  2.15653692  4.9490664   0.98813628
+  -1.92806057 -1.80604727 -0.31669154 -0.4818064  -1.18055312 -1.28426473
+  -1.13317785 -0.98689287 -0.92079872 -0.90422365 -0.9015341  -0.90118759
+  -0.90115076 -0.90114745]
+ [-0.85485738  0.87650686 -4.53967392 -1.92248247 -1.32621341  2.31087445
+   7.16696267  3.12696326 -2.26858131 -2.39754084 -1.55647038 -1.3779475
+  -1.2951807  -1.27933251 -1.28851684 -1.2919121  -1.2924341  -1.29251718
+  -1.29252893 -1.29253028]
+ [-1.85454271  0.12116367  7.61717268  3.13707222 -0.67258585  2.9553911
+   0.63180914 -3.78016315 -3.63900785 -2.03396094 -1.47646629 -1.49399527
+  -1.68972219 -1.93674698 -2.06541162 -2.09702271 -2.1023138  -2.10301142
+  -2.10308663 -2.10309347]
+ [-0.20808038 -7.28182319 -5.89871743 -5.77955775 -4.22818253 -2.89711911
+  -1.77762474 -0.14306362  1.54624481  2.41197021  1.30227523  0.3374763
+   0.17102153  0.21009461  0.24000186  0.2470374   0.24800502  0.24812381
+   0.24813685  0.24813808]
+ [ 1.40463474  4.63213909 -2.78661673  1.28799417  0.35725142 -5.55823199
+  -5.14502433 -4.24819209 -3.81515798 -2.37756144 -1.44530954 -1.30711238
+  -1.37942544 -1.46032292 -1.50307871 -1.51286327 -1.5138029  -1.51387312
+  -1.51387665 -1.51387666]
+ [ 3.6765771  -5.17838143 -5.04473855  1.93088677 -4.8168029  -4.24688213
+  -0.57992653  1.32063135 -0.5937841  -2.38783948 -1.95240978 -1.35121713
+  -1.20492913 -1.23505084 -1.27547411 -1.29091867 -1.29429584 -1.29483408
+  -1.2949021  -1.29490915]]
+--------------
+Expected: 5, Got: 5
+Expected: 9, Got: 9
+Expected: 1, Got: 1
+Expected: 0, Got: 0
+Expected: 5, Got: 5
+Expected: 5, Got: 5
+Expected: 4, Got: 4
+Expected: 2, Got: 2
+Expected: 5, Got: 6
+Expected: 9, Got: 9
+Expected: 9, Got: 9
+Expected: 3, Got: 3
+Expected: 0, Got: 0
+Expected: 9, Got: 9
+Expected: 2, Got: 2
+Expected: 2, Got: 2
+Expected: 8, Got: 8
+Expected: 9, Got: 9
+Expected: 7, Got: 1
+Expected: 8, Got: 8
+Expected: 0, Got: 0
+Accuracy:  0.9047619047619048
+
+################################################
+
+epoch: 0, error: 188.278
+epoch: 1, error: 175.738
+epoch: 2, error: 175.019
+epoch: 3, error: 174.201
+epoch: 4, error: 173.459
+epoch: 5, error: 172.982
+epoch: 6, error: 172.731
+epoch: 7, error: 172.558
+epoch: 8, error: 172.350
+epoch: 9, error: 171.958
+epoch: 10, error: 171.083
+epoch: 11, error: 169.130
+epoch: 12, error: 165.364
+epoch: 13, error: 160.386
+epoch: 14, error: 156.227
+epoch: 15, error: 152.493
+epoch: 16, error: 147.827
+epoch: 17, error: 141.718
+epoch: 18, error: 134.088
+epoch: 19, error: 126.087
+epoch: 20, error: 118.971
+epoch: 21, error: 112.600
+epoch: 22, error: 106.286
+epoch: 23, error: 98.501
+epoch: 24, error: 88.325
+epoch: 25, error: 77.610
+epoch: 26, error: 67.665
+epoch: 27, error: 58.838
+epoch: 28, error: 51.219
+epoch: 29, error: 44.629
+epoch: 30, error: 38.993
+epoch: 31, error: 34.234
+epoch: 32, error: 30.177
+epoch: 33, error: 26.672
+epoch: 34, error: 23.691
+epoch: 35, error: 21.177
+epoch: 36, error: 19.012
+epoch: 37, error: 17.066
+epoch: 38, error: 15.347
+epoch: 39, error: 13.874
+epoch: 40, error: 12.593
+epoch: 41, error: 11.469
+epoch: 42, error: 10.477
+epoch: 43, error: 9.594
+epoch: 44, error: 8.787
+epoch: 45, error: 8.016
+epoch: 46, error: 7.323
+epoch: 47, error: 6.744
+epoch: 48, error: 6.202
+epoch: 49, error: 5.670
+epoch: 50, error: 5.227
+epoch: 51, error: 4.907
+epoch: 52, error: 4.641
+epoch: 53, error: 4.410
+epoch: 54, error: 4.207
+epoch: 55, error: 4.027
+epoch: 56, error: 3.866
+epoch: 57, error: 3.719
+epoch: 58, error: 3.586
+epoch: 59, error: 3.463
+epoch: 60, error: 3.351
+epoch: 61, error: 3.246
+epoch: 62, error: 3.150
+epoch: 63, error: 3.060
+epoch: 64, error: 2.976
+epoch: 65, error: 2.899
+epoch: 66, error: 2.826
+epoch: 67, error: 2.758
+epoch: 68, error: 2.695
+epoch: 69, error: 2.635
+epoch: 70, error: 2.580
+epoch: 71, error: 2.528
+epoch: 72, error: 2.479
+epoch: 73, error: 2.432
+epoch: 74, error: 2.389
+epoch: 75, error: 2.348
+epoch: 76, error: 2.309
+epoch: 77, error: 2.273
+epoch: 78, error: 2.238
+epoch: 79, error: 2.205
+epoch: 80, error: 2.174
+epoch: 81, error: 2.144
+epoch: 82, error: 2.116
+epoch: 83, error: 2.089
+epoch: 84, error: 2.063
+epoch: 85, error: 2.039
+epoch: 86, error: 2.015
+epoch: 87, error: 1.993
+epoch: 88, error: 1.971
+epoch: 89, error: 1.950
+epoch: 90, error: 1.931
+epoch: 91, error: 1.911
+epoch: 92, error: 1.893
+epoch: 93, error: 1.876
+epoch: 94, error: 1.859
+epoch: 95, error: 1.842
+epoch: 96, error: 1.827
+epoch: 97, error: 1.811
+epoch: 98, error: 1.797
+epoch: 99, error: 1.783
+epoch: 100, error: 1.769
+epoch: 101, error: 1.756
+epoch: 102, error: 1.743
+epoch: 103, error: 1.731
+epoch: 104, error: 1.719
+epoch: 105, error: 1.707
+epoch: 106, error: 1.696
+epoch: 107, error: 1.685
+epoch: 108, error: 1.674
+epoch: 109, error: 1.664
+epoch: 110, error: 1.654
+epoch: 111, error: 1.645
+epoch: 112, error: 1.635
+epoch: 113, error: 1.626
+epoch: 114, error: 1.617
+epoch: 115, error: 1.608
+epoch: 116, error: 1.600
+epoch: 117, error: 1.592
+epoch: 118, error: 1.584
+epoch: 119, error: 1.576
+epoch: 120, error: 1.569
+epoch: 121, error: 1.561
+epoch: 122, error: 1.554
+epoch: 123, error: 1.547
+epoch: 124, error: 1.540
+epoch: 125, error: 1.533
+epoch: 126, error: 1.527
+epoch: 127, error: 1.520
+epoch: 128, error: 1.514
+epoch: 129, error: 1.508
+epoch: 130, error: 1.502
+epoch: 131, error: 1.496
+epoch: 132, error: 1.491
+epoch: 133, error: 1.485
+epoch: 134, error: 1.480
+epoch: 135, error: 1.474
+epoch: 136, error: 1.469
+epoch: 137, error: 1.464
+epoch: 138, error: 1.459
+epoch: 139, error: 1.454
+epoch: 140, error: 1.449
+epoch: 141, error: 1.444
+epoch: 142, error: 1.440
+epoch: 143, error: 1.435
+epoch: 144, error: 1.431
+epoch: 145, error: 1.427
+epoch: 146, error: 1.422
+epoch: 147, error: 1.418
+epoch: 148, error: 1.414
+epoch: 149, error: 1.410
+epoch: 150, error: 1.406
+epoch: 151, error: 1.402
+epoch: 152, error: 1.398
+epoch: 153, error: 1.395
+epoch: 154, error: 1.391
+epoch: 155, error: 1.387
+epoch: 156, error: 1.384
+epoch: 157, error: 1.380
+epoch: 158, error: 1.377
+epoch: 159, error: 1.373
+epoch: 160, error: 1.370
+epoch: 161, error: 1.367
+epoch: 162, error: 1.364
+epoch: 163, error: 1.361
+epoch: 164, error: 1.357
+epoch: 165, error: 1.354
+epoch: 166, error: 1.351
+epoch: 167, error: 1.348
+epoch: 168, error: 1.346
+epoch: 169, error: 1.343
+epoch: 170, error: 1.340
+epoch: 171, error: 1.337
+epoch: 172, error: 1.334
+epoch: 173, error: 1.332
+epoch: 174, error: 1.329
+epoch: 175, error: 1.327
+epoch: 176, error: 1.324
+epoch: 177, error: 1.321
+epoch: 178, error: 1.319
+epoch: 179, error: 1.317
+epoch: 180, error: 1.314
+epoch: 181, error: 1.312
+epoch: 182, error: 1.309
+epoch: 183, error: 1.307
+epoch: 184, error: 1.305
+epoch: 185, error: 1.303
+epoch: 186, error: 1.300
+epoch: 187, error: 1.298
+epoch: 188, error: 1.296
+epoch: 189, error: 1.294
+epoch: 190, error: 1.292
+epoch: 191, error: 1.290
+epoch: 192, error: 1.288
+epoch: 193, error: 1.286
+epoch: 194, error: 1.284
+epoch: 195, error: 1.282
+epoch: 196, error: 1.280
+epoch: 197, error: 1.278
+epoch: 198, error: 1.276
+epoch: 199, error: 1.274
+epoch: 200, error: 1.272
+epoch: 201, error: 1.271
+epoch: 202, error: 1.269
+epoch: 203, error: 1.267
+epoch: 204, error: 1.265
+epoch: 205, error: 1.263
+epoch: 206, error: 1.262
+epoch: 207, error: 1.260
+epoch: 208, error: 1.258
+epoch: 209, error: 1.257
+epoch: 210, error: 1.255
+epoch: 211, error: 1.254
+epoch: 212, error: 1.252
+epoch: 213, error: 1.250
+epoch: 214, error: 1.249
+epoch: 215, error: 1.247
+epoch: 216, error: 1.246
+epoch: 217, error: 1.244
+epoch: 218, error: 1.243
+epoch: 219, error: 1.241
+epoch: 220, error: 1.240
+epoch: 221, error: 1.239
+epoch: 222, error: 1.237
+epoch: 223, error: 1.236
+epoch: 224, error: 1.234
+epoch: 225, error: 1.233
+epoch: 226, error: 1.232
+epoch: 227, error: 1.230
+epoch: 228, error: 1.229
+epoch: 229, error: 1.228
+epoch: 230, error: 1.226
+epoch: 231, error: 1.225
+epoch: 232, error: 1.224
+epoch: 233, error: 1.223
+epoch: 234, error: 1.221
+epoch: 235, error: 1.220
+epoch: 236, error: 1.219
+epoch: 237, error: 1.218
+epoch: 238, error: 1.217
+epoch: 239, error: 1.215
+epoch: 240, error: 1.214
+epoch: 241, error: 1.213
+epoch: 242, error: 1.212
+epoch: 243, error: 1.211
+epoch: 244, error: 1.210
+epoch: 245, error: 1.209
+epoch: 246, error: 1.208
+epoch: 247, error: 1.206
+epoch: 248, error: 1.205
+epoch: 249, error: 1.204
+epoch: 250, error: 1.203
+epoch: 251, error: 1.202
+epoch: 252, error: 1.201
+epoch: 253, error: 1.200
+epoch: 254, error: 1.199
+epoch: 255, error: 1.198
+epoch: 256, error: 1.197
+epoch: 257, error: 1.196
+epoch: 258, error: 1.195
+epoch: 259, error: 1.194
+epoch: 260, error: 1.193
+epoch: 261, error: 1.192
+epoch: 262, error: 1.191
+epoch: 263, error: 1.190
+epoch: 264, error: 1.189
+epoch: 265, error: 1.189
+epoch: 266, error: 1.188
+epoch: 267, error: 1.187
+epoch: 268, error: 1.186
+epoch: 269, error: 1.185
+epoch: 270, error: 1.184
+epoch: 271, error: 1.183
+epoch: 272, error: 1.182
+epoch: 273, error: 1.181
+epoch: 274, error: 1.181
+epoch: 275, error: 1.180
+epoch: 276, error: 1.179
+epoch: 277, error: 1.178
+epoch: 278, error: 1.177
+epoch: 279, error: 1.176
+epoch: 280, error: 1.176
+epoch: 281, error: 1.175
+epoch: 282, error: 1.174
+epoch: 283, error: 1.173
+epoch: 284, error: 1.172
+epoch: 285, error: 1.172
+epoch: 286, error: 1.171
+epoch: 287, error: 1.170
+epoch: 288, error: 1.169
+epoch: 289, error: 1.168
+epoch: 290, error: 1.168
+epoch: 291, error: 1.167
+epoch: 292, error: 1.166
+epoch: 293, error: 1.165
+epoch: 294, error: 1.164
+epoch: 295, error: 1.164
+epoch: 296, error: 1.163
+epoch: 297, error: 1.162
+epoch: 298, error: 1.161
+epoch: 299, error: 1.161
+epoch: 300, error: 1.160
+epoch: 301, error: 1.159
+epoch: 302, error: 1.158
+epoch: 303, error: 1.157
+epoch: 304, error: 1.156
+epoch: 305, error: 1.156
+epoch: 306, error: 1.155
+epoch: 307, error: 1.154
+epoch: 308, error: 1.153
+epoch: 309, error: 1.152
+epoch: 310, error: 1.150
+epoch: 311, error: 1.149
+epoch: 312, error: 1.148
+epoch: 313, error: 1.146
+epoch: 314, error: 1.144
+epoch: 315, error: 1.141
+epoch: 316, error: 1.137
+epoch: 317, error: 1.132
+epoch: 318, error: 1.123
+epoch: 319, error: 1.107
+epoch: 320, error: 1.073
+epoch: 321, error: 0.988
+epoch: 322, error: 0.796
+epoch: 323, error: 0.579
+epoch: 324, error: 0.468
+epoch: 325, error: 0.411
+epoch: 326, error: 0.375
+epoch: 327, error: 0.350
+epoch: 328, error: 0.331
+epoch: 329, error: 0.317
+epoch: 330, error: 0.305
+epoch: 331, error: 0.295
+epoch: 332, error: 0.286
+epoch: 333, error: 0.279
+epoch: 334, error: 0.272
+epoch: 335, error: 0.267
+epoch: 336, error: 0.261
+epoch: 337, error: 0.256
+epoch: 338, error: 0.252
+epoch: 339, error: 0.248
+epoch: 340, error: 0.244
+epoch: 341, error: 0.241
+epoch: 342, error: 0.237
+epoch: 343, error: 0.234
+epoch: 344, error: 0.231
+epoch: 345, error: 0.228
+epoch: 346, error: 0.226
+epoch: 347, error: 0.223
+epoch: 348, error: 0.221
+epoch: 349, error: 0.218
+epoch: 350, error: 0.216
+epoch: 351, error: 0.214
+epoch: 352, error: 0.212
+epoch: 353, error: 0.210
+epoch: 354, error: 0.208
+epoch: 355, error: 0.206
+epoch: 356, error: 0.204
+epoch: 357, error: 0.202
+epoch: 358, error: 0.201
+epoch: 359, error: 0.199
+epoch: 360, error: 0.197
+epoch: 361, error: 0.196
+epoch: 362, error: 0.194
+epoch: 363, error: 0.193
+epoch: 364, error: 0.191
+epoch: 365, error: 0.190
+epoch: 366, error: 0.189
+epoch: 367, error: 0.187
+epoch: 368, error: 0.186
+epoch: 369, error: 0.185
+epoch: 370, error: 0.183
+epoch: 371, error: 0.182
+epoch: 372, error: 0.181
+epoch: 373, error: 0.180
+epoch: 374, error: 0.179
+epoch: 375, error: 0.177
+epoch: 376, error: 0.176
+epoch: 377, error: 0.175
+epoch: 378, error: 0.174
+epoch: 379, error: 0.173
+epoch: 380, error: 0.172
+epoch: 381, error: 0.171
+epoch: 382, error: 0.170
+epoch: 383, error: 0.169
+epoch: 384, error: 0.168
+epoch: 385, error: 0.167
+epoch: 386, error: 0.166
+epoch: 387, error: 0.165
+epoch: 388, error: 0.164
+epoch: 389, error: 0.163
+epoch: 390, error: 0.162
+epoch: 391, error: 0.161
+epoch: 392, error: 0.161
+epoch: 393, error: 0.160
+epoch: 394, error: 0.159
+epoch: 395, error: 0.158
+epoch: 396, error: 0.157
+epoch: 397, error: 0.156
+epoch: 398, error: 0.156
+epoch: 399, error: 0.155
+epoch: 400, error: 0.154
+epoch: 401, error: 0.153
+epoch: 402, error: 0.153
+epoch: 403, error: 0.152
+epoch: 404, error: 0.151
+epoch: 405, error: 0.150
+epoch: 406, error: 0.150
+epoch: 407, error: 0.149
+epoch: 408, error: 0.148
+epoch: 409, error: 0.148
+epoch: 410, error: 0.147
+epoch: 411, error: 0.146
+epoch: 412, error: 0.145
+epoch: 413, error: 0.145
+epoch: 414, error: 0.144
+epoch: 415, error: 0.144
+epoch: 416, error: 0.143
+epoch: 417, error: 0.142
+epoch: 418, error: 0.142
+epoch: 419, error: 0.141
+epoch: 420, error: 0.140
+epoch: 421, error: 0.140
+epoch: 422, error: 0.139
+epoch: 423, error: 0.139
+epoch: 424, error: 0.138
+epoch: 425, error: 0.137
+epoch: 426, error: 0.137
+epoch: 427, error: 0.136
+epoch: 428, error: 0.136
+epoch: 429, error: 0.135
+epoch: 430, error: 0.135
+epoch: 431, error: 0.134
+epoch: 432, error: 0.133
+epoch: 433, error: 0.133
+epoch: 434, error: 0.132
+epoch: 435, error: 0.132
+epoch: 436, error: 0.131
+epoch: 437, error: 0.131
+epoch: 438, error: 0.130
+epoch: 439, error: 0.130
+epoch: 440, error: 0.129
+epoch: 441, error: 0.129
+epoch: 442, error: 0.128
+epoch: 443, error: 0.128
+epoch: 444, error: 0.127
+epoch: 445, error: 0.127
+epoch: 446, error: 0.126
+epoch: 447, error: 0.126
+epoch: 448, error: 0.125
+epoch: 449, error: 0.125
+epoch: 450, error: 0.124
+epoch: 451, error: 0.124
+epoch: 452, error: 0.124
+epoch: 453, error: 0.123
+epoch: 454, error: 0.123
+epoch: 455, error: 0.122
+epoch: 456, error: 0.122
+epoch: 457, error: 0.121
+epoch: 458, error: 0.121
+epoch: 459, error: 0.120
+epoch: 460, error: 0.120
+epoch: 461, error: 0.120
+epoch: 462, error: 0.119
+epoch: 463, error: 0.119
+epoch: 464, error: 0.118
+epoch: 465, error: 0.118
+epoch: 466, error: 0.118
+epoch: 467, error: 0.117
+epoch: 468, error: 0.117
+epoch: 469, error: 0.116
+epoch: 470, error: 0.116
+epoch: 471, error: 0.116
+epoch: 472, error: 0.115
+epoch: 473, error: 0.115
+epoch: 474, error: 0.114
+epoch: 475, error: 0.114
+epoch: 476, error: 0.114
+epoch: 477, error: 0.113
+epoch: 478, error: 0.113
+epoch: 479, error: 0.113
+epoch: 480, error: 0.112
+epoch: 481, error: 0.112
+epoch: 482, error: 0.111
+epoch: 483, error: 0.111
+epoch: 484, error: 0.111
+epoch: 485, error: 0.110
+epoch: 486, error: 0.110
+epoch: 487, error: 0.110
+epoch: 488, error: 0.109
+epoch: 489, error: 0.109
+epoch: 490, error: 0.109
+epoch: 491, error: 0.108
+epoch: 492, error: 0.108
+epoch: 493, error: 0.108
+epoch: 494, error: 0.107
+epoch: 495, error: 0.107
+epoch: 496, error: 0.107
+epoch: 497, error: 0.106
+epoch: 498, error: 0.106
+epoch: 499, error: 0.106
+--------------
+Layer:  0
+Weights: 
+[[ 9.11549509e-04  7.69881089e-01  1.05510878e+00 ... -6.55408060e-01
+  -1.89899887e-01  4.03103222e-02]
+ [ 1.68800900e-01 -1.23859259e+00 -7.25473091e-01 ... -4.65509979e-01
+   4.87022277e-01  6.61193740e-01]
+ [-1.04019818e-01 -1.10651129e+00 -1.97084378e+00 ...  1.46589856e-01
+   6.30307445e-01  4.60646357e-01]
+ ...
+ [ 9.35737867e-02 -1.34438216e-01 -3.20058255e-01 ...  4.80896510e-01
+   1.66179341e-01  9.11393273e-02]
+ [ 9.44329650e-02 -1.38308194e-01 -3.17997858e-01 ...  4.80930254e-01
+   1.67436686e-01  9.23115476e-02]
+ [ 9.45489110e-02 -1.38850038e-01 -3.17648157e-01 ...  4.80982560e-01
+   1.67628171e-01  9.24758975e-02]]
+--------------
+Layer:  1
+Weights: 
+[[-5.52240408e+00 -2.33722086e+00  3.61050335e+00  2.82742669e+00
+  -2.03377270e-01 -3.23316546e+00 -3.07364345e+00 -2.42796827e+00
+  -4.09896969e-01  1.64753796e+00 -6.16288149e-01 -2.25571264e+00
+  -1.90257254e+00 -1.01155651e+00  9.72096946e-02  1.06476315e+00
+   1.35704375e+00  1.34851324e+00  1.34141200e+00  1.34018523e+00]
+ [-6.16865907e+00 -5.84863633e+00 -2.85233276e+00  2.21710444e+00
+   4.25813655e+00  3.58179042e+00  2.90886216e+00  5.57679884e-01
+  -4.82076475e-01 -2.26863714e-01 -2.05500698e-02  6.13804092e-01
+   9.19964703e-01  7.35840241e-01  5.95117579e-01  6.18783432e-01
+   6.84114994e-01  7.20608616e-01  7.31469432e-01  7.33459051e-01]
+ [ 5.20024434e-02  1.39700695e-02 -7.48459650e-02  2.27890391e-01
+  -1.28685581e+00 -2.73229194e+00 -2.19063156e+00 -3.08021531e+00
+  -4.41212719e+00 -3.62834189e+00 -1.54773516e-01  2.30894043e+00
+   2.79789354e+00  2.54793994e+00  2.05330555e+00  1.39816523e+00
+   8.91555622e-01  6.95425489e-01  6.56652867e-01  6.51179262e-01]
+ [-7.51430114e-02  4.59101576e+00 -6.05408559e+00 -6.62147911e+00
+  -3.62127501e+00 -4.49131387e+00 -3.44687645e+00 -3.40913559e+00
+  -7.37423788e-01  1.33468983e+00 -6.26703570e-01 -1.78530540e+00
+  -1.53461451e+00 -1.12888497e+00 -6.94218538e-01 -2.46433765e-03
+   6.45358166e-01  8.81833470e-01  9.07395091e-01  9.08267114e-01]
+ [-6.35753180e+00 -6.63676497e-01  3.56523266e+00 -6.23610846e-01
+  -2.18628841e+00  1.21587561e+00  3.34995634e+00  1.78711610e+00
+  -1.34066053e-01 -1.05989082e+00 -1.02297550e+00 -9.91953648e-01
+  -1.09405897e+00 -1.16855703e+00 -1.27808040e+00 -1.42766859e+00
+  -1.53064203e+00 -1.56577658e+00 -1.57249170e+00 -1.57346613e+00]
+ [-1.73689535e-03  2.12296516e-01 -4.59687046e+00 -6.16040807e+00
+   3.80127630e+00  4.82675732e+00 -1.82915518e+00 -3.42287059e+00
+  -1.67801612e+00 -4.73039257e-01 -2.71471050e-01 -2.97523767e-01
+  -3.43453420e-01 -3.63639940e-01 -3.86179541e-01 -4.71265338e-01
+  -5.69181952e-01 -6.15191012e-01 -6.25425028e-01 -6.27099780e-01]
+ [-1.15360664e+00 -1.06319085e+00  2.08512183e+00  6.51683940e+00
+   4.55936043e+00  6.62027332e-01 -1.51903386e+00 -2.15576167e+00
+  -2.24919810e+00 -2.15653038e+00 -1.77947214e+00 -1.67858883e+00
+  -1.72068234e+00 -1.74332462e+00 -1.85103347e+00 -1.99019099e+00
+  -2.04902121e+00 -2.05723230e+00 -2.05800835e+00 -2.05812047e+00]
+ [-1.15008915e+00 -6.57294262e+00 -5.13161299e+00 -3.89579628e+00
+  -3.76929896e+00 -3.71659505e+00 -3.60909957e+00 -7.61505525e-02
+   2.16284044e+00  1.83660808e+00  2.12876671e+00  1.62314764e+00
+   9.67113951e-01  7.68857731e-01  6.71392024e-01  3.80718795e-01
+   8.90926809e-02 -3.20084772e-02 -5.88969225e-02 -6.31799751e-02]
+ [ 1.63809479e+00  3.24136774e+00  4.48432627e+00 -1.34361742e+00
+  -5.31893757e+00 -4.76943744e+00 -3.10399852e+00 -2.37655776e+00
+  -2.17969051e+00 -2.27087117e+00 -1.86407879e+00 -1.58397420e+00
+  -1.58931335e+00 -1.63415354e+00 -1.65846013e+00 -1.70169765e+00
+  -1.74656108e+00 -1.76061730e+00 -1.76095736e+00 -1.76070109e+00]
+ [ 2.64129449e+00 -3.49888311e+00 -6.83257828e+00 -3.52372947e+00
+  -3.09901824e+00 -1.53455617e+00  1.59648230e+00  2.31526329e+00
+  -1.95966040e-01 -2.26110587e+00 -2.24054801e+00 -1.77457224e+00
+  -1.57689571e+00 -1.50992635e+00 -1.51514101e+00 -1.58884665e+00
+  -1.68432740e+00 -1.73656244e+00 -1.75107425e+00 -1.75373668e+00]]
+--------------
+Expected: 7, Got: 7
+Expected: 2, Got: 3
+Expected: 2, Got: 0
+Expected: 7, Got: 7
+Expected: 5, Got: 5
+Expected: 8, Got: 3
+Expected: 6, Got: 6
+Expected: 3, Got: 3
+Expected: 5, Got: 5
+Expected: 0, Got: 0
+Expected: 6, Got: 5
+Expected: 1, Got: 1
+Expected: 9, Got: 0
+Expected: 2, Got: 2
+Expected: 2, Got: 1
+Expected: 0, Got: 0
+Expected: 4, Got: 4
+Expected: 5, Got: 5
+Expected: 0, Got: 0
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Accuracy:  0.7142857142857143
+
+################################################
+
+epoch: 0, error: 188.220
+epoch: 1, error: 175.879
+epoch: 2, error: 175.287
+epoch: 3, error: 174.559
+epoch: 4, error: 173.845
+epoch: 5, error: 173.353
+epoch: 6, error: 173.077
+epoch: 7, error: 172.901
+epoch: 8, error: 172.752
+epoch: 9, error: 172.591
+epoch: 10, error: 172.351
+epoch: 11, error: 171.868
+epoch: 12, error: 170.785
+epoch: 13, error: 168.479
+epoch: 14, error: 164.517
+epoch: 15, error: 159.740
+epoch: 16, error: 155.376
+epoch: 17, error: 150.977
+epoch: 18, error: 145.409
+epoch: 19, error: 137.575
+epoch: 20, error: 127.812
+epoch: 21, error: 117.914
+epoch: 22, error: 108.343
+epoch: 23, error: 98.862
+epoch: 24, error: 90.146
+epoch: 25, error: 82.507
+epoch: 26, error: 75.514
+epoch: 27, error: 68.323
+epoch: 28, error: 60.605
+epoch: 29, error: 53.029
+epoch: 30, error: 46.023
+epoch: 31, error: 39.526
+epoch: 32, error: 33.540
+epoch: 33, error: 28.362
+epoch: 34, error: 24.175
+epoch: 35, error: 20.867
+epoch: 36, error: 18.303
+epoch: 37, error: 16.308
+epoch: 38, error: 14.727
+epoch: 39, error: 13.451
+epoch: 40, error: 12.396
+epoch: 41, error: 11.501
+epoch: 42, error: 10.723
+epoch: 43, error: 10.035
+epoch: 44, error: 9.418
+epoch: 45, error: 8.860
+epoch: 46, error: 8.350
+epoch: 47, error: 7.881
+epoch: 48, error: 7.447
+epoch: 49, error: 7.044
+epoch: 50, error: 6.670
+epoch: 51, error: 6.323
+epoch: 52, error: 6.006
+epoch: 53, error: 5.716
+epoch: 54, error: 5.454
+epoch: 55, error: 5.215
+epoch: 56, error: 4.999
+epoch: 57, error: 4.801
+epoch: 58, error: 4.621
+epoch: 59, error: 4.455
+epoch: 60, error: 4.302
+epoch: 61, error: 4.162
+epoch: 62, error: 4.031
+epoch: 63, error: 3.911
+epoch: 64, error: 3.798
+epoch: 65, error: 3.693
+epoch: 66, error: 3.595
+epoch: 67, error: 3.503
+epoch: 68, error: 3.417
+epoch: 69, error: 3.336
+epoch: 70, error: 3.260
+epoch: 71, error: 3.188
+epoch: 72, error: 3.120
+epoch: 73, error: 3.055
+epoch: 74, error: 2.994
+epoch: 75, error: 2.936
+epoch: 76, error: 2.881
+epoch: 77, error: 2.828
+epoch: 78, error: 2.779
+epoch: 79, error: 2.731
+epoch: 80, error: 2.686
+epoch: 81, error: 2.642
+epoch: 82, error: 2.601
+epoch: 83, error: 2.561
+epoch: 84, error: 2.524
+epoch: 85, error: 2.487
+epoch: 86, error: 2.453
+epoch: 87, error: 2.419
+epoch: 88, error: 2.388
+epoch: 89, error: 2.357
+epoch: 90, error: 2.327
+epoch: 91, error: 2.299
+epoch: 92, error: 2.272
+epoch: 93, error: 2.246
+epoch: 94, error: 2.221
+epoch: 95, error: 2.196
+epoch: 96, error: 2.173
+epoch: 97, error: 2.150
+epoch: 98, error: 2.128
+epoch: 99, error: 2.107
+epoch: 100, error: 2.087
+epoch: 101, error: 2.067
+epoch: 102, error: 2.048
+epoch: 103, error: 2.030
+epoch: 104, error: 2.012
+epoch: 105, error: 1.995
+epoch: 106, error: 1.978
+epoch: 107, error: 1.962
+epoch: 108, error: 1.946
+epoch: 109, error: 1.931
+epoch: 110, error: 1.916
+epoch: 111, error: 1.901
+epoch: 112, error: 1.887
+epoch: 113, error: 1.874
+epoch: 114, error: 1.861
+epoch: 115, error: 1.848
+epoch: 116, error: 1.835
+epoch: 117, error: 1.823
+epoch: 118, error: 1.811
+epoch: 119, error: 1.800
+epoch: 120, error: 1.788
+epoch: 121, error: 1.777
+epoch: 122, error: 1.767
+epoch: 123, error: 1.756
+epoch: 124, error: 1.746
+epoch: 125, error: 1.736
+epoch: 126, error: 1.727
+epoch: 127, error: 1.717
+epoch: 128, error: 1.708
+epoch: 129, error: 1.699
+epoch: 130, error: 1.690
+epoch: 131, error: 1.682
+epoch: 132, error: 1.673
+epoch: 133, error: 1.665
+epoch: 134, error: 1.657
+epoch: 135, error: 1.649
+epoch: 136, error: 1.642
+epoch: 137, error: 1.634
+epoch: 138, error: 1.627
+epoch: 139, error: 1.620
+epoch: 140, error: 1.613
+epoch: 141, error: 1.606
+epoch: 142, error: 1.599
+epoch: 143, error: 1.592
+epoch: 144, error: 1.586
+epoch: 145, error: 1.580
+epoch: 146, error: 1.573
+epoch: 147, error: 1.567
+epoch: 148, error: 1.561
+epoch: 149, error: 1.556
+epoch: 150, error: 1.550
+epoch: 151, error: 1.544
+epoch: 152, error: 1.539
+epoch: 153, error: 1.533
+epoch: 154, error: 1.528
+epoch: 155, error: 1.523
+epoch: 156, error: 1.518
+epoch: 157, error: 1.513
+epoch: 158, error: 1.508
+epoch: 159, error: 1.503
+epoch: 160, error: 1.498
+epoch: 161, error: 1.494
+epoch: 162, error: 1.489
+epoch: 163, error: 1.484
+epoch: 164, error: 1.480
+epoch: 165, error: 1.476
+epoch: 166, error: 1.471
+epoch: 167, error: 1.467
+epoch: 168, error: 1.463
+epoch: 169, error: 1.459
+epoch: 170, error: 1.455
+epoch: 171, error: 1.451
+epoch: 172, error: 1.447
+epoch: 173, error: 1.443
+epoch: 174, error: 1.440
+epoch: 175, error: 1.436
+epoch: 176, error: 1.432
+epoch: 177, error: 1.429
+epoch: 178, error: 1.425
+epoch: 179, error: 1.422
+epoch: 180, error: 1.418
+epoch: 181, error: 1.415
+epoch: 182, error: 1.412
+epoch: 183, error: 1.409
+epoch: 184, error: 1.405
+epoch: 185, error: 1.402
+epoch: 186, error: 1.399
+epoch: 187, error: 1.396
+epoch: 188, error: 1.393
+epoch: 189, error: 1.390
+epoch: 190, error: 1.387
+epoch: 191, error: 1.384
+epoch: 192, error: 1.381
+epoch: 193, error: 1.379
+epoch: 194, error: 1.376
+epoch: 195, error: 1.373
+epoch: 196, error: 1.370
+epoch: 197, error: 1.368
+epoch: 198, error: 1.365
+epoch: 199, error: 1.362
+epoch: 200, error: 1.360
+epoch: 201, error: 1.357
+epoch: 202, error: 1.355
+epoch: 203, error: 1.352
+epoch: 204, error: 1.350
+epoch: 205, error: 1.348
+epoch: 206, error: 1.345
+epoch: 207, error: 1.343
+epoch: 208, error: 1.341
+epoch: 209, error: 1.338
+epoch: 210, error: 1.336
+epoch: 211, error: 1.334
+epoch: 212, error: 1.332
+epoch: 213, error: 1.330
+epoch: 214, error: 1.327
+epoch: 215, error: 1.325
+epoch: 216, error: 1.323
+epoch: 217, error: 1.321
+epoch: 218, error: 1.319
+epoch: 219, error: 1.317
+epoch: 220, error: 1.315
+epoch: 221, error: 1.313
+epoch: 222, error: 1.311
+epoch: 223, error: 1.309
+epoch: 224, error: 1.307
+epoch: 225, error: 1.306
+epoch: 226, error: 1.304
+epoch: 227, error: 1.302
+epoch: 228, error: 1.300
+epoch: 229, error: 1.298
+epoch: 230, error: 1.297
+epoch: 231, error: 1.295
+epoch: 232, error: 1.293
+epoch: 233, error: 1.291
+epoch: 234, error: 1.290
+epoch: 235, error: 1.288
+epoch: 236, error: 1.286
+epoch: 237, error: 1.285
+epoch: 238, error: 1.283
+epoch: 239, error: 1.281
+epoch: 240, error: 1.280
+epoch: 241, error: 1.278
+epoch: 242, error: 1.277
+epoch: 243, error: 1.275
+epoch: 244, error: 1.274
+epoch: 245, error: 1.272
+epoch: 246, error: 1.271
+epoch: 247, error: 1.269
+epoch: 248, error: 1.268
+epoch: 249, error: 1.266
+epoch: 250, error: 1.265
+epoch: 251, error: 1.264
+epoch: 252, error: 1.262
+epoch: 253, error: 1.261
+epoch: 254, error: 1.259
+epoch: 255, error: 1.258
+epoch: 256, error: 1.257
+epoch: 257, error: 1.255
+epoch: 258, error: 1.254
+epoch: 259, error: 1.253
+epoch: 260, error: 1.251
+epoch: 261, error: 1.250
+epoch: 262, error: 1.249
+epoch: 263, error: 1.248
+epoch: 264, error: 1.246
+epoch: 265, error: 1.245
+epoch: 266, error: 1.244
+epoch: 267, error: 1.243
+epoch: 268, error: 1.242
+epoch: 269, error: 1.240
+epoch: 270, error: 1.239
+epoch: 271, error: 1.238
+epoch: 272, error: 1.237
+epoch: 273, error: 1.236
+epoch: 274, error: 1.235
+epoch: 275, error: 1.234
+epoch: 276, error: 1.232
+epoch: 277, error: 1.231
+epoch: 278, error: 1.230
+epoch: 279, error: 1.229
+epoch: 280, error: 1.228
+epoch: 281, error: 1.227
+epoch: 282, error: 1.226
+epoch: 283, error: 1.225
+epoch: 284, error: 1.224
+epoch: 285, error: 1.223
+epoch: 286, error: 1.222
+epoch: 287, error: 1.221
+epoch: 288, error: 1.220
+epoch: 289, error: 1.219
+epoch: 290, error: 1.218
+epoch: 291, error: 1.217
+epoch: 292, error: 1.216
+epoch: 293, error: 1.215
+epoch: 294, error: 1.214
+epoch: 295, error: 1.213
+epoch: 296, error: 1.212
+epoch: 297, error: 1.211
+epoch: 298, error: 1.210
+epoch: 299, error: 1.209
+epoch: 300, error: 1.208
+epoch: 301, error: 1.208
+epoch: 302, error: 1.207
+epoch: 303, error: 1.206
+epoch: 304, error: 1.205
+epoch: 305, error: 1.204
+epoch: 306, error: 1.203
+epoch: 307, error: 1.202
+epoch: 308, error: 1.202
+epoch: 309, error: 1.201
+epoch: 310, error: 1.200
+epoch: 311, error: 1.199
+epoch: 312, error: 1.198
+epoch: 313, error: 1.197
+epoch: 314, error: 1.197
+epoch: 315, error: 1.196
+epoch: 316, error: 1.195
+epoch: 317, error: 1.194
+epoch: 318, error: 1.193
+epoch: 319, error: 1.193
+epoch: 320, error: 1.192
+epoch: 321, error: 1.191
+epoch: 322, error: 1.190
+epoch: 323, error: 1.190
+epoch: 324, error: 1.189
+epoch: 325, error: 1.188
+epoch: 326, error: 1.187
+epoch: 327, error: 1.187
+epoch: 328, error: 1.186
+epoch: 329, error: 1.185
+epoch: 330, error: 1.184
+epoch: 331, error: 1.184
+epoch: 332, error: 1.183
+epoch: 333, error: 1.182
+epoch: 334, error: 1.182
+epoch: 335, error: 1.181
+epoch: 336, error: 1.180
+epoch: 337, error: 1.180
+epoch: 338, error: 1.179
+epoch: 339, error: 1.178
+epoch: 340, error: 1.178
+epoch: 341, error: 1.177
+epoch: 342, error: 1.176
+epoch: 343, error: 1.176
+epoch: 344, error: 1.175
+epoch: 345, error: 1.174
+epoch: 346, error: 1.174
+epoch: 347, error: 1.173
+epoch: 348, error: 1.172
+epoch: 349, error: 1.172
+epoch: 350, error: 1.171
+epoch: 351, error: 1.171
+epoch: 352, error: 1.170
+epoch: 353, error: 1.169
+epoch: 354, error: 1.169
+epoch: 355, error: 1.168
+epoch: 356, error: 1.168
+epoch: 357, error: 1.167
+epoch: 358, error: 1.166
+epoch: 359, error: 1.166
+epoch: 360, error: 1.165
+epoch: 361, error: 1.165
+epoch: 362, error: 1.164
+epoch: 363, error: 1.163
+epoch: 364, error: 1.163
+epoch: 365, error: 1.162
+epoch: 366, error: 1.162
+epoch: 367, error: 1.161
+epoch: 368, error: 1.161
+epoch: 369, error: 1.160
+epoch: 370, error: 1.160
+epoch: 371, error: 1.159
+epoch: 372, error: 1.159
+epoch: 373, error: 1.158
+epoch: 374, error: 1.157
+epoch: 375, error: 1.157
+epoch: 376, error: 1.156
+epoch: 377, error: 1.156
+epoch: 378, error: 1.155
+epoch: 379, error: 1.155
+epoch: 380, error: 1.154
+epoch: 381, error: 1.154
+epoch: 382, error: 1.153
+epoch: 383, error: 1.153
+epoch: 384, error: 1.152
+epoch: 385, error: 1.152
+epoch: 386, error: 1.151
+epoch: 387, error: 1.151
+epoch: 388, error: 1.150
+epoch: 389, error: 1.150
+epoch: 390, error: 1.149
+epoch: 391, error: 1.149
+epoch: 392, error: 1.149
+epoch: 393, error: 1.148
+epoch: 394, error: 1.148
+epoch: 395, error: 1.147
+epoch: 396, error: 1.147
+epoch: 397, error: 1.146
+epoch: 398, error: 1.146
+epoch: 399, error: 1.145
+epoch: 400, error: 1.145
+epoch: 401, error: 1.144
+epoch: 402, error: 1.144
+epoch: 403, error: 1.143
+epoch: 404, error: 1.143
+epoch: 405, error: 1.143
+epoch: 406, error: 1.142
+epoch: 407, error: 1.142
+epoch: 408, error: 1.141
+epoch: 409, error: 1.141
+epoch: 410, error: 1.140
+epoch: 411, error: 1.140
+epoch: 412, error: 1.140
+epoch: 413, error: 1.139
+epoch: 414, error: 1.139
+epoch: 415, error: 1.138
+epoch: 416, error: 1.138
+epoch: 417, error: 1.138
+epoch: 418, error: 1.137
+epoch: 419, error: 1.137
+epoch: 420, error: 1.136
+epoch: 421, error: 1.136
+epoch: 422, error: 1.136
+epoch: 423, error: 1.135
+epoch: 424, error: 1.135
+epoch: 425, error: 1.134
+epoch: 426, error: 1.134
+epoch: 427, error: 1.134
+epoch: 428, error: 1.133
+epoch: 429, error: 1.133
+epoch: 430, error: 1.132
+epoch: 431, error: 1.132
+epoch: 432, error: 1.132
+epoch: 433, error: 1.131
+epoch: 434, error: 1.131
+epoch: 435, error: 1.131
+epoch: 436, error: 1.130
+epoch: 437, error: 1.130
+epoch: 438, error: 1.129
+epoch: 439, error: 1.129
+epoch: 440, error: 1.129
+epoch: 441, error: 1.128
+epoch: 442, error: 1.128
+epoch: 443, error: 1.128
+epoch: 444, error: 1.127
+epoch: 445, error: 1.127
+epoch: 446, error: 1.127
+epoch: 447, error: 1.126
+epoch: 448, error: 1.126
+epoch: 449, error: 1.126
+epoch: 450, error: 1.125
+epoch: 451, error: 1.125
+epoch: 452, error: 1.125
+epoch: 453, error: 1.124
+epoch: 454, error: 1.124
+epoch: 455, error: 1.124
+epoch: 456, error: 1.123
+epoch: 457, error: 1.123
+epoch: 458, error: 1.123
+epoch: 459, error: 1.122
+epoch: 460, error: 1.122
+epoch: 461, error: 1.122
+epoch: 462, error: 1.121
+epoch: 463, error: 1.121
+epoch: 464, error: 1.121
+epoch: 465, error: 1.120
+epoch: 466, error: 1.120
+epoch: 467, error: 1.120
+epoch: 468, error: 1.119
+epoch: 469, error: 1.119
+epoch: 470, error: 1.119
+epoch: 471, error: 1.118
+epoch: 472, error: 1.118
+epoch: 473, error: 1.118
+epoch: 474, error: 1.118
+epoch: 475, error: 1.117
+epoch: 476, error: 1.117
+epoch: 477, error: 1.117
+epoch: 478, error: 1.116
+epoch: 479, error: 1.116
+epoch: 480, error: 1.116
+epoch: 481, error: 1.115
+epoch: 482, error: 1.115
+epoch: 483, error: 1.115
+epoch: 484, error: 1.115
+epoch: 485, error: 1.114
+epoch: 486, error: 1.114
+epoch: 487, error: 1.114
+epoch: 488, error: 1.113
+epoch: 489, error: 1.113
+epoch: 490, error: 1.113
+epoch: 491, error: 1.113
+epoch: 492, error: 1.112
+epoch: 493, error: 1.112
+epoch: 494, error: 1.112
+epoch: 495, error: 1.112
+epoch: 496, error: 1.111
+epoch: 497, error: 1.111
+epoch: 498, error: 1.111
+epoch: 499, error: 1.110
+--------------
+Layer:  0
+Weights: 
+[[-0.13847756 -0.32048108  0.11263537 ... -0.63716958 -0.48014035
+  -0.30084774]
+ [ 0.10954302 -0.92411989 -0.74140355 ... -0.44417072 -0.08651151
+   0.22970452]
+ [ 0.08435989 -2.73135953 -1.56656415 ...  0.61550505  0.97020233
+   0.75920778]
+ ...
+ [ 0.07303773  0.45857179  0.04235081 ...  0.16124801  0.35339767
+   0.2180135 ]
+ [ 0.07303779  0.4585721   0.04235135 ...  0.16124714  0.35339705
+   0.21801341]
+ [ 0.0730378   0.45857213  0.04235139 ...  0.16124706  0.35339699
+   0.2180134 ]]
+--------------
+Layer:  1
+Weights: 
+[[-4.1949686  -2.36436306  3.52661112  6.69423546 -2.38916383 -4.13633906
+  -0.38170994  0.75715951  2.31394733  1.31873777 -0.40612974 -0.67651636
+  -0.79681276 -0.93567    -0.96253893 -0.96656618 -0.9671075  -0.96717176
+  -0.96717845 -0.96717906]
+ [-5.63331208 -5.52972323 -2.03088207  2.99118595  4.03782606  4.30899379
+   3.85815243  1.70143487 -0.29384577 -0.55879168 -0.49999062 -0.31870174
+  -0.27173549 -0.31239293 -0.31693658 -0.31735505 -0.31739163 -0.31739437
+  -0.31739449 -0.31739449]
+ [-4.23893494  1.47434475  4.93109081 -1.07707815 -2.55999855 -1.45366408
+  -1.13920129 -2.83167937 -3.99829501 -2.37834922 -0.40271613  0.93230432
+   1.28835391  1.25260443  1.24205382  1.24055244  1.24033782  1.24030957
+   1.24030641  1.24030611]
+ [-6.59702157  4.6994465  -4.27563049 -6.35843116 -3.51786006 -2.84910106
+  -1.70938745  0.10160718  0.63404429  1.08607934  0.5605231  -0.56325851
+  -1.1336575  -1.23320634 -1.2268669  -1.22391998 -1.2233821  -1.22330758
+  -1.22329886 -1.22329798]
+ [ 0.67276466 -0.0388602  -0.19231054 -1.74995263 -2.09049628  1.63991321
+   5.4348987   3.27839228 -0.57877174 -2.67696283 -2.89241918 -1.97933579
+  -1.51886037 -1.4792209  -1.47729706 -1.4774057  -1.47745173 -1.47745977
+  -1.47746084 -1.47746096]
+ [-1.93058453  1.43659588 -5.69832904 -4.60529538  5.20797678  4.20822343
+  -1.28856095 -2.92878926 -2.34020437 -0.71444307 -0.49451808 -0.83144591
+  -0.89140089 -0.89827472 -0.90240575 -0.90326318 -0.90339355 -0.90340999
+  -0.90341179 -0.90341196]
+ [-1.16833477 -0.67837755  4.43190082  5.60404991  4.99076407  0.16763181
+  -2.01508333 -2.59916124 -3.49567216 -3.70232351 -2.85927845 -1.7991902
+  -1.43166115 -1.40684502 -1.40386689 -1.40352101 -1.40348466 -1.4034813
+  -1.40348103 -1.40348101]
+ [-4.05612344 -6.80375962 -4.80175135 -3.8620724  -3.44559941 -3.21615635
+  -2.37301346 -0.5001131   0.53211584 -0.18232541 -0.04655125  0.67271411
+   0.93847474  0.97403191  0.98157895  0.98283205  0.98301827  0.9830425
+   0.98304521  0.98304547]
+ [ 2.55832991  3.24991099  4.07003543 -2.2376595  -6.37555404 -4.62230699
+  -2.52381984 -2.05018781 -2.05463253 -2.19050984 -1.68203501 -1.66183921
+  -1.75430786 -1.72786069 -1.7250296  -1.72478661 -1.72476425 -1.7247621
+  -1.72476192 -1.72476191]
+ [ 3.95211256 -5.72044895 -6.42020383 -2.22565625 -2.54154191 -2.58479417
+  -2.90510287 -1.96320012  0.12152102  0.81993667 -0.27878904 -0.98638958
+  -1.06089483 -1.0584595  -1.06020586 -1.06063392 -1.06070773 -1.06071825
+  -1.0607195  -1.06071962]]
+--------------
+Expected: 1, Got: 6
+Expected: 3, Got: 3
+Expected: 5, Got: 5
+Expected: 2, Got: 2
+Expected: 0, Got: 0
+Expected: 3, Got: 3
+Expected: 1, Got: 1
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Expected: 9, Got: 9
+Expected: 1, Got: 1
+Expected: 0, Got: 0
+Expected: 5, Got: 5
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Expected: 6, Got: 6
+Expected: 4, Got: 4
+Expected: 5, Got: 5
+Expected: 7, Got: 7
+Expected: 6, Got: 6
+Accuracy:  0.9523809523809523
+
+################################################
+
+epoch: 0, error: 188.705
+epoch: 1, error: 176.132
+epoch: 2, error: 175.399
+epoch: 3, error: 174.578
+epoch: 4, error: 173.830
+epoch: 5, error: 173.339
+epoch: 6, error: 173.068
+epoch: 7, error: 172.874
+epoch: 8, error: 172.633
+epoch: 9, error: 172.170
+epoch: 10, error: 171.134
+epoch: 11, error: 168.767
+epoch: 12, error: 164.140
+epoch: 13, error: 159.287
+epoch: 14, error: 156.083
+epoch: 15, error: 153.279
+epoch: 16, error: 150.053
+epoch: 17, error: 146.208
+epoch: 18, error: 141.739
+epoch: 19, error: 135.802
+epoch: 20, error: 127.096
+epoch: 21, error: 117.636
+epoch: 22, error: 109.162
+epoch: 23, error: 101.260
+epoch: 24, error: 93.261
+epoch: 25, error: 84.483
+epoch: 26, error: 75.097
+epoch: 27, error: 66.137
+epoch: 28, error: 58.279
+epoch: 29, error: 51.593
+epoch: 30, error: 45.751
+epoch: 31, error: 40.451
+epoch: 32, error: 35.688
+epoch: 33, error: 31.528
+epoch: 34, error: 27.921
+epoch: 35, error: 24.790
+epoch: 36, error: 22.108
+epoch: 37, error: 19.783
+epoch: 38, error: 17.676
+epoch: 39, error: 15.795
+epoch: 40, error: 14.179
+epoch: 41, error: 12.786
+epoch: 42, error: 11.582
+epoch: 43, error: 10.549
+epoch: 44, error: 9.669
+epoch: 45, error: 8.918
+epoch: 46, error: 8.274
+epoch: 47, error: 7.718
+epoch: 48, error: 7.232
+epoch: 49, error: 6.805
+epoch: 50, error: 6.427
+epoch: 51, error: 6.088
+epoch: 52, error: 5.783
+epoch: 53, error: 5.508
+epoch: 54, error: 5.258
+epoch: 55, error: 5.031
+epoch: 56, error: 4.823
+epoch: 57, error: 4.633
+epoch: 58, error: 4.459
+epoch: 59, error: 4.298
+epoch: 60, error: 4.151
+epoch: 61, error: 4.014
+epoch: 62, error: 3.888
+epoch: 63, error: 3.771
+epoch: 64, error: 3.662
+epoch: 65, error: 3.560
+epoch: 66, error: 3.465
+epoch: 67, error: 3.376
+epoch: 68, error: 3.293
+epoch: 69, error: 3.215
+epoch: 70, error: 3.142
+epoch: 71, error: 3.073
+epoch: 72, error: 3.007
+epoch: 73, error: 2.946
+epoch: 74, error: 2.887
+epoch: 75, error: 2.832
+epoch: 76, error: 2.780
+epoch: 77, error: 2.730
+epoch: 78, error: 2.682
+epoch: 79, error: 2.637
+epoch: 80, error: 2.594
+epoch: 81, error: 2.553
+epoch: 82, error: 2.514
+epoch: 83, error: 2.476
+epoch: 84, error: 2.441
+epoch: 85, error: 2.406
+epoch: 86, error: 2.373
+epoch: 87, error: 2.341
+epoch: 88, error: 2.311
+epoch: 89, error: 2.282
+epoch: 90, error: 2.253
+epoch: 91, error: 2.226
+epoch: 92, error: 2.200
+epoch: 93, error: 2.174
+epoch: 94, error: 2.149
+epoch: 95, error: 2.125
+epoch: 96, error: 2.101
+epoch: 97, error: 2.078
+epoch: 98, error: 2.054
+epoch: 99, error: 2.031
+epoch: 100, error: 2.007
+epoch: 101, error: 1.982
+epoch: 102, error: 1.955
+epoch: 103, error: 1.935
+epoch: 104, error: 1.950
+epoch: 105, error: 1.939
+epoch: 106, error: 1.953
+epoch: 107, error: 1.865
+epoch: 108, error: 1.562
+epoch: 109, error: 1.234
+epoch: 110, error: 1.110
+epoch: 111, error: 1.032
+epoch: 112, error: 0.993
+epoch: 113, error: 0.963
+epoch: 114, error: 0.936
+epoch: 115, error: 0.913
+epoch: 116, error: 0.892
+epoch: 117, error: 0.873
+epoch: 118, error: 0.855
+epoch: 119, error: 0.838
+epoch: 120, error: 0.822
+epoch: 121, error: 0.807
+epoch: 122, error: 0.792
+epoch: 123, error: 0.779
+epoch: 124, error: 0.766
+epoch: 125, error: 0.753
+epoch: 126, error: 0.741
+epoch: 127, error: 0.730
+epoch: 128, error: 0.718
+epoch: 129, error: 0.708
+epoch: 130, error: 0.697
+epoch: 131, error: 0.687
+epoch: 132, error: 0.678
+epoch: 133, error: 0.668
+epoch: 134, error: 0.659
+epoch: 135, error: 0.650
+epoch: 136, error: 0.642
+epoch: 137, error: 0.634
+epoch: 138, error: 0.626
+epoch: 139, error: 0.618
+epoch: 140, error: 0.610
+epoch: 141, error: 0.603
+epoch: 142, error: 0.595
+epoch: 143, error: 0.588
+epoch: 144, error: 0.581
+epoch: 145, error: 0.575
+epoch: 146, error: 0.568
+epoch: 147, error: 0.562
+epoch: 148, error: 0.555
+epoch: 149, error: 0.549
+epoch: 150, error: 0.543
+epoch: 151, error: 0.537
+epoch: 152, error: 0.532
+epoch: 153, error: 0.526
+epoch: 154, error: 0.521
+epoch: 155, error: 0.515
+epoch: 156, error: 0.510
+epoch: 157, error: 0.505
+epoch: 158, error: 0.500
+epoch: 159, error: 0.495
+epoch: 160, error: 0.490
+epoch: 161, error: 0.485
+epoch: 162, error: 0.480
+epoch: 163, error: 0.476
+epoch: 164, error: 0.471
+epoch: 165, error: 0.467
+epoch: 166, error: 0.463
+epoch: 167, error: 0.458
+epoch: 168, error: 0.454
+epoch: 169, error: 0.450
+epoch: 170, error: 0.446
+epoch: 171, error: 0.442
+epoch: 172, error: 0.438
+epoch: 173, error: 0.434
+epoch: 174, error: 0.431
+epoch: 175, error: 0.427
+epoch: 176, error: 0.423
+epoch: 177, error: 0.420
+epoch: 178, error: 0.416
+epoch: 179, error: 0.413
+epoch: 180, error: 0.409
+epoch: 181, error: 0.406
+epoch: 182, error: 0.403
+epoch: 183, error: 0.400
+epoch: 184, error: 0.396
+epoch: 185, error: 0.393
+epoch: 186, error: 0.390
+epoch: 187, error: 0.387
+epoch: 188, error: 0.384
+epoch: 189, error: 0.381
+epoch: 190, error: 0.378
+epoch: 191, error: 0.375
+epoch: 192, error: 0.373
+epoch: 193, error: 0.370
+epoch: 194, error: 0.367
+epoch: 195, error: 0.364
+epoch: 196, error: 0.362
+epoch: 197, error: 0.359
+epoch: 198, error: 0.357
+epoch: 199, error: 0.354
+epoch: 200, error: 0.351
+epoch: 201, error: 0.349
+epoch: 202, error: 0.347
+epoch: 203, error: 0.344
+epoch: 204, error: 0.342
+epoch: 205, error: 0.339
+epoch: 206, error: 0.337
+epoch: 207, error: 0.335
+epoch: 208, error: 0.333
+epoch: 209, error: 0.330
+epoch: 210, error: 0.328
+epoch: 211, error: 0.326
+epoch: 212, error: 0.324
+epoch: 213, error: 0.322
+epoch: 214, error: 0.320
+epoch: 215, error: 0.318
+epoch: 216, error: 0.315
+epoch: 217, error: 0.313
+epoch: 218, error: 0.311
+epoch: 219, error: 0.310
+epoch: 220, error: 0.308
+epoch: 221, error: 0.306
+epoch: 222, error: 0.304
+epoch: 223, error: 0.302
+epoch: 224, error: 0.300
+epoch: 225, error: 0.298
+epoch: 226, error: 0.296
+epoch: 227, error: 0.295
+epoch: 228, error: 0.293
+epoch: 229, error: 0.291
+epoch: 230, error: 0.289
+epoch: 231, error: 0.288
+epoch: 232, error: 0.286
+epoch: 233, error: 0.284
+epoch: 234, error: 0.283
+epoch: 235, error: 0.281
+epoch: 236, error: 0.279
+epoch: 237, error: 0.278
+epoch: 238, error: 0.276
+epoch: 239, error: 0.275
+epoch: 240, error: 0.273
+epoch: 241, error: 0.272
+epoch: 242, error: 0.270
+epoch: 243, error: 0.269
+epoch: 244, error: 0.267
+epoch: 245, error: 0.266
+epoch: 246, error: 0.264
+epoch: 247, error: 0.263
+epoch: 248, error: 0.261
+epoch: 249, error: 0.260
+epoch: 250, error: 0.259
+epoch: 251, error: 0.257
+epoch: 252, error: 0.256
+epoch: 253, error: 0.255
+epoch: 254, error: 0.253
+epoch: 255, error: 0.252
+epoch: 256, error: 0.251
+epoch: 257, error: 0.249
+epoch: 258, error: 0.248
+epoch: 259, error: 0.247
+epoch: 260, error: 0.246
+epoch: 261, error: 0.244
+epoch: 262, error: 0.243
+epoch: 263, error: 0.242
+epoch: 264, error: 0.241
+epoch: 265, error: 0.240
+epoch: 266, error: 0.238
+epoch: 267, error: 0.237
+epoch: 268, error: 0.236
+epoch: 269, error: 0.235
+epoch: 270, error: 0.234
+epoch: 271, error: 0.233
+epoch: 272, error: 0.231
+epoch: 273, error: 0.230
+epoch: 274, error: 0.229
+epoch: 275, error: 0.228
+epoch: 276, error: 0.227
+epoch: 277, error: 0.226
+epoch: 278, error: 0.225
+epoch: 279, error: 0.224
+epoch: 280, error: 0.223
+epoch: 281, error: 0.222
+epoch: 282, error: 0.221
+epoch: 283, error: 0.220
+epoch: 284, error: 0.219
+epoch: 285, error: 0.218
+epoch: 286, error: 0.217
+epoch: 287, error: 0.216
+epoch: 288, error: 0.215
+epoch: 289, error: 0.214
+epoch: 290, error: 0.213
+epoch: 291, error: 0.212
+epoch: 292, error: 0.211
+epoch: 293, error: 0.210
+epoch: 294, error: 0.209
+epoch: 295, error: 0.208
+epoch: 296, error: 0.207
+epoch: 297, error: 0.207
+epoch: 298, error: 0.206
+epoch: 299, error: 0.205
+epoch: 300, error: 0.204
+epoch: 301, error: 0.203
+epoch: 302, error: 0.202
+epoch: 303, error: 0.201
+epoch: 304, error: 0.201
+epoch: 305, error: 0.200
+epoch: 306, error: 0.199
+epoch: 307, error: 0.198
+epoch: 308, error: 0.197
+epoch: 309, error: 0.196
+epoch: 310, error: 0.196
+epoch: 311, error: 0.195
+epoch: 312, error: 0.194
+epoch: 313, error: 0.193
+epoch: 314, error: 0.192
+epoch: 315, error: 0.192
+epoch: 316, error: 0.191
+epoch: 317, error: 0.190
+epoch: 318, error: 0.189
+epoch: 319, error: 0.189
+epoch: 320, error: 0.188
+epoch: 321, error: 0.187
+epoch: 322, error: 0.186
+epoch: 323, error: 0.186
+epoch: 324, error: 0.185
+epoch: 325, error: 0.184
+epoch: 326, error: 0.184
+epoch: 327, error: 0.183
+epoch: 328, error: 0.182
+epoch: 329, error: 0.181
+epoch: 330, error: 0.181
+epoch: 331, error: 0.180
+epoch: 332, error: 0.179
+epoch: 333, error: 0.179
+epoch: 334, error: 0.178
+epoch: 335, error: 0.177
+epoch: 336, error: 0.177
+epoch: 337, error: 0.176
+epoch: 338, error: 0.175
+epoch: 339, error: 0.175
+epoch: 340, error: 0.174
+epoch: 341, error: 0.173
+epoch: 342, error: 0.173
+epoch: 343, error: 0.172
+epoch: 344, error: 0.172
+epoch: 345, error: 0.171
+epoch: 346, error: 0.170
+epoch: 347, error: 0.170
+epoch: 348, error: 0.169
+epoch: 349, error: 0.169
+epoch: 350, error: 0.168
+epoch: 351, error: 0.167
+epoch: 352, error: 0.167
+epoch: 353, error: 0.166
+epoch: 354, error: 0.166
+epoch: 355, error: 0.165
+epoch: 356, error: 0.164
+epoch: 357, error: 0.164
+epoch: 358, error: 0.163
+epoch: 359, error: 0.163
+epoch: 360, error: 0.162
+epoch: 361, error: 0.162
+epoch: 362, error: 0.161
+epoch: 363, error: 0.161
+epoch: 364, error: 0.160
+epoch: 365, error: 0.159
+epoch: 366, error: 0.159
+epoch: 367, error: 0.158
+epoch: 368, error: 0.158
+epoch: 369, error: 0.157
+epoch: 370, error: 0.157
+epoch: 371, error: 0.156
+epoch: 372, error: 0.156
+epoch: 373, error: 0.155
+epoch: 374, error: 0.155
+epoch: 375, error: 0.154
+epoch: 376, error: 0.154
+epoch: 377, error: 0.153
+epoch: 378, error: 0.153
+epoch: 379, error: 0.152
+epoch: 380, error: 0.152
+epoch: 381, error: 0.151
+epoch: 382, error: 0.151
+epoch: 383, error: 0.150
+epoch: 384, error: 0.150
+epoch: 385, error: 0.149
+epoch: 386, error: 0.149
+epoch: 387, error: 0.148
+epoch: 388, error: 0.148
+epoch: 389, error: 0.147
+epoch: 390, error: 0.147
+epoch: 391, error: 0.146
+epoch: 392, error: 0.146
+epoch: 393, error: 0.146
+epoch: 394, error: 0.145
+epoch: 395, error: 0.145
+epoch: 396, error: 0.144
+epoch: 397, error: 0.144
+epoch: 398, error: 0.143
+epoch: 399, error: 0.143
+epoch: 400, error: 0.142
+epoch: 401, error: 0.142
+epoch: 402, error: 0.142
+epoch: 403, error: 0.141
+epoch: 404, error: 0.141
+epoch: 405, error: 0.140
+epoch: 406, error: 0.140
+epoch: 407, error: 0.140
+epoch: 408, error: 0.139
+epoch: 409, error: 0.139
+epoch: 410, error: 0.138
+epoch: 411, error: 0.138
+epoch: 412, error: 0.137
+epoch: 413, error: 0.137
+epoch: 414, error: 0.137
+epoch: 415, error: 0.136
+epoch: 416, error: 0.136
+epoch: 417, error: 0.135
+epoch: 418, error: 0.135
+epoch: 419, error: 0.135
+epoch: 420, error: 0.134
+epoch: 421, error: 0.134
+epoch: 422, error: 0.134
+epoch: 423, error: 0.133
+epoch: 424, error: 0.133
+epoch: 425, error: 0.132
+epoch: 426, error: 0.132
+epoch: 427, error: 0.132
+epoch: 428, error: 0.131
+epoch: 429, error: 0.131
+epoch: 430, error: 0.131
+epoch: 431, error: 0.130
+epoch: 432, error: 0.130
+epoch: 433, error: 0.129
+epoch: 434, error: 0.129
+epoch: 435, error: 0.129
+epoch: 436, error: 0.128
+epoch: 437, error: 0.128
+epoch: 438, error: 0.128
+epoch: 439, error: 0.127
+epoch: 440, error: 0.127
+epoch: 441, error: 0.127
+epoch: 442, error: 0.126
+epoch: 443, error: 0.126
+epoch: 444, error: 0.126
+epoch: 445, error: 0.125
+epoch: 446, error: 0.125
+epoch: 447, error: 0.125
+epoch: 448, error: 0.124
+epoch: 449, error: 0.124
+epoch: 450, error: 0.124
+epoch: 451, error: 0.123
+epoch: 452, error: 0.123
+epoch: 453, error: 0.123
+epoch: 454, error: 0.122
+epoch: 455, error: 0.122
+epoch: 456, error: 0.122
+epoch: 457, error: 0.121
+epoch: 458, error: 0.121
+epoch: 459, error: 0.121
+epoch: 460, error: 0.120
+epoch: 461, error: 0.120
+epoch: 462, error: 0.120
+epoch: 463, error: 0.119
+epoch: 464, error: 0.119
+epoch: 465, error: 0.119
+epoch: 466, error: 0.119
+epoch: 467, error: 0.118
+epoch: 468, error: 0.118
+epoch: 469, error: 0.118
+epoch: 470, error: 0.117
+epoch: 471, error: 0.117
+epoch: 472, error: 0.117
+epoch: 473, error: 0.116
+epoch: 474, error: 0.116
+epoch: 475, error: 0.116
+epoch: 476, error: 0.116
+epoch: 477, error: 0.115
+epoch: 478, error: 0.115
+epoch: 479, error: 0.115
+epoch: 480, error: 0.114
+epoch: 481, error: 0.114
+epoch: 482, error: 0.114
+epoch: 483, error: 0.114
+epoch: 484, error: 0.113
+epoch: 485, error: 0.113
+epoch: 486, error: 0.113
+epoch: 487, error: 0.112
+epoch: 488, error: 0.112
+epoch: 489, error: 0.112
+epoch: 490, error: 0.112
+epoch: 491, error: 0.111
+epoch: 492, error: 0.111
+epoch: 493, error: 0.111
+epoch: 494, error: 0.111
+epoch: 495, error: 0.110
+epoch: 496, error: 0.110
+epoch: 497, error: 0.110
+epoch: 498, error: 0.110
+epoch: 499, error: 0.109
+--------------
+Layer:  0
+Weights: 
+[[-0.0062638   1.61189268  2.37272123 ... -0.49506304  0.0568547
+   0.30327939]
+ [ 0.07122064 -1.25911253 -1.01248116 ... -0.73707023 -0.80139179
+  -0.18184962]
+ [-0.014544   -0.33671266 -0.47641921 ... -0.65415076  0.02094354
+  -0.01711993]
+ ...
+ [ 0.00708948  0.06513474  0.1202996  ... -0.24994596 -0.23579175
+  -0.06314136]
+ [ 0.00708938  0.06513717  0.12030179 ... -0.24994759 -0.23579334
+  -0.06314171]
+ [ 0.00708937  0.06513738  0.12030197 ... -0.24994771 -0.23579347
+  -0.06314174]]
+--------------
+Layer:  1
+Weights: 
+[[-5.11392297  2.00900704 -1.7498035   1.11020998  6.14840191 -1.30449311
+  -4.92966804  1.08950037  1.15640601 -0.92780626 -1.09019537 -0.81505464
+  -0.54452609 -0.34811677 -0.2646982  -0.24516175 -0.24209642 -0.24172142
+  -0.24168302 -0.24167962]
+ [-8.69747951 -8.08055214 -1.04071002  1.61704704  0.21578803  0.32527497
+   1.19150495  1.32836836  1.20306869  1.27561509  1.10855868  0.87493095
+   0.73897647  0.65206265  0.61450224  0.60577088  0.60438048  0.60420698
+   0.60418888  0.60418725]
+ [ 1.36066711 -6.44366288 -5.38104546  4.09877282  4.66321994  1.0244528
+  -0.21775769 -1.65118529 -1.74328065 -1.13676919 -1.06977184 -1.20424463
+  -1.30998654 -1.36458917 -1.38230514 -1.38589929 -1.38642644 -1.38648824
+  -1.38649435 -1.38649488]
+ [ 1.54747309  3.97301947 -4.1182777  -7.24874286  2.02333662  3.90995391
+  -1.48424962 -3.51685157 -2.10654938 -1.06280334 -1.02447112 -1.19992026
+  -1.29019503 -1.31078775 -1.31125414 -1.31076028 -1.31063855 -1.31062053
+  -1.31061846 -1.31061825]
+ [-3.51840446  0.53434602  2.73453516 -3.12576693 -4.16154491 -3.28682589
+  -3.68236759 -2.11283169  0.78901936  2.32513812  1.99373831  1.17339978
+   0.61229117  0.37257836  0.31127406  0.30065267  0.29915451  0.29897952
+   0.29896215  0.29896065]
+ [-2.66882532 -2.78064929  2.83686002 -7.61768974 -6.53825199  2.03132694
+   3.13355553  1.54099386 -0.72108442 -1.54292597 -1.34664725 -1.14332478
+  -1.0287707  -0.98330106 -0.96864314 -0.96511336 -0.96452459 -0.96444889
+  -0.96444081 -0.96444007]
+ [-5.40502225 -1.8994445   5.68784464  6.53357759 -0.8367522  -2.16102466
+   0.18599377 -1.18711062 -2.15935968 -1.87530548 -1.81784638 -1.93215282
+  -2.0544767  -2.14559884 -2.18339985 -2.19203564 -2.19340794 -2.19357895
+  -2.19359676 -2.19359836]
+ [ 3.8879026  -6.62825715 -6.76548574 -5.36650049 -1.59248262  0.53153777
+  -2.16409077 -2.28085268 -1.76577348 -0.94160941  0.08235881  0.70733467
+   0.95521979  1.00970112  1.0181293   1.01934215  1.01947194  1.01948405
+   1.01948504  1.01948512]
+ [ 4.65359051  5.17219096 -0.53944891  1.16562565 -1.94595558 -5.71869571
+  -5.30271129 -3.51253352 -1.88768271 -1.53748428 -1.63366793 -1.67081642
+  -1.71008621 -1.74073415 -1.75371278 -1.75657151 -1.75700631 -1.7570587
+  -1.75706401 -1.75706448]
+ [ 2.5551931   1.58645627 -6.63324865 -7.79777857 -5.98948811 -4.70780681
+  -0.2430456   2.38704334  0.2375918  -1.27557577 -1.02683068 -0.52198744
+  -0.17608069 -0.02530941  0.01087621  0.01620414  0.01689716  0.01697618
+   0.01698398  0.01698465]]
+--------------
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Expected: 4, Got: 4
+Expected: 7, Got: 7
+Expected: 7, Got: 7
+Expected: 8, Got: 8
+Expected: 4, Got: 4
+Expected: 9, Got: 9
+Expected: 6, Got: 6
+Expected: 4, Got: 4
+Expected: 6, Got: 6
+Expected: 5, Got: 5
+Expected: 7, Got: 7
+Expected: 0, Got: 0
+Expected: 7, Got: 7
+Expected: 2, Got: 2
+Expected: 3, Got: 3
+Expected: 1, Got: 0
+Expected: 9, Got: 9
+Expected: 0, Got: 0
+Expected: 8, Got: 8
+Accuracy:  0.9523809523809523
+
+################################################
+
+epoch: 0, error: 188.183
+epoch: 1, error: 175.627
+epoch: 2, error: 174.776
+epoch: 3, error: 173.812
+epoch: 4, error: 173.000
+epoch: 5, error: 172.537
+epoch: 6, error: 172.320
+epoch: 7, error: 172.159
+epoch: 8, error: 171.876
+epoch: 9, error: 171.179
+epoch: 10, error: 169.489
+epoch: 11, error: 166.047
+epoch: 12, error: 161.438
+epoch: 13, error: 157.627
+epoch: 14, error: 154.433
+epoch: 15, error: 150.527
+epoch: 16, error: 145.601
+epoch: 17, error: 139.863
+epoch: 18, error: 133.839
+epoch: 19, error: 128.073
+epoch: 20, error: 122.318
+epoch: 21, error: 116.141
+epoch: 22, error: 109.000
+epoch: 23, error: 101.030
+epoch: 24, error: 93.162
+epoch: 25, error: 86.143
+epoch: 26, error: 79.929
+epoch: 27, error: 73.641
+epoch: 28, error: 66.436
+epoch: 29, error: 58.593
+epoch: 30, error: 51.026
+epoch: 31, error: 44.289
+epoch: 32, error: 38.668
+epoch: 33, error: 34.075
+epoch: 34, error: 30.235
+epoch: 35, error: 26.957
+epoch: 36, error: 24.266
+epoch: 37, error: 22.016
+epoch: 38, error: 20.037
+epoch: 39, error: 18.198
+epoch: 40, error: 16.632
+epoch: 41, error: 15.314
+epoch: 42, error: 14.096
+epoch: 43, error: 13.010
+epoch: 44, error: 12.055
+epoch: 45, error: 11.193
+epoch: 46, error: 10.414
+epoch: 47, error: 9.697
+epoch: 48, error: 8.955
+epoch: 49, error: 8.282
+epoch: 50, error: 7.777
+epoch: 51, error: 7.363
+epoch: 52, error: 7.006
+epoch: 53, error: 6.691
+epoch: 54, error: 6.409
+epoch: 55, error: 6.154
+epoch: 56, error: 5.922
+epoch: 57, error: 5.709
+epoch: 58, error: 5.514
+epoch: 59, error: 5.334
+epoch: 60, error: 5.168
+epoch: 61, error: 5.015
+epoch: 62, error: 4.874
+epoch: 63, error: 4.743
+epoch: 64, error: 4.622
+epoch: 65, error: 4.509
+epoch: 66, error: 4.405
+epoch: 67, error: 4.307
+epoch: 68, error: 4.216
+epoch: 69, error: 4.130
+epoch: 70, error: 4.050
+epoch: 71, error: 3.974
+epoch: 72, error: 3.901
+epoch: 73, error: 3.832
+epoch: 74, error: 3.766
+epoch: 75, error: 3.702
+epoch: 76, error: 3.639
+epoch: 77, error: 3.580
+epoch: 78, error: 3.525
+epoch: 79, error: 3.469
+epoch: 80, error: 3.409
+epoch: 81, error: 3.352
+epoch: 82, error: 3.292
+epoch: 83, error: 3.227
+epoch: 84, error: 3.161
+epoch: 85, error: 3.094
+epoch: 86, error: 3.026
+epoch: 87, error: 2.957
+epoch: 88, error: 2.889
+epoch: 89, error: 2.820
+epoch: 90, error: 2.753
+epoch: 91, error: 2.686
+epoch: 92, error: 2.622
+epoch: 93, error: 2.561
+epoch: 94, error: 2.503
+epoch: 95, error: 2.449
+epoch: 96, error: 2.399
+epoch: 97, error: 2.352
+epoch: 98, error: 2.310
+epoch: 99, error: 2.270
+epoch: 100, error: 2.234
+epoch: 101, error: 2.200
+epoch: 102, error: 2.168
+epoch: 103, error: 2.138
+epoch: 104, error: 2.110
+epoch: 105, error: 2.084
+epoch: 106, error: 2.059
+epoch: 107, error: 2.035
+epoch: 108, error: 2.013
+epoch: 109, error: 1.992
+epoch: 110, error: 1.971
+epoch: 111, error: 1.952
+epoch: 112, error: 1.933
+epoch: 113, error: 1.916
+epoch: 114, error: 1.898
+epoch: 115, error: 1.882
+epoch: 116, error: 1.866
+epoch: 117, error: 1.851
+epoch: 118, error: 1.836
+epoch: 119, error: 1.822
+epoch: 120, error: 1.808
+epoch: 121, error: 1.795
+epoch: 122, error: 1.783
+epoch: 123, error: 1.770
+epoch: 124, error: 1.758
+epoch: 125, error: 1.747
+epoch: 126, error: 1.735
+epoch: 127, error: 1.725
+epoch: 128, error: 1.714
+epoch: 129, error: 1.704
+epoch: 130, error: 1.694
+epoch: 131, error: 1.684
+epoch: 132, error: 1.675
+epoch: 133, error: 1.666
+epoch: 134, error: 1.657
+epoch: 135, error: 1.648
+epoch: 136, error: 1.640
+epoch: 137, error: 1.631
+epoch: 138, error: 1.623
+epoch: 139, error: 1.615
+epoch: 140, error: 1.608
+epoch: 141, error: 1.600
+epoch: 142, error: 1.593
+epoch: 143, error: 1.586
+epoch: 144, error: 1.579
+epoch: 145, error: 1.572
+epoch: 146, error: 1.566
+epoch: 147, error: 1.559
+epoch: 148, error: 1.553
+epoch: 149, error: 1.547
+epoch: 150, error: 1.541
+epoch: 151, error: 1.535
+epoch: 152, error: 1.529
+epoch: 153, error: 1.523
+epoch: 154, error: 1.518
+epoch: 155, error: 1.512
+epoch: 156, error: 1.507
+epoch: 157, error: 1.502
+epoch: 158, error: 1.497
+epoch: 159, error: 1.491
+epoch: 160, error: 1.487
+epoch: 161, error: 1.482
+epoch: 162, error: 1.477
+epoch: 163, error: 1.472
+epoch: 164, error: 1.468
+epoch: 165, error: 1.463
+epoch: 166, error: 1.459
+epoch: 167, error: 1.455
+epoch: 168, error: 1.450
+epoch: 169, error: 1.446
+epoch: 170, error: 1.442
+epoch: 171, error: 1.438
+epoch: 172, error: 1.434
+epoch: 173, error: 1.430
+epoch: 174, error: 1.426
+epoch: 175, error: 1.423
+epoch: 176, error: 1.419
+epoch: 177, error: 1.415
+epoch: 178, error: 1.412
+epoch: 179, error: 1.408
+epoch: 180, error: 1.405
+epoch: 181, error: 1.401
+epoch: 182, error: 1.398
+epoch: 183, error: 1.395
+epoch: 184, error: 1.391
+epoch: 185, error: 1.388
+epoch: 186, error: 1.385
+epoch: 187, error: 1.382
+epoch: 188, error: 1.379
+epoch: 189, error: 1.376
+epoch: 190, error: 1.373
+epoch: 191, error: 1.370
+epoch: 192, error: 1.367
+epoch: 193, error: 1.364
+epoch: 194, error: 1.362
+epoch: 195, error: 1.359
+epoch: 196, error: 1.356
+epoch: 197, error: 1.353
+epoch: 198, error: 1.351
+epoch: 199, error: 1.348
+epoch: 200, error: 1.346
+epoch: 201, error: 1.343
+epoch: 202, error: 1.341
+epoch: 203, error: 1.338
+epoch: 204, error: 1.336
+epoch: 205, error: 1.333
+epoch: 206, error: 1.331
+epoch: 207, error: 1.329
+epoch: 208, error: 1.326
+epoch: 209, error: 1.324
+epoch: 210, error: 1.322
+epoch: 211, error: 1.320
+epoch: 212, error: 1.317
+epoch: 213, error: 1.315
+epoch: 214, error: 1.313
+epoch: 215, error: 1.311
+epoch: 216, error: 1.309
+epoch: 217, error: 1.307
+epoch: 218, error: 1.305
+epoch: 219, error: 1.303
+epoch: 220, error: 1.301
+epoch: 221, error: 1.299
+epoch: 222, error: 1.297
+epoch: 223, error: 1.295
+epoch: 224, error: 1.293
+epoch: 225, error: 1.291
+epoch: 226, error: 1.289
+epoch: 227, error: 1.287
+epoch: 228, error: 1.285
+epoch: 229, error: 1.283
+epoch: 230, error: 1.281
+epoch: 231, error: 1.280
+epoch: 232, error: 1.278
+epoch: 233, error: 1.276
+epoch: 234, error: 1.274
+epoch: 235, error: 1.272
+epoch: 236, error: 1.270
+epoch: 237, error: 1.269
+epoch: 238, error: 1.267
+epoch: 239, error: 1.265
+epoch: 240, error: 1.263
+epoch: 241, error: 1.261
+epoch: 242, error: 1.259
+epoch: 243, error: 1.257
+epoch: 244, error: 1.255
+epoch: 245, error: 1.253
+epoch: 246, error: 1.250
+epoch: 247, error: 1.248
+epoch: 248, error: 1.245
+epoch: 249, error: 1.242
+epoch: 250, error: 1.238
+epoch: 251, error: 1.233
+epoch: 252, error: 1.226
+epoch: 253, error: 1.214
+epoch: 254, error: 1.193
+epoch: 255, error: 1.144
+epoch: 256, error: 0.984
+epoch: 257, error: 0.508
+epoch: 258, error: 0.389
+epoch: 259, error: 0.358
+epoch: 260, error: 0.341
+epoch: 261, error: 0.328
+epoch: 262, error: 0.318
+epoch: 263, error: 0.311
+epoch: 264, error: 0.304
+epoch: 265, error: 0.299
+epoch: 266, error: 0.294
+epoch: 267, error: 0.289
+epoch: 268, error: 0.285
+epoch: 269, error: 0.282
+epoch: 270, error: 0.278
+epoch: 271, error: 0.275
+epoch: 272, error: 0.272
+epoch: 273, error: 0.270
+epoch: 274, error: 0.267
+epoch: 275, error: 0.264
+epoch: 276, error: 0.262
+epoch: 277, error: 0.260
+epoch: 278, error: 0.257
+epoch: 279, error: 0.255
+epoch: 280, error: 0.253
+epoch: 281, error: 0.251
+epoch: 282, error: 0.249
+epoch: 283, error: 0.247
+epoch: 284, error: 0.245
+epoch: 285, error: 0.244
+epoch: 286, error: 0.242
+epoch: 287, error: 0.240
+epoch: 288, error: 0.238
+epoch: 289, error: 0.237
+epoch: 290, error: 0.235
+epoch: 291, error: 0.233
+epoch: 292, error: 0.232
+epoch: 293, error: 0.230
+epoch: 294, error: 0.229
+epoch: 295, error: 0.227
+epoch: 296, error: 0.226
+epoch: 297, error: 0.225
+epoch: 298, error: 0.223
+epoch: 299, error: 0.222
+epoch: 300, error: 0.221
+epoch: 301, error: 0.219
+epoch: 302, error: 0.218
+epoch: 303, error: 0.217
+epoch: 304, error: 0.215
+epoch: 305, error: 0.214
+epoch: 306, error: 0.213
+epoch: 307, error: 0.212
+epoch: 308, error: 0.211
+epoch: 309, error: 0.209
+epoch: 310, error: 0.208
+epoch: 311, error: 0.207
+epoch: 312, error: 0.206
+epoch: 313, error: 0.205
+epoch: 314, error: 0.204
+epoch: 315, error: 0.203
+epoch: 316, error: 0.202
+epoch: 317, error: 0.201
+epoch: 318, error: 0.200
+epoch: 319, error: 0.199
+epoch: 320, error: 0.198
+epoch: 321, error: 0.197
+epoch: 322, error: 0.196
+epoch: 323, error: 0.195
+epoch: 324, error: 0.194
+epoch: 325, error: 0.193
+epoch: 326, error: 0.192
+epoch: 327, error: 0.191
+epoch: 328, error: 0.190
+epoch: 329, error: 0.189
+epoch: 330, error: 0.188
+epoch: 331, error: 0.187
+epoch: 332, error: 0.187
+epoch: 333, error: 0.186
+epoch: 334, error: 0.185
+epoch: 335, error: 0.184
+epoch: 336, error: 0.183
+epoch: 337, error: 0.182
+epoch: 338, error: 0.181
+epoch: 339, error: 0.181
+epoch: 340, error: 0.180
+epoch: 341, error: 0.179
+epoch: 342, error: 0.178
+epoch: 343, error: 0.178
+epoch: 344, error: 0.177
+epoch: 345, error: 0.176
+epoch: 346, error: 0.175
+epoch: 347, error: 0.174
+epoch: 348, error: 0.174
+epoch: 349, error: 0.173
+epoch: 350, error: 0.172
+epoch: 351, error: 0.172
+epoch: 352, error: 0.171
+epoch: 353, error: 0.170
+epoch: 354, error: 0.169
+epoch: 355, error: 0.169
+epoch: 356, error: 0.168
+epoch: 357, error: 0.167
+epoch: 358, error: 0.167
+epoch: 359, error: 0.166
+epoch: 360, error: 0.165
+epoch: 361, error: 0.165
+epoch: 362, error: 0.164
+epoch: 363, error: 0.163
+epoch: 364, error: 0.163
+epoch: 365, error: 0.162
+epoch: 366, error: 0.161
+epoch: 367, error: 0.161
+epoch: 368, error: 0.160
+epoch: 369, error: 0.160
+epoch: 370, error: 0.159
+epoch: 371, error: 0.158
+epoch: 372, error: 0.158
+epoch: 373, error: 0.157
+epoch: 374, error: 0.157
+epoch: 375, error: 0.156
+epoch: 376, error: 0.155
+epoch: 377, error: 0.155
+epoch: 378, error: 0.154
+epoch: 379, error: 0.154
+epoch: 380, error: 0.153
+epoch: 381, error: 0.153
+epoch: 382, error: 0.152
+epoch: 383, error: 0.151
+epoch: 384, error: 0.151
+epoch: 385, error: 0.150
+epoch: 386, error: 0.150
+epoch: 387, error: 0.149
+epoch: 388, error: 0.149
+epoch: 389, error: 0.148
+epoch: 390, error: 0.148
+epoch: 391, error: 0.147
+epoch: 392, error: 0.147
+epoch: 393, error: 0.146
+epoch: 394, error: 0.146
+epoch: 395, error: 0.145
+epoch: 396, error: 0.145
+epoch: 397, error: 0.144
+epoch: 398, error: 0.144
+epoch: 399, error: 0.143
+epoch: 400, error: 0.143
+epoch: 401, error: 0.142
+epoch: 402, error: 0.142
+epoch: 403, error: 0.141
+epoch: 404, error: 0.141
+epoch: 405, error: 0.140
+epoch: 406, error: 0.140
+epoch: 407, error: 0.139
+epoch: 408, error: 0.139
+epoch: 409, error: 0.138
+epoch: 410, error: 0.138
+epoch: 411, error: 0.138
+epoch: 412, error: 0.137
+epoch: 413, error: 0.137
+epoch: 414, error: 0.136
+epoch: 415, error: 0.136
+epoch: 416, error: 0.135
+epoch: 417, error: 0.135
+epoch: 418, error: 0.135
+epoch: 419, error: 0.134
+epoch: 420, error: 0.134
+epoch: 421, error: 0.133
+epoch: 422, error: 0.133
+epoch: 423, error: 0.132
+epoch: 424, error: 0.132
+epoch: 425, error: 0.132
+epoch: 426, error: 0.131
+epoch: 427, error: 0.131
+epoch: 428, error: 0.130
+epoch: 429, error: 0.130
+epoch: 430, error: 0.130
+epoch: 431, error: 0.129
+epoch: 432, error: 0.129
+epoch: 433, error: 0.128
+epoch: 434, error: 0.128
+epoch: 435, error: 0.128
+epoch: 436, error: 0.127
+epoch: 437, error: 0.127
+epoch: 438, error: 0.126
+epoch: 439, error: 0.126
+epoch: 440, error: 0.126
+epoch: 441, error: 0.125
+epoch: 442, error: 0.125
+epoch: 443, error: 0.125
+epoch: 444, error: 0.124
+epoch: 445, error: 0.124
+epoch: 446, error: 0.124
+epoch: 447, error: 0.123
+epoch: 448, error: 0.123
+epoch: 449, error: 0.122
+epoch: 450, error: 0.122
+epoch: 451, error: 0.122
+epoch: 452, error: 0.121
+epoch: 453, error: 0.121
+epoch: 454, error: 0.121
+epoch: 455, error: 0.120
+epoch: 456, error: 0.120
+epoch: 457, error: 0.120
+epoch: 458, error: 0.119
+epoch: 459, error: 0.119
+epoch: 460, error: 0.119
+epoch: 461, error: 0.118
+epoch: 462, error: 0.118
+epoch: 463, error: 0.118
+epoch: 464, error: 0.117
+epoch: 465, error: 0.117
+epoch: 466, error: 0.117
+epoch: 467, error: 0.116
+epoch: 468, error: 0.116
+epoch: 469, error: 0.116
+epoch: 470, error: 0.115
+epoch: 471, error: 0.115
+epoch: 472, error: 0.115
+epoch: 473, error: 0.115
+epoch: 474, error: 0.114
+epoch: 475, error: 0.114
+epoch: 476, error: 0.114
+epoch: 477, error: 0.113
+epoch: 478, error: 0.113
+epoch: 479, error: 0.113
+epoch: 480, error: 0.112
+epoch: 481, error: 0.112
+epoch: 482, error: 0.112
+epoch: 483, error: 0.111
+epoch: 484, error: 0.111
+epoch: 485, error: 0.111
+epoch: 486, error: 0.111
+epoch: 487, error: 0.110
+epoch: 488, error: 0.110
+epoch: 489, error: 0.110
+epoch: 490, error: 0.109
+epoch: 491, error: 0.109
+epoch: 492, error: 0.109
+epoch: 493, error: 0.109
+epoch: 494, error: 0.108
+epoch: 495, error: 0.108
+epoch: 496, error: 0.108
+epoch: 497, error: 0.108
+epoch: 498, error: 0.107
+epoch: 499, error: 0.107
+--------------
+Layer:  0
+Weights: 
+[[ 0.05516012  1.67703445  1.34603742 ... -0.85210507  0.52710454
+   0.56768091]
+ [ 0.40703588 -1.24915817 -1.31591327 ... -0.03910572  0.81800788
+   0.88011065]
+ [-0.05142246  0.20718326 -0.19881438 ...  0.22389162 -0.82645146
+  -0.34414647]
+ ...
+ [ 0.04698547 -0.04159244 -0.20105212 ...  0.42531056  0.21925627
+   0.14492973]
+ [ 0.04699075 -0.04164345 -0.20104827 ...  0.4255042   0.21932459
+   0.14494021]
+ [ 0.04699143 -0.04164835 -0.20104661 ...  0.42552699  0.21933242
+   0.1449414 ]]
+--------------
+Layer:  1
+Weights: 
+[[-4.32457288 -0.28235558  4.02969471 -0.81101371 -3.78965003 -2.76350874
+  -4.28731878 -2.74295023  2.86264755  3.36013378  0.17208099 -1.0353779
+  -0.72447814 -0.19694867  0.20093819  0.37563867  0.42287071  0.4318809
+   0.43324181  0.43341315]
+ [-8.8348094  -6.71907714 -1.46337064  2.52679463  2.34638433  1.99967602
+   1.20988425  0.50078639 -0.43556869 -0.4542771   0.02647636  0.55067446
+   0.79577109  0.81138094  0.79716623  0.78913322  0.78639277  0.78575437
+   0.78564204  0.78562609]
+ [-0.91192086  2.14340684 -2.76607783 -3.74117423 -2.0372     -1.45335516
+  -0.98345046 -2.91256116 -4.38904914 -2.94527751 -0.54321826  0.96393628
+   1.45551394  1.50554153  1.47191284  1.44901048  1.44177849  1.44023592
+   1.43997846  1.43994313]
+ [-2.26666992  3.64650175 -3.56732845 -5.53294014 -3.74353274 -2.57222414
+   2.33640499  4.7604702   1.75769606 -1.86367791 -2.0446507  -1.38178719
+  -1.17547495 -1.10011442 -1.05479857 -1.0274638  -1.01792465 -1.01571873
+  -1.01533295 -1.01527836]
+ [-0.46114907 -4.26363223 -4.6779722   1.30035965  4.85690466  4.44265551
+  -1.27571719 -3.09640289 -1.31439472 -0.33754954 -0.60674465 -1.17433202
+  -1.37058578 -1.32356389 -1.27329122 -1.25720481 -1.25422911 -1.25385299
+  -1.25381964 -1.25381794]
+ [-0.63756393 -5.04407587  2.92814266  0.61425912 -4.54942376 -0.0650932
+   4.80537013  0.943229   -2.93538104 -2.40483521 -1.30954074 -1.13994364
+  -1.25642957 -1.34985711 -1.41067948 -1.4400131  -1.44900918 -1.45093216
+  -1.45125003 -1.45129311]
+ [-3.99992667  1.39883607  4.52019053  5.70073614  1.63582202 -3.08791113
+  -2.85032909 -2.12538272 -3.39561394 -3.72789924 -2.20684177 -1.5156073
+  -1.53031048 -1.56957435 -1.60306875 -1.61816763 -1.6222892  -1.62305601
+  -1.62316536 -1.62317823]
+ [-1.69852031 -7.4719303  -6.39733323 -5.4876236  -3.92342382 -3.57282018
+  -1.58993229  1.95491015  1.21012379  0.71176816  2.41588135  2.12202746
+   1.22935943  0.84598593  0.66972214  0.60904426  0.59458124  0.59203901
+   0.59168773  0.59164761]
+ [ 3.83879524  5.32429032 -0.01157267 -5.01494837 -2.29656358 -2.53998249
+  -5.69025546 -4.53939534 -2.40889074 -1.16110111 -1.08990264 -1.43248822
+  -1.58811207 -1.6541596  -1.68982143 -1.70112603 -1.70287691 -1.70305998
+  -1.7030762  -1.70307737]
+ [ 2.40910961 -4.65978291 -4.32362968 -2.30003077 -5.35892975 -4.02022253
+  -2.02462252 -1.6660192   2.27896976  2.35407497 -0.75679428 -1.7428925
+  -1.61351815 -1.56807403 -1.57312274 -1.58042299 -1.58300402 -1.5835926
+  -1.5836962  -1.58371106]]
+--------------
+Expected: 0, Got: 0
+Expected: 9, Got: 9
+Expected: 6, Got: 6
+Expected: 9, Got: 9
+Expected: 9, Got: 9
+Expected: 5, Got: 5
+Expected: 8, Got: 0
+Expected: 8, Got: 8
+Expected: 2, Got: 2
+Expected: 4, Got: 4
+Expected: 3, Got: 2
+Expected: 4, Got: 4
+Expected: 1, Got: 1
+Expected: 0, Got: 0
+Expected: 3, Got: 3
+Expected: 6, Got: 6
+Expected: 7, Got: 7
+Expected: 3, Got: 3
+Expected: 9, Got: 9
+Expected: 9, Got: 9
+Expected: 8, Got: 8
+Accuracy:  0.9047619047619048
+
+################################################
+
+epoch: 0, error: 188.347
+epoch: 1, error: 175.661
+epoch: 2, error: 174.745
+epoch: 3, error: 173.689
+epoch: 4, error: 172.779
+epoch: 5, error: 172.254
+epoch: 6, error: 171.997
+epoch: 7, error: 171.829
+epoch: 8, error: 171.644
+epoch: 9, error: 171.322
+epoch: 10, error: 170.597
+epoch: 11, error: 168.938
+epoch: 12, error: 165.741
+epoch: 13, error: 161.516
+epoch: 14, error: 157.539
+epoch: 15, error: 154.112
+epoch: 16, error: 150.406
+epoch: 17, error: 144.989
+epoch: 18, error: 136.892
+epoch: 19, error: 127.190
+epoch: 20, error: 117.994
+epoch: 21, error: 108.844
+epoch: 22, error: 99.331
+epoch: 23, error: 90.196
+epoch: 24, error: 81.892
+epoch: 25, error: 74.597
+epoch: 26, error: 68.029
+epoch: 27, error: 61.932
+epoch: 28, error: 56.243
+epoch: 29, error: 50.881
+epoch: 30, error: 45.725
+epoch: 31, error: 40.716
+epoch: 32, error: 35.924
+epoch: 33, error: 31.612
+epoch: 34, error: 28.050
+epoch: 35, error: 25.202
+epoch: 36, error: 22.890
+epoch: 37, error: 20.976
+epoch: 38, error: 19.366
+epoch: 39, error: 17.991
+epoch: 40, error: 16.795
+epoch: 41, error: 15.730
+epoch: 42, error: 14.758
+epoch: 43, error: 13.880
+epoch: 44, error: 13.108
+epoch: 45, error: 12.433
+epoch: 46, error: 11.843
+epoch: 47, error: 11.323
+epoch: 48, error: 10.861
+epoch: 49, error: 10.446
+epoch: 50, error: 10.069
+epoch: 51, error: 9.720
+epoch: 52, error: 9.394
+epoch: 53, error: 9.084
+epoch: 54, error: 8.786
+epoch: 55, error: 8.497
+epoch: 56, error: 8.219
+epoch: 57, error: 7.952
+epoch: 58, error: 7.696
+epoch: 59, error: 7.451
+epoch: 60, error: 7.217
+epoch: 61, error: 6.988
+epoch: 62, error: 6.759
+epoch: 63, error: 6.515
+epoch: 64, error: 6.243
+epoch: 65, error: 5.946
+epoch: 66, error: 5.645
+epoch: 67, error: 5.364
+epoch: 68, error: 5.100
+epoch: 69, error: 4.827
+epoch: 70, error: 4.511
+epoch: 71, error: 4.191
+epoch: 72, error: 3.910
+epoch: 73, error: 3.705
+epoch: 74, error: 3.564
+epoch: 75, error: 3.447
+epoch: 76, error: 3.344
+epoch: 77, error: 3.251
+epoch: 78, error: 3.167
+epoch: 79, error: 3.089
+epoch: 80, error: 3.017
+epoch: 81, error: 2.951
+epoch: 82, error: 2.889
+epoch: 83, error: 2.830
+epoch: 84, error: 2.775
+epoch: 85, error: 2.724
+epoch: 86, error: 2.675
+epoch: 87, error: 2.629
+epoch: 88, error: 2.586
+epoch: 89, error: 2.544
+epoch: 90, error: 2.505
+epoch: 91, error: 2.468
+epoch: 92, error: 2.432
+epoch: 93, error: 2.398
+epoch: 94, error: 2.366
+epoch: 95, error: 2.335
+epoch: 96, error: 2.305
+epoch: 97, error: 2.276
+epoch: 98, error: 2.249
+epoch: 99, error: 2.223
+epoch: 100, error: 2.198
+epoch: 101, error: 2.173
+epoch: 102, error: 2.150
+epoch: 103, error: 2.128
+epoch: 104, error: 2.106
+epoch: 105, error: 2.085
+epoch: 106, error: 2.065
+epoch: 107, error: 2.046
+epoch: 108, error: 2.027
+epoch: 109, error: 2.009
+epoch: 110, error: 1.991
+epoch: 111, error: 1.974
+epoch: 112, error: 1.958
+epoch: 113, error: 1.942
+epoch: 114, error: 1.927
+epoch: 115, error: 1.912
+epoch: 116, error: 1.897
+epoch: 117, error: 1.883
+epoch: 118, error: 1.870
+epoch: 119, error: 1.856
+epoch: 120, error: 1.844
+epoch: 121, error: 1.831
+epoch: 122, error: 1.819
+epoch: 123, error: 1.807
+epoch: 124, error: 1.796
+epoch: 125, error: 1.785
+epoch: 126, error: 1.774
+epoch: 127, error: 1.763
+epoch: 128, error: 1.753
+epoch: 129, error: 1.743
+epoch: 130, error: 1.733
+epoch: 131, error: 1.723
+epoch: 132, error: 1.714
+epoch: 133, error: 1.705
+epoch: 134, error: 1.696
+epoch: 135, error: 1.687
+epoch: 136, error: 1.679
+epoch: 137, error: 1.671
+epoch: 138, error: 1.663
+epoch: 139, error: 1.655
+epoch: 140, error: 1.647
+epoch: 141, error: 1.639
+epoch: 142, error: 1.632
+epoch: 143, error: 1.625
+epoch: 144, error: 1.618
+epoch: 145, error: 1.611
+epoch: 146, error: 1.604
+epoch: 147, error: 1.597
+epoch: 148, error: 1.591
+epoch: 149, error: 1.585
+epoch: 150, error: 1.578
+epoch: 151, error: 1.572
+epoch: 152, error: 1.566
+epoch: 153, error: 1.560
+epoch: 154, error: 1.555
+epoch: 155, error: 1.549
+epoch: 156, error: 1.543
+epoch: 157, error: 1.538
+epoch: 158, error: 1.533
+epoch: 159, error: 1.527
+epoch: 160, error: 1.522
+epoch: 161, error: 1.517
+epoch: 162, error: 1.512
+epoch: 163, error: 1.507
+epoch: 164, error: 1.503
+epoch: 165, error: 1.498
+epoch: 166, error: 1.493
+epoch: 167, error: 1.489
+epoch: 168, error: 1.484
+epoch: 169, error: 1.480
+epoch: 170, error: 1.476
+epoch: 171, error: 1.471
+epoch: 172, error: 1.467
+epoch: 173, error: 1.463
+epoch: 174, error: 1.459
+epoch: 175, error: 1.455
+epoch: 176, error: 1.451
+epoch: 177, error: 1.447
+epoch: 178, error: 1.444
+epoch: 179, error: 1.440
+epoch: 180, error: 1.436
+epoch: 181, error: 1.433
+epoch: 182, error: 1.429
+epoch: 183, error: 1.425
+epoch: 184, error: 1.422
+epoch: 185, error: 1.419
+epoch: 186, error: 1.415
+epoch: 187, error: 1.412
+epoch: 188, error: 1.409
+epoch: 189, error: 1.406
+epoch: 190, error: 1.402
+epoch: 191, error: 1.399
+epoch: 192, error: 1.396
+epoch: 193, error: 1.393
+epoch: 194, error: 1.390
+epoch: 195, error: 1.387
+epoch: 196, error: 1.385
+epoch: 197, error: 1.382
+epoch: 198, error: 1.379
+epoch: 199, error: 1.376
+epoch: 200, error: 1.373
+epoch: 201, error: 1.371
+epoch: 202, error: 1.368
+epoch: 203, error: 1.365
+epoch: 204, error: 1.363
+epoch: 205, error: 1.360
+epoch: 206, error: 1.358
+epoch: 207, error: 1.355
+epoch: 208, error: 1.353
+epoch: 209, error: 1.350
+epoch: 210, error: 1.348
+epoch: 211, error: 1.346
+epoch: 212, error: 1.343
+epoch: 213, error: 1.341
+epoch: 214, error: 1.339
+epoch: 215, error: 1.336
+epoch: 216, error: 1.334
+epoch: 217, error: 1.332
+epoch: 218, error: 1.330
+epoch: 219, error: 1.328
+epoch: 220, error: 1.326
+epoch: 221, error: 1.324
+epoch: 222, error: 1.321
+epoch: 223, error: 1.319
+epoch: 224, error: 1.317
+epoch: 225, error: 1.315
+epoch: 226, error: 1.313
+epoch: 227, error: 1.312
+epoch: 228, error: 1.310
+epoch: 229, error: 1.308
+epoch: 230, error: 1.306
+epoch: 231, error: 1.304
+epoch: 232, error: 1.302
+epoch: 233, error: 1.300
+epoch: 234, error: 1.299
+epoch: 235, error: 1.297
+epoch: 236, error: 1.295
+epoch: 237, error: 1.293
+epoch: 238, error: 1.292
+epoch: 239, error: 1.290
+epoch: 240, error: 1.288
+epoch: 241, error: 1.287
+epoch: 242, error: 1.285
+epoch: 243, error: 1.283
+epoch: 244, error: 1.282
+epoch: 245, error: 1.280
+epoch: 246, error: 1.278
+epoch: 247, error: 1.277
+epoch: 248, error: 1.275
+epoch: 249, error: 1.274
+epoch: 250, error: 1.272
+epoch: 251, error: 1.271
+epoch: 252, error: 1.269
+epoch: 253, error: 1.268
+epoch: 254, error: 1.266
+epoch: 255, error: 1.265
+epoch: 256, error: 1.264
+epoch: 257, error: 1.262
+epoch: 258, error: 1.261
+epoch: 259, error: 1.259
+epoch: 260, error: 1.258
+epoch: 261, error: 1.257
+epoch: 262, error: 1.255
+epoch: 263, error: 1.254
+epoch: 264, error: 1.253
+epoch: 265, error: 1.251
+epoch: 266, error: 1.250
+epoch: 267, error: 1.249
+epoch: 268, error: 1.248
+epoch: 269, error: 1.246
+epoch: 270, error: 1.245
+epoch: 271, error: 1.244
+epoch: 272, error: 1.243
+epoch: 273, error: 1.241
+epoch: 274, error: 1.240
+epoch: 275, error: 1.239
+epoch: 276, error: 1.238
+epoch: 277, error: 1.237
+epoch: 278, error: 1.236
+epoch: 279, error: 1.234
+epoch: 280, error: 1.233
+epoch: 281, error: 1.232
+epoch: 282, error: 1.231
+epoch: 283, error: 1.230
+epoch: 284, error: 1.229
+epoch: 285, error: 1.228
+epoch: 286, error: 1.227
+epoch: 287, error: 1.226
+epoch: 288, error: 1.225
+epoch: 289, error: 1.224
+epoch: 290, error: 1.223
+epoch: 291, error: 1.222
+epoch: 292, error: 1.221
+epoch: 293, error: 1.220
+epoch: 294, error: 1.219
+epoch: 295, error: 1.218
+epoch: 296, error: 1.217
+epoch: 297, error: 1.216
+epoch: 298, error: 1.215
+epoch: 299, error: 1.214
+epoch: 300, error: 1.213
+epoch: 301, error: 1.212
+epoch: 302, error: 1.211
+epoch: 303, error: 1.210
+epoch: 304, error: 1.209
+epoch: 305, error: 1.208
+epoch: 306, error: 1.207
+epoch: 307, error: 1.206
+epoch: 308, error: 1.205
+epoch: 309, error: 1.205
+epoch: 310, error: 1.204
+epoch: 311, error: 1.203
+epoch: 312, error: 1.202
+epoch: 313, error: 1.201
+epoch: 314, error: 1.200
+epoch: 315, error: 1.199
+epoch: 316, error: 1.199
+epoch: 317, error: 1.198
+epoch: 318, error: 1.197
+epoch: 319, error: 1.196
+epoch: 320, error: 1.195
+epoch: 321, error: 1.194
+epoch: 322, error: 1.194
+epoch: 323, error: 1.193
+epoch: 324, error: 1.192
+epoch: 325, error: 1.191
+epoch: 326, error: 1.191
+epoch: 327, error: 1.190
+epoch: 328, error: 1.189
+epoch: 329, error: 1.188
+epoch: 330, error: 1.188
+epoch: 331, error: 1.187
+epoch: 332, error: 1.186
+epoch: 333, error: 1.185
+epoch: 334, error: 1.185
+epoch: 335, error: 1.184
+epoch: 336, error: 1.183
+epoch: 337, error: 1.182
+epoch: 338, error: 1.182
+epoch: 339, error: 1.181
+epoch: 340, error: 1.180
+epoch: 341, error: 1.180
+epoch: 342, error: 1.179
+epoch: 343, error: 1.178
+epoch: 344, error: 1.178
+epoch: 345, error: 1.177
+epoch: 346, error: 1.176
+epoch: 347, error: 1.176
+epoch: 348, error: 1.175
+epoch: 349, error: 1.174
+epoch: 350, error: 1.174
+epoch: 351, error: 1.173
+epoch: 352, error: 1.172
+epoch: 353, error: 1.172
+epoch: 354, error: 1.171
+epoch: 355, error: 1.170
+epoch: 356, error: 1.170
+epoch: 357, error: 1.169
+epoch: 358, error: 1.169
+epoch: 359, error: 1.168
+epoch: 360, error: 1.167
+epoch: 361, error: 1.167
+epoch: 362, error: 1.166
+epoch: 363, error: 1.166
+epoch: 364, error: 1.165
+epoch: 365, error: 1.164
+epoch: 366, error: 1.164
+epoch: 367, error: 1.163
+epoch: 368, error: 1.163
+epoch: 369, error: 1.162
+epoch: 370, error: 1.162
+epoch: 371, error: 1.161
+epoch: 372, error: 1.160
+epoch: 373, error: 1.160
+epoch: 374, error: 1.159
+epoch: 375, error: 1.159
+epoch: 376, error: 1.158
+epoch: 377, error: 1.158
+epoch: 378, error: 1.157
+epoch: 379, error: 1.157
+epoch: 380, error: 1.156
+epoch: 381, error: 1.156
+epoch: 382, error: 1.155
+epoch: 383, error: 1.155
+epoch: 384, error: 1.154
+epoch: 385, error: 1.153
+epoch: 386, error: 1.153
+epoch: 387, error: 1.152
+epoch: 388, error: 1.152
+epoch: 389, error: 1.151
+epoch: 390, error: 1.151
+epoch: 391, error: 1.150
+epoch: 392, error: 1.150
+epoch: 393, error: 1.149
+epoch: 394, error: 1.149
+epoch: 395, error: 1.149
+epoch: 396, error: 1.148
+epoch: 397, error: 1.148
+epoch: 398, error: 1.147
+epoch: 399, error: 1.147
+epoch: 400, error: 1.146
+epoch: 401, error: 1.146
+epoch: 402, error: 1.145
+epoch: 403, error: 1.145
+epoch: 404, error: 1.144
+epoch: 405, error: 1.144
+epoch: 406, error: 1.143
+epoch: 407, error: 1.143
+epoch: 408, error: 1.143
+epoch: 409, error: 1.142
+epoch: 410, error: 1.142
+epoch: 411, error: 1.141
+epoch: 412, error: 1.141
+epoch: 413, error: 1.140
+epoch: 414, error: 1.140
+epoch: 415, error: 1.139
+epoch: 416, error: 1.139
+epoch: 417, error: 1.139
+epoch: 418, error: 1.138
+epoch: 419, error: 1.138
+epoch: 420, error: 1.137
+epoch: 421, error: 1.137
+epoch: 422, error: 1.137
+epoch: 423, error: 1.136
+epoch: 424, error: 1.136
+epoch: 425, error: 1.135
+epoch: 426, error: 1.135
+epoch: 427, error: 1.134
+epoch: 428, error: 1.134
+epoch: 429, error: 1.134
+epoch: 430, error: 1.133
+epoch: 431, error: 1.133
+epoch: 432, error: 1.133
+epoch: 433, error: 1.132
+epoch: 434, error: 1.132
+epoch: 435, error: 1.131
+epoch: 436, error: 1.131
+epoch: 437, error: 1.131
+epoch: 438, error: 1.130
+epoch: 439, error: 1.130
+epoch: 440, error: 1.129
+epoch: 441, error: 1.129
+epoch: 442, error: 1.129
+epoch: 443, error: 1.128
+epoch: 444, error: 1.128
+epoch: 445, error: 1.128
+epoch: 446, error: 1.127
+epoch: 447, error: 1.127
+epoch: 448, error: 1.127
+epoch: 449, error: 1.126
+epoch: 450, error: 1.126
+epoch: 451, error: 1.126
+epoch: 452, error: 1.125
+epoch: 453, error: 1.125
+epoch: 454, error: 1.124
+epoch: 455, error: 1.124
+epoch: 456, error: 1.124
+epoch: 457, error: 1.123
+epoch: 458, error: 1.123
+epoch: 459, error: 1.123
+epoch: 460, error: 1.122
+epoch: 461, error: 1.122
+epoch: 462, error: 1.122
+epoch: 463, error: 1.121
+epoch: 464, error: 1.121
+epoch: 465, error: 1.121
+epoch: 466, error: 1.120
+epoch: 467, error: 1.120
+epoch: 468, error: 1.120
+epoch: 469, error: 1.119
+epoch: 470, error: 1.119
+epoch: 471, error: 1.119
+epoch: 472, error: 1.119
+epoch: 473, error: 1.118
+epoch: 474, error: 1.118
+epoch: 475, error: 1.118
+epoch: 476, error: 1.117
+epoch: 477, error: 1.117
+epoch: 478, error: 1.117
+epoch: 479, error: 1.116
+epoch: 480, error: 1.116
+epoch: 481, error: 1.116
+epoch: 482, error: 1.115
+epoch: 483, error: 1.115
+epoch: 484, error: 1.115
+epoch: 485, error: 1.115
+epoch: 486, error: 1.114
+epoch: 487, error: 1.114
+epoch: 488, error: 1.114
+epoch: 489, error: 1.113
+epoch: 490, error: 1.113
+epoch: 491, error: 1.113
+epoch: 492, error: 1.113
+epoch: 493, error: 1.112
+epoch: 494, error: 1.112
+epoch: 495, error: 1.112
+epoch: 496, error: 1.111
+epoch: 497, error: 1.111
+epoch: 498, error: 1.111
+epoch: 499, error: 1.111
+--------------
+Layer:  0
+Weights: 
+[[ 0.0109363   1.38723206  0.43579969 ... -0.27913495  0.05777903
+   0.03789123]
+ [ 0.19393302 -0.43926512 -0.40103969 ... -0.09036075 -0.18100181
+   0.17170153]
+ [ 0.15734779 -2.29741813 -2.20129356 ...  1.96422787  0.6243612
+   0.28551959]
+ ...
+ [-0.02225076 -0.17235709 -0.45416123 ...  0.02736879 -0.40415801
+  -0.22432614]
+ [-0.02225063 -0.17235642 -0.45416224 ...  0.02736511 -0.40415602
+  -0.22432457]
+ [-0.02225062 -0.17235632 -0.45416241 ...  0.02736448 -0.40415573
+  -0.22432432]]
+--------------
+Layer:  1
+Weights: 
+[[ 1.93863624e-01  4.11330080e-01  2.43268299e+00  7.39214918e+00
+  -2.68414556e+00 -7.43219256e+00 -3.68448059e+00 -1.46210259e+00
+  -1.52373693e+00 -2.10455813e+00 -1.29905974e+00 -4.20733817e-01
+  -2.97938446e-01 -3.62030491e-01 -3.79902599e-01 -3.81372725e-01
+  -3.81572691e-01 -3.81669362e-01 -3.81697484e-01 -3.81702852e-01]
+ [-7.04932788e+00 -3.95627238e+00  4.53367498e+00  2.72412244e+00
+  -1.19488929e-01  1.07143282e-02  2.46433925e+00  2.53783872e+00
+   1.81275336e-01 -9.96361305e-01 -7.27125359e-01 -1.24120798e-03
+   5.37944520e-01  7.86396815e-01  8.61222214e-01  8.72881275e-01
+   8.73916101e-01  8.73957489e-01  8.73954195e-01  8.73953373e-01]
+ [-2.37454024e+00  1.64744627e+00  6.30029386e+00  3.17652256e+00
+   3.63383037e+00  1.70171255e+00 -2.53172011e+00 -2.47037766e+00
+  -2.10187411e+00 -1.46073784e+00 -1.45750346e+00 -1.94131868e+00
+  -2.20140506e+00 -2.28627390e+00 -2.30367993e+00 -2.30617298e+00
+  -2.30633345e+00 -2.30629975e+00 -2.30628671e+00 -2.30628422e+00]
+ [-5.69308109e-01  3.94325827e+00 -2.47784818e+00 -8.56265156e+00
+   1.10810046e+00  4.47773674e+00 -9.81272454e-01 -1.98182456e+00
+  -1.59085598e+00 -2.15366429e+00 -2.01827428e+00 -1.73288528e+00
+  -1.66787845e+00 -1.64761259e+00 -1.63721609e+00 -1.63516718e+00
+  -1.63493912e+00 -1.63493090e+00 -1.63493315e+00 -1.63493374e+00]
+ [-3.63015891e+00 -5.00664924e+00 -4.67092944e+00 -3.01010718e+00
+  -2.48298761e+00 -2.29231535e+00 -1.89427076e+00  1.38909641e+00
+   2.26637198e+00  2.66970454e+00  2.71378486e+00  1.90508737e+00
+   1.10336264e+00  6.93578464e-01  5.80592046e-01  5.63776133e-01
+   5.62350906e-01  5.62310574e-01  5.62319790e-01  5.62321757e-01]
+ [-1.88721015e+00  1.77263704e+00 -4.29113256e+00 -4.77247813e+00
+  -3.72438494e+00  2.83404554e+00  3.20641970e+00 -8.01381848e-01
+  -3.63104400e+00 -3.36675786e+00 -1.72319143e+00 -2.39339973e-01
+   6.60609116e-01  9.59817804e-01  1.00943716e+00  1.01433395e+00
+   1.01453756e+00  1.01451727e+00  1.01451222e+00  1.01451165e+00]
+ [-7.51244103e-01 -6.30365537e-01  4.60207950e+00 -3.32218021e+00
+  -4.62228410e+00 -3.93728814e+00 -4.51777146e+00 -3.87860018e+00
+  -3.67506323e+00 -1.69586794e+00 -2.08726606e-01  4.37426091e-01
+   1.02331135e+00  1.32086821e+00  1.38973073e+00  1.39863316e+00
+   1.39937673e+00  1.39943339e+00  1.39944113e+00  1.39944260e+00]
+ [-2.34875904e+00 -5.86162191e+00 -5.72664192e+00  2.62179982e+00
+   4.36826317e+00  1.85766982e+00  2.09126423e-01 -1.13872664e+00
+  -1.85140470e+00 -1.37816904e+00 -1.06191064e+00 -1.11369987e+00
+  -1.19300413e+00 -1.23355502e+00 -1.24399435e+00 -1.24557842e+00
+  -1.24571326e+00 -1.24571416e+00 -1.24571223e+00 -1.24571182e+00]
+ [ 1.15817957e+00  4.80256113e+00  5.01106115e-01 -7.22577212e+00
+  -5.93581445e+00 -4.65641285e+00 -3.66399261e+00 -1.84879444e+00
+   1.88357403e-01  1.38220923e+00  1.66936053e-01 -1.14201668e+00
+  -1.55508446e+00 -1.64961431e+00 -1.67289454e+00 -1.67651163e+00
+  -1.67675550e+00 -1.67673237e+00 -1.67672238e+00 -1.67672056e+00]
+ [ 2.82762238e+00 -4.35742450e+00 -5.27310484e+00 -4.08219568e+00
+  -5.56684873e+00 -2.69379112e+00  1.21020549e+00 -5.57903078e-01
+  -1.15698492e+00 -2.52891395e+00 -2.99831178e+00 -2.12747508e+00
+  -1.38364647e+00 -1.06959252e+00 -1.00251691e+00 -9.94669219e-01
+  -9.94146949e-01 -9.94155462e-01 -9.94163651e-01 -9.94165051e-01]]
+--------------
+Expected: 2, Got: 2
+Expected: 2, Got: 2
+Expected: 2, Got: 2
+Expected: 6, Got: 6
+Expected: 6, Got: 6
+Expected: 7, Got: 7
+Expected: 9, Got: 1
+Expected: 4, Got: 4
+Expected: 1, Got: 1
+Expected: 1, Got: 1
+Expected: 8, Got: 8
+Expected: 7, Got: 2
+Expected: 1, Got: 1
+Expected: 5, Got: 5
+Expected: 8, Got: 8
+Expected: 1, Got: 1
+Expected: 5, Got: 5
+Expected: 6, Got: 6
+Expected: 0, Got: 0
+Expected: 7, Got: 7
+Expected: 6, Got: 6
+Accuracy:  0.9047619047619048
+
+################################################
+
+epoch: 0, error: 188.389
+epoch: 1, error: 175.911
+epoch: 2, error: 174.999
+epoch: 3, error: 173.973
+epoch: 4, error: 173.104
+epoch: 5, error: 172.580
+epoch: 6, error: 172.312
+epoch: 7, error: 172.135
+epoch: 8, error: 171.940
+epoch: 9, error: 171.587
+epoch: 10, error: 170.782
+epoch: 11, error: 168.936
+epoch: 12, error: 165.428
+epoch: 13, error: 161.014
+epoch: 14, error: 157.115
+epoch: 15, error: 153.717
+epoch: 16, error: 149.969
+epoch: 17, error: 144.895
+epoch: 18, error: 136.846
+epoch: 19, error: 126.027
+epoch: 20, error: 116.057
+epoch: 21, error: 107.159
+epoch: 22, error: 98.838
+epoch: 23, error: 91.510
+epoch: 24, error: 85.144
+epoch: 25, error: 79.177
+epoch: 26, error: 73.071
+epoch: 27, error: 66.672
+epoch: 28, error: 60.354
+epoch: 29, error: 54.488
+epoch: 30, error: 49.029
+epoch: 31, error: 43.886
+epoch: 32, error: 39.069
+epoch: 33, error: 34.468
+epoch: 34, error: 30.195
+epoch: 35, error: 26.461
+epoch: 36, error: 23.311
+epoch: 37, error: 20.701
+epoch: 38, error: 18.576
+epoch: 39, error: 16.867
+epoch: 40, error: 15.488
+epoch: 41, error: 14.358
+epoch: 42, error: 13.414
+epoch: 43, error: 12.608
+epoch: 44, error: 11.906
+epoch: 45, error: 11.287
+epoch: 46, error: 10.733
+epoch: 47, error: 10.234
+epoch: 48, error: 9.783
+epoch: 49, error: 9.372
+epoch: 50, error: 8.996
+epoch: 51, error: 8.650
+epoch: 52, error: 8.329
+epoch: 53, error: 8.027
+epoch: 54, error: 7.736
+epoch: 55, error: 7.446
+epoch: 56, error: 7.113
+epoch: 57, error: 6.611
+epoch: 58, error: 6.089
+epoch: 59, error: 5.713
+epoch: 60, error: 5.403
+epoch: 61, error: 5.129
+epoch: 62, error: 4.881
+epoch: 63, error: 4.653
+epoch: 64, error: 4.441
+epoch: 65, error: 4.242
+epoch: 66, error: 4.050
+epoch: 67, error: 3.863
+epoch: 68, error: 3.678
+epoch: 69, error: 3.495
+epoch: 70, error: 3.317
+epoch: 71, error: 3.149
+epoch: 72, error: 2.996
+epoch: 73, error: 2.856
+epoch: 74, error: 2.730
+epoch: 75, error: 2.615
+epoch: 76, error: 2.511
+epoch: 77, error: 2.415
+epoch: 78, error: 2.327
+epoch: 79, error: 2.245
+epoch: 80, error: 2.170
+epoch: 81, error: 2.099
+epoch: 82, error: 2.033
+epoch: 83, error: 1.971
+epoch: 84, error: 1.913
+epoch: 85, error: 1.858
+epoch: 86, error: 1.807
+epoch: 87, error: 1.758
+epoch: 88, error: 1.711
+epoch: 89, error: 1.667
+epoch: 90, error: 1.626
+epoch: 91, error: 1.586
+epoch: 92, error: 1.548
+epoch: 93, error: 1.512
+epoch: 94, error: 1.477
+epoch: 95, error: 1.444
+epoch: 96, error: 1.412
+epoch: 97, error: 1.382
+epoch: 98, error: 1.353
+epoch: 99, error: 1.325
+epoch: 100, error: 1.298
+epoch: 101, error: 1.272
+epoch: 102, error: 1.247
+epoch: 103, error: 1.223
+epoch: 104, error: 1.200
+epoch: 105, error: 1.178
+epoch: 106, error: 1.156
+epoch: 107, error: 1.136
+epoch: 108, error: 1.115
+epoch: 109, error: 1.096
+epoch: 110, error: 1.077
+epoch: 111, error: 1.059
+epoch: 112, error: 1.041
+epoch: 113, error: 1.024
+epoch: 114, error: 1.008
+epoch: 115, error: 0.992
+epoch: 116, error: 0.976
+epoch: 117, error: 0.961
+epoch: 118, error: 0.947
+epoch: 119, error: 0.932
+epoch: 120, error: 0.918
+epoch: 121, error: 0.905
+epoch: 122, error: 0.892
+epoch: 123, error: 0.879
+epoch: 124, error: 0.867
+epoch: 125, error: 0.855
+epoch: 126, error: 0.843
+epoch: 127, error: 0.831
+epoch: 128, error: 0.820
+epoch: 129, error: 0.809
+epoch: 130, error: 0.799
+epoch: 131, error: 0.788
+epoch: 132, error: 0.778
+epoch: 133, error: 0.768
+epoch: 134, error: 0.759
+epoch: 135, error: 0.749
+epoch: 136, error: 0.740
+epoch: 137, error: 0.731
+epoch: 138, error: 0.722
+epoch: 139, error: 0.714
+epoch: 140, error: 0.706
+epoch: 141, error: 0.697
+epoch: 142, error: 0.689
+epoch: 143, error: 0.681
+epoch: 144, error: 0.674
+epoch: 145, error: 0.666
+epoch: 146, error: 0.659
+epoch: 147, error: 0.652
+epoch: 148, error: 0.645
+epoch: 149, error: 0.638
+epoch: 150, error: 0.631
+epoch: 151, error: 0.624
+epoch: 152, error: 0.618
+epoch: 153, error: 0.611
+epoch: 154, error: 0.605
+epoch: 155, error: 0.599
+epoch: 156, error: 0.593
+epoch: 157, error: 0.587
+epoch: 158, error: 0.581
+epoch: 159, error: 0.575
+epoch: 160, error: 0.570
+epoch: 161, error: 0.564
+epoch: 162, error: 0.559
+epoch: 163, error: 0.554
+epoch: 164, error: 0.548
+epoch: 165, error: 0.543
+epoch: 166, error: 0.538
+epoch: 167, error: 0.533
+epoch: 168, error: 0.528
+epoch: 169, error: 0.524
+epoch: 170, error: 0.519
+epoch: 171, error: 0.514
+epoch: 172, error: 0.510
+epoch: 173, error: 0.505
+epoch: 174, error: 0.501
+epoch: 175, error: 0.497
+epoch: 176, error: 0.492
+epoch: 177, error: 0.488
+epoch: 178, error: 0.484
+epoch: 179, error: 0.480
+epoch: 180, error: 0.476
+epoch: 181, error: 0.472
+epoch: 182, error: 0.468
+epoch: 183, error: 0.464
+epoch: 184, error: 0.461
+epoch: 185, error: 0.457
+epoch: 186, error: 0.453
+epoch: 187, error: 0.450
+epoch: 188, error: 0.446
+epoch: 189, error: 0.443
+epoch: 190, error: 0.439
+epoch: 191, error: 0.436
+epoch: 192, error: 0.433
+epoch: 193, error: 0.429
+epoch: 194, error: 0.426
+epoch: 195, error: 0.423
+epoch: 196, error: 0.420
+epoch: 197, error: 0.417
+epoch: 198, error: 0.414
+epoch: 199, error: 0.410
+epoch: 200, error: 0.408
+epoch: 201, error: 0.405
+epoch: 202, error: 0.402
+epoch: 203, error: 0.399
+epoch: 204, error: 0.396
+epoch: 205, error: 0.393
+epoch: 206, error: 0.390
+epoch: 207, error: 0.388
+epoch: 208, error: 0.385
+epoch: 209, error: 0.382
+epoch: 210, error: 0.380
+epoch: 211, error: 0.377
+epoch: 212, error: 0.375
+epoch: 213, error: 0.372
+epoch: 214, error: 0.370
+epoch: 215, error: 0.367
+epoch: 216, error: 0.365
+epoch: 217, error: 0.362
+epoch: 218, error: 0.360
+epoch: 219, error: 0.358
+epoch: 220, error: 0.355
+epoch: 221, error: 0.353
+epoch: 222, error: 0.351
+epoch: 223, error: 0.349
+epoch: 224, error: 0.347
+epoch: 225, error: 0.344
+epoch: 226, error: 0.342
+epoch: 227, error: 0.340
+epoch: 228, error: 0.338
+epoch: 229, error: 0.336
+epoch: 230, error: 0.334
+epoch: 231, error: 0.332
+epoch: 232, error: 0.330
+epoch: 233, error: 0.328
+epoch: 234, error: 0.326
+epoch: 235, error: 0.324
+epoch: 236, error: 0.322
+epoch: 237, error: 0.320
+epoch: 238, error: 0.318
+epoch: 239, error: 0.316
+epoch: 240, error: 0.315
+epoch: 241, error: 0.313
+epoch: 242, error: 0.311
+epoch: 243, error: 0.309
+epoch: 244, error: 0.308
+epoch: 245, error: 0.306
+epoch: 246, error: 0.304
+epoch: 247, error: 0.302
+epoch: 248, error: 0.301
+epoch: 249, error: 0.299
+epoch: 250, error: 0.297
+epoch: 251, error: 0.296
+epoch: 252, error: 0.294
+epoch: 253, error: 0.293
+epoch: 254, error: 0.291
+epoch: 255, error: 0.289
+epoch: 256, error: 0.288
+epoch: 257, error: 0.286
+epoch: 258, error: 0.285
+epoch: 259, error: 0.283
+epoch: 260, error: 0.282
+epoch: 261, error: 0.280
+epoch: 262, error: 0.279
+epoch: 263, error: 0.277
+epoch: 264, error: 0.276
+epoch: 265, error: 0.275
+epoch: 266, error: 0.273
+epoch: 267, error: 0.272
+epoch: 268, error: 0.270
+epoch: 269, error: 0.269
+epoch: 270, error: 0.268
+epoch: 271, error: 0.266
+epoch: 272, error: 0.265
+epoch: 273, error: 0.264
+epoch: 274, error: 0.262
+epoch: 275, error: 0.261
+epoch: 276, error: 0.260
+epoch: 277, error: 0.259
+epoch: 278, error: 0.257
+epoch: 279, error: 0.256
+epoch: 280, error: 0.255
+epoch: 281, error: 0.254
+epoch: 282, error: 0.252
+epoch: 283, error: 0.251
+epoch: 284, error: 0.250
+epoch: 285, error: 0.249
+epoch: 286, error: 0.248
+epoch: 287, error: 0.247
+epoch: 288, error: 0.245
+epoch: 289, error: 0.244
+epoch: 290, error: 0.243
+epoch: 291, error: 0.242
+epoch: 292, error: 0.241
+epoch: 293, error: 0.240
+epoch: 294, error: 0.239
+epoch: 295, error: 0.238
+epoch: 296, error: 0.237
+epoch: 297, error: 0.236
+epoch: 298, error: 0.234
+epoch: 299, error: 0.233
+epoch: 300, error: 0.232
+epoch: 301, error: 0.231
+epoch: 302, error: 0.230
+epoch: 303, error: 0.229
+epoch: 304, error: 0.228
+epoch: 305, error: 0.227
+epoch: 306, error: 0.226
+epoch: 307, error: 0.225
+epoch: 308, error: 0.224
+epoch: 309, error: 0.223
+epoch: 310, error: 0.222
+epoch: 311, error: 0.222
+epoch: 312, error: 0.221
+epoch: 313, error: 0.220
+epoch: 314, error: 0.219
+epoch: 315, error: 0.218
+epoch: 316, error: 0.217
+epoch: 317, error: 0.216
+epoch: 318, error: 0.215
+epoch: 319, error: 0.214
+epoch: 320, error: 0.213
+epoch: 321, error: 0.212
+epoch: 322, error: 0.212
+epoch: 323, error: 0.211
+epoch: 324, error: 0.210
+epoch: 325, error: 0.209
+epoch: 326, error: 0.208
+epoch: 327, error: 0.207
+epoch: 328, error: 0.207
+epoch: 329, error: 0.206
+epoch: 330, error: 0.205
+epoch: 331, error: 0.204
+epoch: 332, error: 0.203
+epoch: 333, error: 0.202
+epoch: 334, error: 0.202
+epoch: 335, error: 0.201
+epoch: 336, error: 0.200
+epoch: 337, error: 0.199
+epoch: 338, error: 0.199
+epoch: 339, error: 0.198
+epoch: 340, error: 0.197
+epoch: 341, error: 0.196
+epoch: 342, error: 0.196
+epoch: 343, error: 0.195
+epoch: 344, error: 0.194
+epoch: 345, error: 0.193
+epoch: 346, error: 0.193
+epoch: 347, error: 0.192
+epoch: 348, error: 0.191
+epoch: 349, error: 0.190
+epoch: 350, error: 0.190
+epoch: 351, error: 0.189
+epoch: 352, error: 0.188
+epoch: 353, error: 0.188
+epoch: 354, error: 0.187
+epoch: 355, error: 0.186
+epoch: 356, error: 0.186
+epoch: 357, error: 0.185
+epoch: 358, error: 0.184
+epoch: 359, error: 0.184
+epoch: 360, error: 0.183
+epoch: 361, error: 0.182
+epoch: 362, error: 0.182
+epoch: 363, error: 0.181
+epoch: 364, error: 0.180
+epoch: 365, error: 0.180
+epoch: 366, error: 0.179
+epoch: 367, error: 0.178
+epoch: 368, error: 0.178
+epoch: 369, error: 0.177
+epoch: 370, error: 0.177
+epoch: 371, error: 0.176
+epoch: 372, error: 0.175
+epoch: 373, error: 0.175
+epoch: 374, error: 0.174
+epoch: 375, error: 0.173
+epoch: 376, error: 0.173
+epoch: 377, error: 0.172
+epoch: 378, error: 0.172
+epoch: 379, error: 0.171
+epoch: 380, error: 0.171
+epoch: 381, error: 0.170
+epoch: 382, error: 0.169
+epoch: 383, error: 0.169
+epoch: 384, error: 0.168
+epoch: 385, error: 0.168
+epoch: 386, error: 0.167
+epoch: 387, error: 0.167
+epoch: 388, error: 0.166
+epoch: 389, error: 0.165
+epoch: 390, error: 0.165
+epoch: 391, error: 0.164
+epoch: 392, error: 0.164
+epoch: 393, error: 0.163
+epoch: 394, error: 0.163
+epoch: 395, error: 0.162
+epoch: 396, error: 0.162
+epoch: 397, error: 0.161
+epoch: 398, error: 0.161
+epoch: 399, error: 0.160
+epoch: 400, error: 0.160
+epoch: 401, error: 0.159
+epoch: 402, error: 0.159
+epoch: 403, error: 0.158
+epoch: 404, error: 0.158
+epoch: 405, error: 0.157
+epoch: 406, error: 0.157
+epoch: 407, error: 0.156
+epoch: 408, error: 0.156
+epoch: 409, error: 0.155
+epoch: 410, error: 0.155
+epoch: 411, error: 0.154
+epoch: 412, error: 0.154
+epoch: 413, error: 0.153
+epoch: 414, error: 0.153
+epoch: 415, error: 0.152
+epoch: 416, error: 0.152
+epoch: 417, error: 0.151
+epoch: 418, error: 0.151
+epoch: 419, error: 0.150
+epoch: 420, error: 0.150
+epoch: 421, error: 0.150
+epoch: 422, error: 0.149
+epoch: 423, error: 0.149
+epoch: 424, error: 0.148
+epoch: 425, error: 0.148
+epoch: 426, error: 0.147
+epoch: 427, error: 0.147
+epoch: 428, error: 0.146
+epoch: 429, error: 0.146
+epoch: 430, error: 0.146
+epoch: 431, error: 0.145
+epoch: 432, error: 0.145
+epoch: 433, error: 0.144
+epoch: 434, error: 0.144
+epoch: 435, error: 0.143
+epoch: 436, error: 0.143
+epoch: 437, error: 0.143
+epoch: 438, error: 0.142
+epoch: 439, error: 0.142
+epoch: 440, error: 0.141
+epoch: 441, error: 0.141
+epoch: 442, error: 0.141
+epoch: 443, error: 0.140
+epoch: 444, error: 0.140
+epoch: 445, error: 0.139
+epoch: 446, error: 0.139
+epoch: 447, error: 0.139
+epoch: 448, error: 0.138
+epoch: 449, error: 0.138
+epoch: 450, error: 0.137
+epoch: 451, error: 0.137
+epoch: 452, error: 0.137
+epoch: 453, error: 0.136
+epoch: 454, error: 0.136
+epoch: 455, error: 0.136
+epoch: 456, error: 0.135
+epoch: 457, error: 0.135
+epoch: 458, error: 0.134
+epoch: 459, error: 0.134
+epoch: 460, error: 0.134
+epoch: 461, error: 0.133
+epoch: 462, error: 0.133
+epoch: 463, error: 0.133
+epoch: 464, error: 0.132
+epoch: 465, error: 0.132
+epoch: 466, error: 0.131
+epoch: 467, error: 0.131
+epoch: 468, error: 0.131
+epoch: 469, error: 0.130
+epoch: 470, error: 0.130
+epoch: 471, error: 0.130
+epoch: 472, error: 0.129
+epoch: 473, error: 0.129
+epoch: 474, error: 0.129
+epoch: 475, error: 0.128
+epoch: 476, error: 0.128
+epoch: 477, error: 0.128
+epoch: 478, error: 0.127
+epoch: 479, error: 0.127
+epoch: 480, error: 0.127
+epoch: 481, error: 0.126
+epoch: 482, error: 0.126
+epoch: 483, error: 0.126
+epoch: 484, error: 0.125
+epoch: 485, error: 0.125
+epoch: 486, error: 0.125
+epoch: 487, error: 0.124
+epoch: 488, error: 0.124
+epoch: 489, error: 0.124
+epoch: 490, error: 0.123
+epoch: 491, error: 0.123
+epoch: 492, error: 0.123
+epoch: 493, error: 0.122
+epoch: 494, error: 0.122
+epoch: 495, error: 0.122
+epoch: 496, error: 0.122
+epoch: 497, error: 0.121
+epoch: 498, error: 0.121
+epoch: 499, error: 0.121
+--------------
+Layer:  0
+Weights: 
+[[-0.00505342  0.24353656  0.73459856 ... -0.08220915  0.71031598
+   0.32240757]
+ [ 0.15005463 -0.41618713 -0.18435264 ... -0.19983332  0.43857299
+   0.51543759]
+ [ 0.15005539 -0.41839977 -0.35799137 ...  0.29454005  0.10624601
+   0.25301992]
+ ...
+ [ 0.0184806  -0.00546961  0.01196376 ...  0.39128166  0.10597921
+   0.05043461]
+ [ 0.01847997 -0.00542371  0.01201812 ...  0.39127152  0.10595884
+   0.0504296 ]
+ [ 0.01847991 -0.005412    0.0120283  ...  0.39126697  0.10595493
+   0.05042918]]
+--------------
+Layer:  1
+Weights: 
+[[ 2.56352750e-01  1.10677962e+00 -3.95265275e+00  2.93512311e+00
+  -2.38661344e+00 -4.08220153e+00 -3.68938343e+00 -3.04688542e+00
+  -2.83079852e+00 -2.80104898e+00 -1.92090084e+00 -8.58472021e-01
+   1.02899139e-01  8.25923280e-01  1.23543266e+00  1.38240601e+00
+   1.41173675e+00  1.41557294e+00  1.41584986e+00  1.41583844e+00]
+ [-6.87721067e+00 -6.29190976e+00  3.90568340e+00  7.19775363e+00
+  -1.70867817e-01 -3.06511005e+00 -1.17391360e+00 -5.83065170e-01
+  -1.12635566e+00  7.20788959e-01  1.62848061e+00  1.01961653e+00
+   6.06965562e-01  7.07104862e-01  8.79451623e-01  9.36165399e-01
+   9.43179637e-01  9.43179021e-01  9.42976170e-01  9.42918304e-01]
+ [-5.14798467e-01  2.85679021e+00 -3.12447259e-01 -5.23873210e+00
+  -3.06572177e+00 -3.02365320e+00 -4.71050930e+00 -1.63247391e+00
+   2.21044572e+00  3.08655949e+00  2.25057396e+00  1.46694324e+00
+   9.83433916e-01  6.22887293e-01  4.20471741e-01  3.53226495e-01
+   3.39466719e-01  3.37617404e-01  3.37484128e-01  3.37490895e-01]
+ [-2.48730651e+00  4.28832119e+00 -3.33252117e+00 -5.88506366e+00
+  -4.56205454e+00 -3.06340526e+00  8.88075780e-01  4.13719635e+00
+   3.57717759e+00 -5.03559743e-01 -2.18700459e+00 -1.96277445e+00
+  -1.66765835e+00 -1.43672763e+00 -1.32198459e+00 -1.29140691e+00
+  -1.28655359e+00 -1.28602659e+00 -1.28600225e+00 -1.28600706e+00]
+ [-3.15779161e+00 -5.45836707e+00 -3.63085825e+00  3.04866891e+00
+   6.47509908e+00  2.88476228e+00 -1.04300329e+00 -1.61684130e+00
+  -1.42555495e+00 -1.23626857e+00 -1.10182403e+00 -1.03773140e+00
+  -9.94953559e-01 -9.75829846e-01 -9.65136178e-01 -9.60778182e-01
+  -9.60072239e-01 -9.60068618e-01 -9.60089576e-01 -9.60095528e-01]
+ [-3.94041207e-01  1.43030152e+00  5.57363888e+00 -8.16652940e-01
+  -8.40904642e+00 -4.70277691e+00  1.18853284e+00 -5.99264061e-01
+  -2.19210965e+00 -1.67559898e+00 -1.44137867e+00 -1.42122397e+00
+  -1.38914889e+00 -1.39137833e+00 -1.41145291e+00 -1.41993637e+00
+  -1.42089390e+00 -1.42093353e+00 -1.42092178e+00 -1.42091778e+00]
+ [-2.31644220e+00 -6.57267375e-03  5.28727311e+00  4.34139019e+00
+   3.77391203e+00 -6.82643138e-01 -5.80544948e+00 -3.43557581e+00
+  -1.16900481e+00 -1.08885742e+00 -1.30837659e+00 -1.43828162e+00
+  -1.53186687e+00 -1.61919902e+00 -1.67132052e+00 -1.69142237e+00
+  -1.69635236e+00 -1.69708319e+00 -1.69714721e+00 -1.69714775e+00]
+ [-5.24454196e+00 -6.40576702e+00 -5.76945357e+00 -6.88867251e+00
+  -2.26062680e+00  2.07270545e+00  7.09536322e-01  1.17267625e+00
+   1.71340385e+00  8.22461659e-01  4.87091323e-01  8.31640820e-01
+   1.04224993e+00  8.60035948e-01  6.36365980e-01  5.51016624e-01
+   5.35335979e-01  5.33725185e-01  5.33724064e-01  5.33764405e-01]
+ [ 8.73427438e-01  4.34929588e+00 -5.10424495e+00 -5.81853274e+00
+   2.60218085e+00  3.99066635e-01 -4.23294927e+00 -3.46611146e+00
+  -1.72804682e+00 -1.22709608e+00 -1.14578645e+00 -1.14417143e+00
+  -1.16934280e+00 -1.17865019e+00 -1.18810776e+00 -1.19367664e+00
+  -1.19436649e+00 -1.19436333e+00 -1.19434563e+00 -1.19434104e+00]
+ [ 3.07746089e+00 -5.20827936e+00 -5.64647179e+00 -4.39278099e+00
+  -5.81164629e+00 -1.64100617e+00  6.16952991e-01 -2.44818455e+00
+  -2.69319999e+00 -1.19606539e+00 -7.94485602e-01 -9.21173717e-01
+  -9.98145834e-01 -9.11276264e-01 -7.89146942e-01 -7.32271354e-01
+  -7.18936316e-01 -7.16979328e-01 -7.16814435e-01 -7.16815439e-01]]
+--------------
+Expected: 9, Got: 9
+Expected: 6, Got: 5
+Expected: 3, Got: 3
+Expected: 8, Got: 8
+Expected: 6, Got: 6
+Expected: 1, Got: 1
+Expected: 0, Got: 0
+Expected: 7, Got: 7
+Expected: 3, Got: 5
+Expected: 3, Got: 3
+Expected: 5, Got: 5
+Expected: 0, Got: 0
+Expected: 8, Got: 8
+Expected: 2, Got: 2
+Expected: 0, Got: 0
+Expected: 1, Got: 1
+Expected: 1, Got: 1
+Expected: 7, Got: 7
+Expected: 0, Got: 0
+Expected: 0, Got: 0
+Expected: 8, Got: 8
+Accuracy:  0.9047619047619048
+
+################################################
+
+[Finished in 3585.2s]
